@@ -164,3 +164,4 @@ Icon?
 *.orig
 *.rej
 gh-pages-web/
+.claude/
