@@ -12,10 +12,11 @@ import {
   Image,
   Tooltip,
 } from '@chakra-ui/react'
-import { FaPlay, FaCalendarAlt, FaClock, FaHeart, FaShare } from 'react-icons/fa'
+import { FaPlay, FaCalendarAlt, FaClock, FaHeart, FaShare, FaCheck } from 'react-icons/fa'
 import { motion } from 'framer-motion'
 import { memo } from 'react'
 import type { Episode } from '@/types/episode'
+import { useUserPreferences } from '@/contexts/UserPreferencesContext'
 
 interface EpisodeCardProps {
   episode: Episode
@@ -32,13 +33,28 @@ export const EpisodeCard = memo(function EpisodeCard({
   isCurrentlyPlaying,
   isLoading,
 }: EpisodeCardProps) {
+  const { isFavourite, isListened, toggleFavourite, toggleListened } = useUserPreferences()
+  
+  const isFav = isFavourite(episode.id)
+  const isListen = isListened(episode.id)
+  
   console.log('EpisodeCard: Rendering card for:', {
     episodeId: episode.id,
     title: episode.title,
     index,
     hasImage: !!episode.image,
-    available: episode.available
+    available: episode.available,
+    isFavourite: isFav,
+    isListened: isListen
   })
+
+  const handleFavouriteClick = () => {
+    toggleFavourite(episode.id)
+  }
+
+  const handleListenedClick = () => {
+    toggleListened(episode.id)
+  }
   
   return (
     <motion.div
@@ -196,24 +212,48 @@ export const EpisodeCard = memo(function EpisodeCard({
               >
                 {isCurrentlyPlaying ? 'Reproduint' : 'Reproduir'}
               </Button>
-              <Button
-                size="sm"
-                variant="ghost"
-                colorScheme="gray"
-                borderRadius="full"
-                _hover={{ bg: 'gray.100' }}
+              <Tooltip
+                label={isFav ? 'Eliminar dels favorits' : 'Afegir als favorits'}
+                placement="top"
+                hasArrow
               >
-                <Icon as={FaHeart} />
-              </Button>
-              <Button
-                size="sm"
-                variant="ghost"
-                colorScheme="gray"
-                borderRadius="full"
-                _hover={{ bg: 'gray.100' }}
+                <Button
+                  size="sm"
+                  variant={isFav ? 'solid' : 'ghost'}
+                  colorScheme={isFav ? 'red' : 'gray'}
+                  borderRadius="full"
+                  onClick={handleFavouriteClick}
+                  _hover={{ 
+                    bg: isFav ? 'red.600' : 'red.50',
+                    color: isFav ? 'white' : 'red.500',
+                    transform: 'scale(1.1)'
+                  }}
+                  transition="all 0.2s"
+                >
+                  <Icon as={FaHeart} color={isFav ? 'white' : 'red.400'} />
+                </Button>
+              </Tooltip>
+              <Tooltip
+                label={isListen ? 'Marcar com no escoltat' : 'Marcar com escoltat'}
+                placement="top"
+                hasArrow
               >
-                <Icon as={FaShare} />
-              </Button>
+                <Button
+                  size="sm"
+                  variant={isListen ? 'solid' : 'ghost'}
+                  colorScheme={isListen ? 'green' : 'gray'}
+                  borderRadius="full"
+                  onClick={handleListenedClick}
+                  _hover={{ 
+                    bg: isListen ? 'green.600' : 'green.50',
+                    color: isListen ? 'white' : 'green.500',
+                    transform: 'scale(1.1)'
+                  }}
+                  transition="all 0.2s"
+                >
+                  <Icon as={FaCheck} color={isListen ? 'white' : 'green.400'} />
+                </Button>
+              </Tooltip>
             </HStack>
           </VStack>
         </CardBody>

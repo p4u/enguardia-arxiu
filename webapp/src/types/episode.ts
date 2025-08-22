@@ -64,6 +64,10 @@ export interface SearchFilters {
   dateTo?: string
   tags?: string[]
   availableOnly?: boolean
+  favouritesOnly?: boolean
+  listenedOnly?: boolean
+  hideFavourites?: boolean
+  hideListened?: boolean
 }
 
 export interface AudioPlayerState {

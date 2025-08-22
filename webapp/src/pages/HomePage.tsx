@@ -31,11 +31,12 @@ import {
   useBreakpointValue,
 } from '@chakra-ui/react'
 import { SearchIcon, ChevronLeftIcon, ChevronRightIcon } from '@chakra-ui/icons'
-import { FaPlay, FaCalendarAlt, FaClock, FaHeart, FaShare, FaFilter, FaTags, FaTimes } from 'react-icons/fa'
+import { FaPlay, FaCalendarAlt, FaClock, FaHeart, FaShare, FaFilter, FaTags, FaTimes, FaCheck, FaEyeSlash } from 'react-icons/fa'
 import { motion } from 'framer-motion'
 import { useState, useMemo, useCallback, useEffect } from 'react'
 import { useEpisodes } from '@/contexts/EpisodesContext'
 import { useAudioPlayer } from '@/contexts/AudioPlayerContext'
+import { useUserPreferences } from '@/contexts/UserPreferencesContext'
 import { EpisodeCard } from '@/components/EpisodeCard'
 import { useDebounce } from '@/hooks/useDebounce'
 import type { Episode } from '@/types/episode'
@@ -50,13 +51,16 @@ export function HomePage() {
   const episodesContext = useEpisodes()
   const { episodes, isLoading, error } = episodesContext
   const { play, currentEpisode, isPlaying } = useAudioPlayer()
+  const { favourites, listened } = useUserPreferences()
   
   console.log('HomePage: Full useEpisodes context:', episodesContext)
   console.log('HomePage: Rendering with:', {
     episodesCount: episodes.length,
     isLoading,
     error,
-    hasEpisodes: episodes.length > 0
+    hasEpisodes: episodes.length > 0,
+    favouritesCount: favourites.size,
+    listenedCount: listened.size
   })
   
   // Search and filter state
@@ -66,6 +70,12 @@ export function HomePage() {
   const [sortOrder, setSortOrder] = useState<'asc' | 'desc'>('desc') // Default to most recent first
   const [currentPage, setCurrentPage] = useState(1)
   const episodesPerPage = 24 // 8 rows x 3 columns on desktop
+
+  // New filter states
+  const [showFavouritesOnly, setShowFavouritesOnly] = useState(false)
+  const [showListenedOnly, setShowListenedOnly] = useState(false)
+  const [hideFavourites, setHideFavourites] = useState(false)
+  const [hideListened, setHideListened] = useState(false)
 
   // UI state
   const { isOpen: isFiltersOpen, onToggle: onToggleFilters } = useDisclosure()
@@ -188,6 +198,30 @@ export function HomePage() {
         );
         if (!hasAllTags) return false;
       }
+
+      // Favourite/Listened filters
+      const isFav = favourites.has(episode.id)
+      const isListen = listened.has(episode.id)
+
+      // Show only favourites
+      if (showFavouritesOnly && !isFav) {
+        return false;
+      }
+
+      // Show only listened
+      if (showListenedOnly && !isListen) {
+        return false;
+      }
+
+      // Hide favourites
+      if (hideFavourites && isFav) {
+        return false;
+      }
+
+      // Hide listened
+      if (hideListened && isListen) {
+        return false;
+      }
       
       return true;
     });
@@ -199,7 +233,7 @@ export function HomePage() {
     });
     
     return filtered;
-  }, [episodes, debouncedSearchQuery, selectedTags, sortBy, sortOrder]);
+  }, [episodes, debouncedSearchQuery, selectedTags, sortBy, sortOrder, favourites, listened, showFavouritesOnly, showListenedOnly, hideFavourites, hideListened]);
 
   // Pagination logic
   const { paginatedEpisodes, totalPages, startIndex, endIndex } = useMemo(() => {
@@ -233,7 +267,7 @@ export function HomePage() {
   // Reset to first page when filters change
   useEffect(() => {
     setCurrentPage(1)
-  }, [debouncedSearchQuery, selectedTags])
+  }, [debouncedSearchQuery, selectedTags, showFavouritesOnly, showListenedOnly, hideFavourites, hideListened])
 
   const handlePlayEpisode = useCallback((episode: Episode) => {
     play(episode)
@@ -436,6 +470,92 @@ export function HomePage() {
       <Collapse in={isFiltersOpen}>
         <Box bg={filtersBg} p={6} borderRadius="xl" border="1px" borderColor={filtersBorder}>
           <VStack spacing={6} align="stretch">
+            {/* Favourite and Listened Filters */}
+            <Box>
+              <HStack mb={4}>
+                <Icon as={FaHeart} color="red.500" />
+                <Text fontSize="lg" fontWeight="medium">
+                  Filtres de Favorits i Escoltats
+                </Text>
+              </HStack>
+              
+              <Wrap spacing={3}>
+                <WrapItem>
+                  <Button
+                    leftIcon={<Icon as={FaHeart} />}
+                    size="sm"
+                    variant={showFavouritesOnly ? 'solid' : 'outline'}
+                    colorScheme="red"
+                    onClick={() => {
+                      setShowFavouritesOnly(!showFavouritesOnly)
+                      if (!showFavouritesOnly) setHideFavourites(false) // Can't hide and show only at same time
+                    }}
+                    borderRadius="full"
+                    _hover={{ transform: 'scale(1.05)' }}
+                    transition="all 0.2s"
+                  >
+                    Només Favorits ({favourites.size})
+                  </Button>
+                </WrapItem>
+                
+                <WrapItem>
+                  <Button
+                    leftIcon={<Icon as={FaCheck} />}
+                    size="sm"
+                    variant={showListenedOnly ? 'solid' : 'outline'}
+                    colorScheme="green"
+                    onClick={() => {
+                      setShowListenedOnly(!showListenedOnly)
+                      if (!showListenedOnly) setHideListened(false) // Can't hide and show only at same time
+                    }}
+                    borderRadius="full"
+                    _hover={{ transform: 'scale(1.05)' }}
+                    transition="all 0.2s"
+                  >
+                    Només Escoltats ({listened.size})
+                  </Button>
+                </WrapItem>
+                
+                <WrapItem>
+                  <Button
+                    leftIcon={<Icon as={FaEyeSlash} />}
+                    size="sm"
+                    variant={hideFavourites ? 'solid' : 'outline'}
+                    colorScheme="gray"
+                    onClick={() => {
+                      setHideFavourites(!hideFavourites)
+                      if (!hideFavourites) setShowFavouritesOnly(false) // Can't hide and show only at same time
+                    }}
+                    borderRadius="full"
+                    _hover={{ transform: 'scale(1.05)' }}
+                    transition="all 0.2s"
+                  >
+                    Amagar Favorits
+                  </Button>
+                </WrapItem>
+                
+                <WrapItem>
+                  <Button
+                    leftIcon={<Icon as={FaEyeSlash} />}
+                    size="sm"
+                    variant={hideListened ? 'solid' : 'outline'}
+                    colorScheme="gray"
+                    onClick={() => {
+                      setHideListened(!hideListened)
+                      if (!hideListened) setShowListenedOnly(false) // Can't hide and show only at same time
+                    }}
+                    borderRadius="full"
+                    _hover={{ transform: 'scale(1.05)' }}
+                    transition="all 0.2s"
+                  >
+                    Amagar Escoltats
+                  </Button>
+                </WrapItem>
+              </Wrap>
+            </Box>
+
+            <Divider />
+
             {/* Tag Groups */}
             <Box>
               <HStack mb={4}>
