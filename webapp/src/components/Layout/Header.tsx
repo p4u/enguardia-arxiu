@@ -28,7 +28,7 @@ export function Header() {
         <HStack justify="space-between" align="center">
           <RouterLink to="/">
             <Heading size="lg" color="primary.500">
-              🎙️ En Guàrdia
+              🎙️ En Guàrdia Arxiu
             </Heading>
           </RouterLink>
           

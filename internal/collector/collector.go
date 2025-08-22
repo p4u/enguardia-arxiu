@@ -10,7 +10,7 @@ import (
 	"time"
 	"unicode"
 
-	"github.com/p4u/enguardia-web/internal/constants"
+	"github.com/p4u/enguardia-arxiu/internal/constants"
 )
 
 type Episode struct {

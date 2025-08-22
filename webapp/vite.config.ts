@@ -5,7 +5,7 @@ import tsconfigPaths from 'vite-tsconfig-paths'
 // https://vitejs.dev/config/
 export default defineConfig(({ command }) => ({
   plugins: [react(), tsconfigPaths()],
-  base: command === 'build' ? '/enguardia-web/' : '/',
+  base: command === 'build' ? '/enguardia-arxiu/' : '/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',

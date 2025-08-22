@@ -10,7 +10,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/p4u/enguardia-web/internal/collector"
+	"github.com/p4u/enguardia-arxiu/internal/collector"
 )
 
 // TagSystem handles episode tagging functionality

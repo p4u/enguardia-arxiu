@@ -13,8 +13,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/p4u/enguardia-web/internal/collector"
-	"github.com/p4u/enguardia-web/internal/constants"
+	"github.com/p4u/enguardia-arxiu/internal/collector"
+	"github.com/p4u/enguardia-arxiu/internal/constants"
 )
 
 type Storage struct {

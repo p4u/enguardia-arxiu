@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/p4u/enguardia-web/internal/collector"
+	"github.com/p4u/enguardia-arxiu/internal/collector"
 )
 
 // Generator handles the generation of webapp data files

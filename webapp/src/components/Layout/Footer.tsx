@@ -26,7 +26,7 @@ export function Footer() {
       <Container maxW="container.xl">
         <HStack justify="space-between" align="center" wrap="wrap" spacing={4}>
           <Text fontSize="sm" color="gray.600">
-            © 2025 En Guàrdia Scraper v{config.version}
+            © 2025 En Guàrdia Arxiu Scraper v{config.version}
           </Text>
           
           <HStack spacing={4} fontSize="sm" color="gray.600">

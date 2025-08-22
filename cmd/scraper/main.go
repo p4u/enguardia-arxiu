@@ -5,10 +5,10 @@ import (
 	"log"
 	"os"
 
-	"github.com/p4u/enguardia-web/internal/collector"
-	"github.com/p4u/enguardia-web/internal/constants"
-	"github.com/p4u/enguardia-web/internal/generator"
-	"github.com/p4u/enguardia-web/internal/storage"
+	"github.com/p4u/enguardia-arxiu/internal/collector"
+	"github.com/p4u/enguardia-arxiu/internal/constants"
+	"github.com/p4u/enguardia-arxiu/internal/generator"
+	"github.com/p4u/enguardia-arxiu/internal/storage"
 )
 
 func main() {
