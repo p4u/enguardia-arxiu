@@ -32,8 +32,8 @@ webapp/public/images/
 /pkg/
 
 # Generated data files (can be regenerated)
-data/
 test_webapp_data/
+/data/
 
 # =============================================================================
 # DEVELOPMENT FILES

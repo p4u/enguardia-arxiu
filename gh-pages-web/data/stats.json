@@ -1,0 +1,26 @@
+{
+  "totalEpisodes": 1244,
+  "totalDuration": "1110:10:33",
+  "totalSeconds": 3996633,
+  "dateRange": {
+    "earliest": "2001-09-09",
+    "latest": "2025-07-06"
+  },
+  "categories": [
+    "Catalunya Moderna",
+    "Cultura i Societat",
+    "Edat Mitjana",
+    "General",
+    "Guerres i Batalles",
+    "Monarquia",
+    "Personatges",
+    "Segle XX",
+    "Època Romana"
+  ],
+  "audioFormats": [
+    "mp3"
+  ],
+  "totalFileSize": 0,
+  "availableCount": 1244,
+  "lastUpdated": "2025-08-22T15:39:33.952729954+02:00"
+}

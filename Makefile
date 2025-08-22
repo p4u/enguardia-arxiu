@@ -139,6 +139,10 @@ gh-pages-build: scrape-lazy generate-tags generate-data-ghpages build-webapp-ghp
 	@mkdir -p $(GHPAGES_DIR)
 	@echo "Copying webapp build files..."
 	@cp -r $(WEBAPP_DIR)/dist/* $(GHPAGES_DIR)/
+	@echo "Ensuring data directory is properly copied..."
+	@if [ -d "$(WEBAPP_DIR)/dist/data" ]; then \
+		cp -r $(WEBAPP_DIR)/dist/data $(GHPAGES_DIR)/; \
+	fi
 	@echo "Copying local images..."
 	@if [ -d "$(DATA_DIR)" ]; then \
 		mkdir -p $(GHPAGES_DIR)/images; \
