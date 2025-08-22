@@ -13,9 +13,9 @@
     "jsonFile": "vilfred-ricart-i-el-pegaso-z-102.json",
     "available": true,
     "tags": [
+      "economia",
       "politica",
       "cultura",
-      "economia",
       "catalunya",
       "espanya",
       "catalans",
@@ -38,10 +38,10 @@
     "jsonFile": "els-inicis-del-turisme-a-barcelona.json",
     "available": true,
     "tags": [
-      "cultura",
       "politica",
-      "catalunya",
+      "cultura",
       "europa",
+      "catalunya",
       "catalans"
     ],
     "category": "General"
@@ -84,8 +84,8 @@
     "available": true,
     "tags": [
       "economia",
-      "catalunya",
       "espanya",
+      "catalunya",
       "catalans",
       "francs",
       "segle-xix"
@@ -168,9 +168,9 @@
     "jsonFile": "ferran-ii-i-barcelona.json",
     "available": true,
     "tags": [
-      "guerra",
       "politica",
       "cultura",
+      "guerra",
       "catalunya",
       "cristians",
       "guerra-civil",
@@ -193,13 +193,8 @@
     "available": true,
     "tags": [
       "guerra",
-      "politica",
-      "cultura",
-      "economia",
       "catalunya",
-      "francs",
-      "guerra-frances",
-      "segle-xix"
+      "catalans"
     ],
     "category": "Guerres i Batalles"
   },
@@ -218,8 +213,8 @@
     "available": true,
     "tags": [
       "cultura",
-      "politica",
       "economia",
+      "politica",
       "catalunya",
       "catalans",
       "segle-xix"
@@ -240,9 +235,9 @@
     "jsonFile": "eugeni-d-ors.json",
     "available": true,
     "tags": [
+      "biografia",
       "politica",
       "cultura",
-      "biografia",
       "catalunya",
       "romans",
       "catalans",
@@ -323,7 +318,7 @@
       "guerra-segadors",
       "segle-xvii"
     ],
-    "category": "Catalunya Moderna"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "especial-500-programes-des-del-born-centre-cultura",
@@ -357,10 +352,10 @@
     "jsonFile": "espanya-al-país-de-l-opi.json",
     "available": true,
     "tags": [
-      "economia",
       "cultura",
-      "espanya",
-      "asia"
+      "economia",
+      "asia",
+      "espanya"
     ],
     "category": "General"
   },
@@ -453,12 +448,10 @@
     "jsonFile": "en-guardia-de-15-a-16-h-30-10-2016.json",
     "available": true,
     "tags": [
-      "economia",
-      "politica",
-      "francs",
-      "ibers",
-      "edat-moderna",
-      "segle-xix"
+      "societat",
+      "guerra",
+      "romans",
+      "antiguitat"
     ],
     "category": "General"
   },
@@ -498,8 +491,8 @@
     "available": true,
     "tags": [
       "catalunya",
-      "catalans",
       "francs",
+      "catalans",
       "guerra-frances",
       "guerra-civil",
       "segle-xx",
@@ -541,8 +534,10 @@
     "jsonFile": "en-guardia-de-15-a-16-h-18-12-2016.json",
     "available": true,
     "tags": [
+      "societat",
       "guerra",
-      "cultura"
+      "romans",
+      "antiguitat"
     ],
     "category": "General"
   },
@@ -560,14 +555,14 @@
     "jsonFile": "en-guardia-de-15-a-16-h-16-10-2016.json",
     "available": true,
     "tags": [
-      "economia",
       "politica",
+      "economia",
       "francs",
       "ibers",
       "edat-moderna",
       "segle-xix"
     ],
-    "category": "Època Romana"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "en-guardia-de-15-a-16-h-15-01-2017",
@@ -583,10 +578,13 @@
     "jsonFile": "en-guardia-de-15-a-16-h-15-01-2017.json",
     "available": true,
     "tags": [
-      "biografia",
+      "politica",
       "cultura",
-      "catalunya",
-      "musulmans"
+      "arquitectura",
+      "guerra",
+      "europa",
+      "guerra-civil",
+      "segle-xx"
     ],
     "category": "Personatges"
   },
@@ -603,12 +601,6 @@
     "filename": "en-guardia-de-15-a-16-h-13-11-2016.mp3",
     "jsonFile": "en-guardia-de-15-a-16-h-13-11-2016.json",
     "available": true,
-    "tags": [
-      "societat",
-      "guerra",
-      "romans",
-      "antiguitat"
-    ],
     "category": "Cultura i Societat"
   },
   {
@@ -624,6 +616,12 @@
     "filename": "en-guardia-de-15-a-16-h-11-12-2016.mp3",
     "jsonFile": "en-guardia-de-15-a-16-h-11-12-2016.json",
     "available": true,
+    "tags": [
+      "cultura",
+      "biografia",
+      "catalunya",
+      "musulmans"
+    ],
     "category": "Segle XX"
   },
   {
@@ -639,6 +637,12 @@
     "filename": "en-guardia-de-15-a-16-h-09-10-2016.mp3",
     "jsonFile": "en-guardia-de-15-a-16-h-09-10-2016.json",
     "available": true,
+    "tags": [
+      "cultura",
+      "arquitectura",
+      "catalunya",
+      "catalans"
+    ],
     "category": "Monarquia"
   },
   {
@@ -655,11 +659,10 @@
     "jsonFile": "en-guardia-de-15-a-16-h-01-01-2017.json",
     "available": true,
     "tags": [
-      "biografia",
       "cultura",
-      "guerra",
-      "asia",
-      "musulmans"
+      "arquitectura",
+      "catalunya",
+      "catalans"
     ],
     "category": "Guerres i Batalles"
   },
@@ -677,9 +680,10 @@
     "jsonFile": "empúries-durant-la-guerra-civil.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
       "catalunya",
+      "espanya",
+      "europa",
       "catalans",
       "guerra-civil",
       "segle-xx"
@@ -700,15 +704,15 @@
     "jsonFile": "els-últims-emirs-de-valència.json",
     "available": true,
     "tags": [
-      "guerra",
       "politica",
+      "guerra",
       "societat",
       "asia",
       "catalunya",
       "reconquesta",
       "baixa-edat-mitjana"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Monarquia"
   },
   {
     "id": "l-afer-comorera",
@@ -749,16 +753,16 @@
     "jsonFile": "els-xiquets-de-valls-durant-el-franquisme.json",
     "available": true,
     "tags": [
-      "arquitectura",
       "guerra",
       "cultura",
+      "arquitectura",
       "catalunya",
       "catalans",
       "guerra-civil",
-      "segle-xx",
-      "baixa-edat-mitjana"
+      "baixa-edat-mitjana",
+      "segle-xx"
     ],
-    "category": "Segle XX"
+    "category": "Edat Mitjana"
   },
   {
     "id": "els-treballs-femenins-a-mesopot-mia",
@@ -774,8 +778,8 @@
     "jsonFile": "els-treballs-femenins-a-mesopotàmia.json",
     "available": true,
     "tags": [
-      "societat",
       "cultura",
+      "societat",
       "prehistoria"
     ],
     "category": "General"
@@ -860,8 +864,8 @@
       "cultura",
       "catalunya",
       "europa",
-      "catalans",
       "ibers",
+      "catalans",
       "guerra-civil",
       "segle-xx"
     ],
@@ -882,11 +886,7 @@
     "available": true,
     "tags": [
       "guerra",
-      "catalunya",
-      "catalans",
-      "expulsio-moriscos",
       "guerra-civil",
-      "expulsio-jueus",
       "segle-xx"
     ],
     "category": "Segle XX"
@@ -905,14 +905,14 @@
     "jsonFile": "els-primers-ptolemeus.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
       "politica",
+      "cultura",
       "asia",
       "grecs",
       "antiguitat"
     ],
-    "category": "Època Romana"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "els-pobles-del-mar-i-la-crisi-del-1200-ac",
@@ -928,8 +928,8 @@
     "jsonFile": "els-pobles-del-mar-i-la-crisi-del-1200-ac.json",
     "available": true,
     "tags": [
-      "catalunya",
       "asia",
+      "catalunya",
       "prehistoria"
     ],
     "category": "Època Romana"
@@ -952,8 +952,8 @@
       "guerra",
       "europa",
       "catalunya",
-      "catalans",
       "francs",
+      "catalans",
       "guerra-frances",
       "reconquesta",
       "segle-xix"
@@ -975,12 +975,12 @@
     "available": true,
     "tags": [
       "guerra",
-      "politica",
       "cultura",
+      "politica",
       "mediterrani",
       "segle-xx"
     ],
-    "category": "Segle XX"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "els-or-gens-del-park-g-ell",
@@ -996,11 +996,11 @@
     "jsonFile": "els-orígens-del-park-güell.json",
     "available": true,
     "tags": [
-      "cultura",
       "politica",
+      "cultura",
       "catalunya",
-      "romans",
       "catalans",
+      "romans",
       "visigots",
       "ibers",
       "antiguitat"
@@ -1021,11 +1021,11 @@
     "jsonFile": "els-orígens-del-català-escrit.json",
     "available": true,
     "tags": [
-      "cultura",
       "politica",
+      "cultura",
       "catalunya",
-      "romans",
       "catalans",
+      "romans",
       "visigots",
       "ibers",
       "antiguitat"
@@ -1046,8 +1046,8 @@
     "jsonFile": "els-orígens-de-sant-carles-de-la-ràpita.json",
     "available": true,
     "tags": [
-      "cultura",
       "economia",
+      "cultura",
       "america",
       "descobriments"
     ],
@@ -1067,9 +1067,10 @@
     "jsonFile": "els-orígens-de-la-ràdio-a-catalunya.json",
     "available": true,
     "tags": [
-      "cultura",
       "catalunya",
-      "catalans"
+      "catalans",
+      "francs",
+      "segle-xx"
     ],
     "category": "Segle XX"
   },
@@ -1087,9 +1088,13 @@
     "jsonFile": "els-orígens-de-la-francmaçoneria.json",
     "available": true,
     "tags": [
+      "guerra",
+      "politica",
       "cultura",
-      "biografia",
-      "mediterrani"
+      "europa",
+      "catalunya",
+      "catalans",
+      "baixa-edat-mitjana"
     ],
     "category": "Segle XX"
   },
@@ -1112,7 +1117,7 @@
       "francs",
       "segle-xx"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Monarquia"
   },
   {
     "id": "els-or-gens-catalans-del-feixisme-espanyol",
@@ -1128,8 +1133,8 @@
     "jsonFile": "els-orígens-catalans-del-feixisme-espanyol.json",
     "available": true,
     "tags": [
-      "cultura",
       "biografia",
+      "cultura",
       "catalunya",
       "espanya",
       "america",
@@ -1152,8 +1157,8 @@
     "available": true,
     "tags": [
       "europa",
-      "grecs",
       "romans",
+      "grecs",
       "antiguitat"
     ],
     "category": "Època Romana"
@@ -1174,14 +1179,14 @@
     "tags": [
       "cultura",
       "guerra",
+      "politica",
+      "economia",
       "catalunya",
-      "mediterrani",
-      "catalans",
-      "guerra-civil",
-      "reconquesta",
-      "segle-xx"
+      "francs",
+      "guerra-frances",
+      "segle-xix"
     ],
-    "category": "Segle XX"
+    "category": "Època Romana"
   },
   {
     "id": "els-monuments-a-los-ca-dos",
@@ -1220,7 +1225,7 @@
     "jsonFile": "l-alimentació-a-barcelona-s.-xiii-xviii.json",
     "available": true,
     "tags": [
-      "guerra",
+      "politica",
       "cultura",
       "catalunya"
     ],
@@ -1259,9 +1264,9 @@
     "available": true,
     "tags": [
       "guerra",
+      "catalunya",
       "espanya",
       "europa",
-      "catalunya",
       "catalans"
     ],
     "category": "Guerres i Batalles"
@@ -1280,8 +1285,8 @@
     "jsonFile": "els-mestres-de-minyons-a-la-catalunya-moderna.json",
     "available": true,
     "tags": [
-      "societat",
       "politica",
+      "societat",
       "catalunya",
       "catalans"
     ],
@@ -1301,9 +1306,9 @@
     "jsonFile": "els-mercaders-medievals.json",
     "available": true,
     "tags": [
+      "societat",
       "cultura",
       "economia",
-      "societat",
       "baixa-edat-mitjana"
     ],
     "category": "Edat Mitjana"
@@ -1324,11 +1329,11 @@
     "tags": [
       "biografia",
       "catalunya",
-      "catalans",
       "romans",
+      "catalans",
       "ibers",
-      "antiguitat",
-      "baixa-edat-mitjana"
+      "baixa-edat-mitjana",
+      "antiguitat"
     ],
     "category": "Personatges"
   },
@@ -1367,8 +1372,8 @@
     "tags": [
       "politica",
       "economia",
-      "cultura",
       "arquitectura",
+      "cultura",
       "catalunya",
       "catalans",
       "baixa-edat-mitjana"
@@ -1389,8 +1394,8 @@
     "jsonFile": "els-jocs-olímpics-d-atenes-1896.json",
     "available": true,
     "tags": [
-      "cultura",
       "esport",
+      "cultura",
       "catalunya",
       "grecs",
       "antiguitat"
@@ -1411,13 +1416,13 @@
     "jsonFile": "els-jesuïtes-al-japó.json",
     "available": true,
     "tags": [
-      "economia",
       "cultura",
       "arquitectura",
+      "economia",
       "asia",
       "espanya",
-      "expulsio-jueus",
       "expulsio-moriscos",
+      "expulsio-jueus",
       "baixa-edat-mitjana"
     ],
     "category": "Edat Mitjana"
@@ -1456,10 +1461,6 @@
     "filename": "l-alliberament-de-parís-a-l-en-guàrdia.mp3",
     "jsonFile": "l-alliberament-de-parís-a-l-en-guàrdia.json",
     "available": true,
-    "tags": [
-      "guerra",
-      "ibers"
-    ],
     "category": "Guerres i Batalles"
   },
   {
@@ -1478,11 +1479,17 @@
     "tags": [
       "cultura",
       "guerra",
-      "espanya",
       "catalunya",
-      "cristians",
+      "espanya",
+      "europa",
+      "romans",
       "catalans",
-      "segle-xx"
+      "ibers",
+      "francs",
+      "guerra-civil",
+      "antiguitat",
+      "segle-xix",
+      "contemporani"
     ],
     "category": "Segle XX"
   },
@@ -1500,14 +1507,14 @@
     "jsonFile": "victòria-pujolar-la-veu-de-la-pirenaica.json",
     "available": true,
     "tags": [
+      "societat",
       "biografia",
       "politica",
-      "societat",
       "catalunya",
       "espanya",
       "europa",
-      "romans",
       "catalans",
+      "romans",
       "antiguitat"
     ],
     "category": "Personatges"
@@ -1526,10 +1533,10 @@
     "jsonFile": "els-indians-catalans.json",
     "available": true,
     "tags": [
-      "societat",
       "biografia",
-      "catalunya",
+      "societat",
       "espanya",
+      "catalunya",
       "catalans"
     ],
     "category": "General"
@@ -1550,12 +1557,12 @@
     "tags": [
       "politica",
       "catalunya",
-      "grecs",
       "catalans",
       "romans",
+      "grecs",
       "guerra-civil",
-      "antiguitat",
-      "segle-xx"
+      "segle-xx",
+      "antiguitat"
     ],
     "category": "Època Romana"
   },
@@ -1573,11 +1580,11 @@
     "jsonFile": "els-grans-recitals-de-la-transició.json",
     "available": true,
     "tags": [
-      "esport",
+      "guerra",
       "politica",
       "cultura",
       "arquitectura",
-      "guerra",
+      "esport",
       "catalunya",
       "ibers",
       "segle-xx",
@@ -1674,8 +1681,8 @@
       "catalunya",
       "fenicis",
       "ibers",
-      "prehistoria",
-      "antiguitat"
+      "antiguitat",
+      "prehistoria"
     ],
     "category": "General"
   },
@@ -1833,12 +1840,12 @@
     "jsonFile": "els-comtats-catalans-contra-el-califat.json",
     "available": true,
     "tags": [
-      "arquitectura",
       "politica",
+      "arquitectura",
       "catalunya",
       "espanya",
-      "baixa-edat-mitjana",
-      "alta-edat-mitjana"
+      "alta-edat-mitjana",
+      "baixa-edat-mitjana"
     ],
     "category": "Edat Mitjana"
   },
@@ -1856,13 +1863,13 @@
     "jsonFile": "els-claustres-prefabricats.json",
     "available": true,
     "tags": [
-      "cultura",
       "politica",
-      "catalunya",
+      "cultura",
       "mediterrani",
-      "francs",
-      "visigots",
+      "catalunya",
       "catalans",
+      "visigots",
+      "francs",
       "reconquesta"
     ],
     "category": "General"
@@ -1924,8 +1931,8 @@
       "guerra",
       "europa",
       "catalunya",
-      "catalans",
       "francs",
+      "catalans",
       "guerra-frances",
       "reconquesta",
       "segle-xix"
@@ -1946,13 +1953,13 @@
     "jsonFile": "l-art-medieval-a-noruega-i-catalunya.json",
     "available": true,
     "tags": [
-      "religió",
+      "economia",
       "cultura",
-      "catalunya",
       "europa",
-      "cristians",
+      "america",
+      "catalunya",
       "catalans",
-      "baixa-edat-mitjana"
+      "descobriments"
     ],
     "category": "Edat Mitjana"
   },
@@ -1970,8 +1977,8 @@
     "jsonFile": "els-bombardejos-italians-a-barcelona.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
+      "cultura",
       "catalunya",
       "mediterrani",
       "catalans",
@@ -2041,15 +2048,7 @@
     "jsonFile": "els-astròlegs-de-pere-el-cerimoniós.json",
     "available": true,
     "tags": [
-      "biografia",
-      "politica",
-      "cultura",
-      "guerra",
-      "arquitectura",
-      "mediterrani",
-      "espanya",
-      "reconquesta",
-      "baixa-edat-mitjana"
+      "catalunya"
     ],
     "category": "Monarquia"
   },
@@ -2088,8 +2087,8 @@
     "tags": [
       "politica",
       "religió",
-      "cultura",
       "arquitectura",
+      "cultura",
       "catalunya"
     ],
     "category": "Monarquia"
@@ -2109,8 +2108,8 @@
     "available": true,
     "tags": [
       "politica",
-      "catalunya",
-      "europa"
+      "europa",
+      "catalunya"
     ],
     "category": "General"
   },
@@ -2192,10 +2191,10 @@
     "jsonFile": "l-ascens-dels-samurais-al-poder.json",
     "available": true,
     "tags": [
-      "guerra",
-      "politica",
       "cultura",
-      "biografia"
+      "guerra",
+      "biografia",
+      "politica"
     ],
     "category": "General"
   },
@@ -2248,17 +2247,17 @@
     "jsonFile": "el-tour-de-frança-segona-part.json",
     "available": true,
     "tags": [
-      "arquitectura",
-      "politica",
       "cultura",
+      "arquitectura",
       "guerra",
+      "politica",
       "catalunya",
       "espanya",
       "europa",
       "guerra-civil",
       "segle-xx"
     ],
-    "category": "Segle XX"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "el-terratr-mol-de-lisboa-del-1755",
@@ -2274,12 +2273,12 @@
     "jsonFile": "el-terratrèmol-de-lisboa-del-1755.json",
     "available": true,
     "tags": [
-      "cultura",
       "ciencia",
+      "cultura",
+      "espanya",
       "europa",
       "africa",
       "catalunya",
-      "espanya",
       "catalans",
       "ibers"
     ],
@@ -2299,16 +2298,16 @@
     "jsonFile": "el-sufragi-femení-a-la-segona-república.json",
     "available": true,
     "tags": [
-      "politica",
       "religió",
-      "cultura",
       "societat",
+      "politica",
+      "cultura",
       "espanya",
       "cristians",
       "guerra-civil",
       "segle-xx"
     ],
-    "category": "Monarquia"
+    "category": "Segle XX"
   },
   {
     "id": "el-setge-de-malta",
@@ -2346,9 +2345,9 @@
     "jsonFile": "el-setge-de-cardona.json",
     "available": true,
     "tags": [
+      "arquitectura",
       "guerra",
       "politica",
-      "arquitectura",
       "catalunya",
       "catalans",
       "francs",
@@ -2356,7 +2355,7 @@
       "baixa-edat-mitjana",
       "segle-xviii"
     ],
-    "category": "Catalunya Moderna"
+    "category": "Edat Mitjana"
   },
   {
     "id": "el-setge-de-barcelona-del-1651",
@@ -2377,13 +2376,13 @@
       "economia",
       "catalunya",
       "espanya",
-      "catalans",
       "francs",
+      "catalans",
       "guerra-segadors",
       "segle-xvii",
       "segle-xix"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Catalunya Moderna"
   },
   {
     "id": "el-setge-d-atenes",
@@ -2404,7 +2403,7 @@
       "romans",
       "antiguitat"
     ],
-    "category": "Època Romana"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "el-servei-dom-stic",
@@ -2440,8 +2439,8 @@
     "jsonFile": "l-assassinat-de-francesc-layret.json",
     "available": true,
     "tags": [
-      "politica",
       "societat",
+      "politica",
       "cultura",
       "catalunya",
       "francs"
@@ -2466,8 +2465,8 @@
       "societat",
       "politica",
       "catalunya",
-      "ibers",
       "catalans",
+      "ibers",
       "segle-xx"
     ],
     "category": "Segle XX"
@@ -2486,8 +2485,8 @@
     "jsonFile": "el-segon-reich-i-catalunya.json",
     "available": true,
     "tags": [
-      "politica",
       "cultura",
+      "politica",
       "catalunya",
       "europa",
       "catalans",
@@ -2495,7 +2494,7 @@
       "guerra-frances",
       "segle-xix"
     ],
-    "category": "Monarquia"
+    "category": "Època Romana"
   },
   {
     "id": "el-secreter-de-josep-francesc-de-caramany",
@@ -2533,16 +2532,16 @@
     "jsonFile": "el-sacco-de-roma.json",
     "available": true,
     "tags": [
-      "politica",
       "religió",
       "cultura",
+      "politica",
       "catalunya",
       "espanya",
       "europa",
       "romans",
       "cristians",
-      "antiguitat",
-      "edat-moderna"
+      "edat-moderna",
+      "antiguitat"
     ],
     "category": "Època Romana"
   },
@@ -2598,14 +2597,14 @@
     "tags": [
       "biografia",
       "politica",
-      "cultura",
       "arquitectura",
+      "cultura",
       "espanya",
       "musulmans",
       "francs",
       "baixa-edat-mitjana"
     ],
-    "category": "Edat Mitjana"
+    "category": "Personatges"
   },
   {
     "id": "el-programa-nuclear-alemany",
@@ -2626,7 +2625,7 @@
       "europa",
       "segle-xx"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Monarquia"
   },
   {
     "id": "el-presidi-de-montclar-al-canal-d-urgell",
@@ -2648,7 +2647,7 @@
       "catalans",
       "edat-moderna"
     ],
-    "category": "Cultura i Societat"
+    "category": "Catalunya Moderna"
   },
   {
     "id": "el-pelegrinatge-a-sant-pere-de-rodes",
@@ -2664,16 +2663,16 @@
     "jsonFile": "el-pelegrinatge-a-sant-pere-de-rodes.json",
     "available": true,
     "tags": [
-      "religió",
       "cultura",
+      "religió",
       "ciencia",
       "asia",
       "catalunya",
+      "catalans",
       "ibers",
       "romans",
-      "catalans",
-      "antiguitat",
-      "baixa-edat-mitjana"
+      "baixa-edat-mitjana",
+      "antiguitat"
     ],
     "category": "Època Romana"
   },
@@ -2733,9 +2732,9 @@
     "available": true,
     "tags": [
       "cultura",
+      "asia",
       "catalunya",
       "espanya",
-      "asia",
       "catalans"
     ],
     "category": "General"
@@ -2759,8 +2758,8 @@
       "espanya",
       "francs",
       "guerra-civil",
-      "prehistoria",
-      "segle-xix"
+      "segle-xix",
+      "prehistoria"
     ],
     "category": "General"
   },
@@ -2780,8 +2779,8 @@
     "tags": [
       "guerra",
       "biografia",
-      "politica",
       "cultura",
+      "politica",
       "catalunya",
       "mediterrani",
       "romans",
@@ -2805,14 +2804,14 @@
     "jsonFile": "el-papat-de-lleó-xiii-a-pius-xii.json",
     "available": true,
     "tags": [
+      "religió",
       "economia",
       "guerra",
-      "religió",
       "catalunya",
       "mediterrani",
       "cristians",
-      "segle-xix",
-      "segle-xx"
+      "segle-xx",
+      "segle-xix"
     ],
     "category": "Guerres i Batalles"
   },
@@ -2850,10 +2849,10 @@
     "jsonFile": "el-neorealisme-italià.json",
     "available": true,
     "tags": [
-      "guerra",
       "cultura",
-      "europa",
+      "guerra",
       "catalunya",
+      "europa",
       "segle-xx"
     ],
     "category": "Guerres i Batalles"
@@ -2891,12 +2890,10 @@
     "jsonFile": "el-naixement-de-l-òpera.json",
     "available": true,
     "tags": [
-      "economia",
-      "ciencia",
       "cultura",
-      "catalunya",
-      "catalans",
-      "segle-xix"
+      "ciencia",
+      "descobriments",
+      "prehistoria"
     ],
     "category": "Cultura i Societat"
   },
@@ -2914,10 +2911,13 @@
     "jsonFile": "el-naixement-de-l-hemoteràpia-a-catalunya.json",
     "available": true,
     "tags": [
-      "cultura",
       "societat",
+      "arquitectura",
+      "politica",
       "catalunya",
-      "catalans"
+      "espanya",
+      "catalans",
+      "baixa-edat-mitjana"
     ],
     "category": "General"
   },
@@ -2934,12 +2934,6 @@
     "filename": "el-naixement-d-esquerra-republicana-de-catalunya.mp3",
     "jsonFile": "el-naixement-d-esquerra-republicana-de-catalunya.json",
     "available": true,
-    "tags": [
-      "politica",
-      "cultura",
-      "baixa-edat-mitjana",
-      "edat-moderna"
-    ],
     "category": "General"
   },
   {
@@ -2994,10 +2988,9 @@
     "available": true,
     "tags": [
       "religió",
-      "cultura",
       "catalunya",
       "catalans",
-      "francs"
+      "baixa-edat-mitjana"
     ],
     "category": "Edat Mitjana"
   },
@@ -3015,10 +3008,10 @@
     "jsonFile": "el-moble-del-segle-xviii-a-catalunya.json",
     "available": true,
     "tags": [
+      "cultura",
+      "arquitectura",
       "politica",
       "economia",
-      "arquitectura",
-      "cultura",
       "catalunya",
       "catalans",
       "segle-xix",
@@ -3081,8 +3074,8 @@
     "jsonFile": "el-manual-digest-andorrà.json",
     "available": true,
     "tags": [
-      "cultura",
-      "societat"
+      "societat",
+      "cultura"
     ],
     "category": "General"
   },
@@ -3100,8 +3093,8 @@
     "jsonFile": "el-llegat-cultural-de-joan-fuster.json",
     "available": true,
     "tags": [
-      "biografia",
       "cultura",
+      "biografia",
       "catalunya",
       "catalans"
     ],
@@ -3179,8 +3172,8 @@
     "jsonFile": "l-eclosió-dels-atletes-africans.json",
     "available": true,
     "tags": [
-      "esport",
       "cultura",
+      "esport",
       "africa",
       "asia",
       "catalunya"
@@ -3204,12 +3197,12 @@
       "cultura",
       "europa",
       "catalunya",
-      "catalans",
       "romans",
+      "catalans",
       "antiguitat",
       "baixa-edat-mitjana"
     ],
-    "category": "Època Romana"
+    "category": "Edat Mitjana"
   },
   {
     "id": "el-jap-feixista",
@@ -3267,9 +3260,9 @@
     "jsonFile": "el-grup-lone-star.json",
     "available": true,
     "tags": [
-      "politica",
-      "arquitectura",
       "cultura",
+      "arquitectura",
+      "politica",
       "catalunya",
       "baixa-edat-mitjana"
     ],
@@ -3289,11 +3282,11 @@
     "jsonFile": "el-grand-tour-de-josep-anton-de-cabanyes.json",
     "available": true,
     "tags": [
-      "politica",
       "cultura",
+      "politica",
+      "catalunya",
       "europa",
       "mediterrani",
-      "catalunya",
       "romans",
       "francs",
       "antiguitat"
@@ -3337,9 +3330,9 @@
     "jsonFile": "el-gabinet-de-curiositats-de-la-família-salvador.json",
     "available": true,
     "tags": [
-      "societat",
-      "economia",
       "cultura",
+      "economia",
+      "societat",
       "catalunya",
       "ibers",
       "catalans",
@@ -3386,9 +3379,9 @@
     "jsonFile": "el-futbol-al-berlín-dividit.json",
     "available": true,
     "tags": [
-      "esport",
       "politica",
       "cultura",
+      "esport",
       "guerra",
       "catalunya",
       "europa"
@@ -3411,11 +3404,11 @@
     "tags": [
       "economia",
       "guerra",
+      "america",
       "catalunya",
-      "europa",
-      "america"
+      "europa"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Època Romana"
   },
   {
     "id": "l-economia-de-la-mort-al-barroc",
@@ -3451,10 +3444,6 @@
     "jsonFile": "el-ferrocarril-barcelona-mataró.json",
     "available": true,
     "tags": [
-      "economia",
-      "catalunya",
-      "america",
-      "ibers",
       "segle-xix",
       "prehistoria"
     ],
@@ -3474,10 +3463,10 @@
     "jsonFile": "el-fenomen-popular-del-paral-lel.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
-      "europa",
+      "cultura",
       "catalunya",
+      "europa",
       "guerra-civil",
       "segle-xx"
     ],
@@ -3518,11 +3507,12 @@
     "tags": [
       "guerra",
       "politica",
-      "asia",
+      "cultura",
+      "catalunya",
       "guerra-civil",
       "segle-xx"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Segle XX"
   },
   {
     "id": "el-dietari-de-bernat-catal-de-valleriola",
@@ -3538,15 +3528,15 @@
     "jsonFile": "el-dietari-de-bernat-català-de-valleriola.json",
     "available": true,
     "tags": [
-      "politica",
       "arquitectura",
-      "espanya",
+      "politica",
       "catalunya",
+      "espanya",
       "catalans",
       "reconquesta",
       "baixa-edat-mitjana"
     ],
-    "category": "Edat Mitjana"
+    "category": "Monarquia"
   },
   {
     "id": "el-descobriment-de-la-penicil-lina",
@@ -3561,15 +3551,6 @@
     "filename": "el-descobriment-de-la-penicil-lina.mp3",
     "jsonFile": "el-descobriment-de-la-penicil-lina.json",
     "available": true,
-    "tags": [
-      "societat",
-      "economia",
-      "cultura",
-      "catalunya",
-      "ibers",
-      "catalans",
-      "segle-xix"
-    ],
     "category": "Cultura i Societat"
   },
   {
@@ -3586,8 +3567,8 @@
     "jsonFile": "el-culte-als-animals-a-l-antic-egipte.json",
     "available": true,
     "tags": [
-      "grecs",
       "romans",
+      "grecs",
       "antiguitat"
     ],
     "category": "Època Romana"
@@ -3606,14 +3587,14 @@
     "jsonFile": "el-corpus-de-sang.json",
     "available": true,
     "tags": [
+      "arquitectura",
       "politica",
       "cultura",
-      "arquitectura",
       "catalunya",
       "espanya",
       "catalans",
-      "baixa-edat-mitjana",
-      "edat-moderna"
+      "edat-moderna",
+      "baixa-edat-mitjana"
     ],
     "category": "Edat Mitjana"
   },
@@ -3652,8 +3633,8 @@
     "jsonFile": "el-congrés-de-cultura-catalana.json",
     "available": true,
     "tags": [
-      "ciencia",
       "cultura",
+      "ciencia",
       "catalunya",
       "francs",
       "guerra-civil",
@@ -3675,10 +3656,9 @@
     "jsonFile": "l-edifici-històric-de-la-universitat-de-barcelona.json",
     "available": true,
     "tags": [
-      "economia",
       "politica",
+      "cultura",
       "catalunya",
-      "catalans",
       "segle-xviii"
     ],
     "category": "General"
@@ -3720,14 +3700,14 @@
     "jsonFile": "el-comte-sunyer.json",
     "available": true,
     "tags": [
-      "arquitectura",
-      "biografia",
       "politica",
-      "societat",
+      "biografia",
       "religió",
+      "societat",
+      "arquitectura",
       "catalunya",
-      "cristians",
       "catalans",
+      "cristians",
       "baixa-edat-mitjana"
     ],
     "category": "Edat Mitjana"
@@ -3770,12 +3750,10 @@
     "available": true,
     "tags": [
       "guerra",
-      "asia",
+      "politica",
       "espanya",
-      "mediterrani",
       "ibers",
       "francs",
-      "reconquesta",
       "guerra-frances",
       "segle-xix"
     ],
@@ -3840,8 +3818,8 @@
     "jsonFile": "el-cavaller-joan-colom.json",
     "available": true,
     "tags": [
-      "societat",
       "biografia",
+      "societat",
       "catalunya",
       "espanya",
       "america",
@@ -3865,10 +3843,10 @@
     "jsonFile": "el-catalanisme-del-segle-xix.json",
     "available": true,
     "tags": [
-      "arquitectura",
       "cultura",
-      "catalunya",
+      "arquitectura",
       "espanya",
+      "catalunya",
       "catalans",
       "guerra-frances"
     ],
@@ -3912,8 +3890,8 @@
     "jsonFile": "el-cas-rosenberg.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
+      "cultura",
       "segle-xx"
     ],
     "category": "Guerres i Batalles"
@@ -3934,9 +3912,9 @@
     "tags": [
       "cultura",
       "societat",
-      "america",
       "catalunya",
       "europa",
+      "america",
       "descobriments"
     ],
     "category": "General"
@@ -3974,9 +3952,9 @@
     "jsonFile": "el-capità-anton-valls.json",
     "available": true,
     "tags": [
+      "cultura",
       "guerra",
       "politica",
-      "cultura",
       "espanya",
       "ibers",
       "segle-xix"
@@ -3998,8 +3976,8 @@
     "available": true,
     "tags": [
       "catalunya",
-      "catalans",
       "romans",
+      "catalans",
       "prehistoria",
       "antiguitat"
     ],
@@ -4021,8 +3999,8 @@
     "tags": [
       "catalunya",
       "europa",
-      "francs",
-      "catalans"
+      "catalans",
+      "francs"
     ],
     "category": "General"
   },
@@ -4046,10 +4024,10 @@
       "europa",
       "catalans",
       "francs",
-      "guerra-civil",
       "guerra-frances",
-      "segle-xix",
-      "segle-xx"
+      "guerra-civil",
+      "segle-xx",
+      "segle-xix"
     ],
     "category": "Segle XX"
   },
@@ -4076,7 +4054,7 @@
       "reconquesta",
       "segle-xx"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Segle XX"
   },
   {
     "id": "el-boom-de-la-novel-la-llatinoamericana-a-barcelon",
@@ -4092,8 +4070,8 @@
     "jsonFile": "el-boom-de-la-novel-la-llatinoamericana-a-barcelona.json",
     "available": true,
     "tags": [
-      "economia",
       "politica",
+      "economia",
       "catalunya",
       "catalans",
       "segle-xviii"
@@ -4136,10 +4114,10 @@
     "jsonFile": "el-bisbe-irurita.json",
     "available": true,
     "tags": [
-      "economia",
       "arquitectura",
-      "cultura",
       "religió",
+      "cultura",
+      "economia",
       "catalunya",
       "contemporani"
     ],
@@ -4159,9 +4137,9 @@
     "jsonFile": "el-berlín-ocupat-i-la-reunificació.json",
     "available": true,
     "tags": [
-      "cultura",
       "arquitectura",
       "guerra",
+      "cultura",
       "europa",
       "ibers",
       "segle-xx"
@@ -4182,9 +4160,7 @@
     "jsonFile": "l-egiptomania-a-catalunya.json",
     "available": true,
     "tags": [
-      "cultura",
       "catalunya",
-      "europa",
       "catalans"
     ],
     "category": "General"
@@ -4224,8 +4200,8 @@
     "available": true,
     "tags": [
       "cultura",
-      "politica",
       "guerra",
+      "politica",
       "catalunya",
       "catalans",
       "guerra-civil",
@@ -4253,8 +4229,8 @@
       "romans",
       "catalans",
       "prehistoria",
-      "baixa-edat-mitjana",
-      "antiguitat"
+      "antiguitat",
+      "baixa-edat-mitjana"
     ],
     "category": "Edat Mitjana"
   },
@@ -4272,14 +4248,14 @@
     "jsonFile": "dones-militars-a-la-guerra-civil.json",
     "available": true,
     "tags": [
+      "societat",
       "guerra",
       "politica",
       "cultura",
-      "societat",
       "guerra-civil",
       "segle-xx"
     ],
-    "category": "Segle XX"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "diumenge-a-en-gu-rdia-continua-la-transformaci-del",
@@ -4295,8 +4271,10 @@
     "jsonFile": "diumenge-a-en-guàrdia-continua-la-transformació-del-cinema.json",
     "available": true,
     "tags": [
-      "guerra",
-      "politica"
+      "politica",
+      "cultura",
+      "catalunya",
+      "catalans"
     ],
     "category": "General"
   },
@@ -4360,13 +4338,13 @@
       "politica",
       "catalunya",
       "romans",
-      "cristians",
       "visigots",
+      "cristians",
       "catalans",
-      "alta-edat-mitjana",
-      "antiguitat"
+      "antiguitat",
+      "alta-edat-mitjana"
     ],
-    "category": "Monarquia"
+    "category": "Època Romana"
   },
   {
     "id": "dalmau-costa-mestre-de-cerim-nies",
@@ -4425,13 +4403,15 @@
     "jsonFile": "l-electricitat-a-catalunya-el-1929.json",
     "available": true,
     "tags": [
-      "politica",
+      "economia",
       "cultura",
+      "europa",
+      "america",
       "catalunya",
-      "espanya",
-      "catalans"
+      "catalans",
+      "descobriments"
     ],
-    "category": "Segle XX"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "cors-catalans-als-camps-de-concentraci",
@@ -4447,8 +4427,8 @@
     "jsonFile": "cors-catalans-als-camps-de-concentració.json",
     "available": true,
     "tags": [
-      "politica",
       "cultura",
+      "politica",
       "francs",
       "guerra-frances",
       "segle-xix"
@@ -4469,8 +4449,8 @@
     "jsonFile": "copons-pioners-del-comerç-i-la-banca.json",
     "available": true,
     "tags": [
-      "guerra",
       "politica",
+      "guerra",
       "economia",
       "catalunya",
       "espanya",
@@ -4478,7 +4458,7 @@
       "guerra-successio",
       "segle-xviii"
     ],
-    "category": "Catalunya Moderna"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "control-franquista-del-patrimoni-durant-la-guerra-",
@@ -4494,14 +4474,14 @@
     "jsonFile": "control-franquista-del-patrimoni-durant-la-guerra-civil.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
+      "cultura",
       "catalunya",
       "catalans",
       "guerra-civil",
       "segle-xx"
     ],
-    "category": "Segle XX"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "causes-i-efectes-de-la-guerra-civil-catalana",
@@ -4522,8 +4502,8 @@
       "catalunya",
       "catalans",
       "guerra-civil",
-      "baixa-edat-mitjana",
-      "segle-xx"
+      "segle-xx",
+      "baixa-edat-mitjana"
     ],
     "category": "Segle XX"
   },
@@ -4541,14 +4521,9 @@
     "jsonFile": "catòlics-i-laïcitat-a-la-catalunya-del-segle-xx.json",
     "available": true,
     "tags": [
-      "guerra",
-      "politica",
-      "cultura",
       "catalunya",
-      "ibers",
-      "catalans",
-      "guerra-successio",
-      "segle-xviii"
+      "cristians",
+      "catalans"
     ],
     "category": "General"
   },
@@ -4566,14 +4541,9 @@
     "jsonFile": "catalans-a-la-galícia-del-segle-xviii.json",
     "available": true,
     "tags": [
-      "guerra",
-      "politica",
-      "cultura",
       "catalunya",
-      "ibers",
-      "catalans",
-      "guerra-successio",
-      "segle-xviii"
+      "grecs",
+      "antiguitat"
     ],
     "category": "General"
   },
@@ -4654,16 +4624,16 @@
     "jsonFile": "carles-vii-i-la-religió.json",
     "available": true,
     "tags": [
-      "guerra",
       "politica",
-      "espanya",
+      "guerra",
       "catalunya",
-      "cristians",
+      "espanya",
       "ibers",
-      "segle-xix",
-      "edat-moderna"
+      "cristians",
+      "edat-moderna",
+      "segle-xix"
     ],
-    "category": "Monarquia"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "l-emigraci-africana-dels-hom-nids",
@@ -4701,14 +4671,14 @@
     "jsonFile": "carles-montañès-enginyer-i-diputat.json",
     "available": true,
     "tags": [
-      "politica",
       "cultura",
       "economia",
+      "politica",
       "catalunya",
       "espanya",
       "catalans",
-      "prehistoria",
-      "segle-xix"
+      "segle-xix",
+      "prehistoria"
     ],
     "category": "General"
   },
@@ -4784,9 +4754,9 @@
     "jsonFile": "camus-versus-sartre.json",
     "available": true,
     "tags": [
+      "guerra",
       "politica",
       "cultura",
-      "guerra",
       "societat",
       "ibers",
       "segle-xx"
@@ -4829,8 +4799,8 @@
     "tags": [
       "politica",
       "cultura",
-      "romans",
       "ibers",
+      "romans",
       "antiguitat"
     ],
     "category": "Època Romana"
@@ -4849,15 +4819,15 @@
     "jsonFile": "caciquisme-a-la-catalunya-de-la-restauració.json",
     "available": true,
     "tags": [
-      "economia",
       "politica",
       "cultura",
+      "economia",
       "catalunya",
       "europa",
       "catalans",
       "ibers",
-      "contemporani",
-      "segle-xix"
+      "segle-xix",
+      "contemporani"
     ],
     "category": "General"
   },
@@ -4875,9 +4845,9 @@
     "jsonFile": "brigadistes-internacionals.json",
     "available": true,
     "tags": [
+      "cultura",
       "societat",
       "guerra",
-      "cultura",
       "espanya",
       "ibers",
       "guerra-civil",
@@ -4941,17 +4911,13 @@
     "jsonFile": "l-epistolari-de-pere-el-cerimoniós.json",
     "available": true,
     "tags": [
-      "biografia",
       "politica",
-      "cultura",
       "guerra",
-      "arquitectura",
-      "mediterrani",
-      "espanya",
-      "reconquesta",
-      "baixa-edat-mitjana"
+      "cultura",
+      "romans",
+      "antiguitat"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Monarquia"
   },
   {
     "id": "barcelona-governada-per-napole",
@@ -4967,9 +4933,9 @@
     "jsonFile": "barcelona-governada-per-napoleó.json",
     "available": true,
     "tags": [
-      "politica",
-      "societat",
       "guerra",
+      "societat",
+      "politica",
       "religió",
       "cultura",
       "catalunya",
@@ -4994,10 +4960,10 @@
     "jsonFile": "bandolers-mallorquins.json",
     "available": true,
     "tags": [
-      "guerra",
       "cultura",
-      "catalunya",
+      "guerra",
       "mediterrani",
+      "catalunya",
       "catalans",
       "guerra-civil",
       "reconquesta",
@@ -5019,15 +4985,15 @@
     "jsonFile": "baltasar-samper-músic-exiliat.json",
     "available": true,
     "tags": [
-      "guerra",
       "cultura",
+      "guerra",
       "catalunya",
       "europa",
       "catalans",
       "guerra-civil",
       "segle-xx"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Segle XX"
   },
   {
     "id": "balchowsky-el-pianista-brigadista",
@@ -5066,8 +5032,8 @@
       "arquitectura",
       "cultura",
       "catalunya",
-      "visigots",
       "catalans",
+      "visigots",
       "baixa-edat-mitjana"
     ],
     "category": "Edat Mitjana"
@@ -5108,14 +5074,14 @@
     "jsonFile": "aspectes-sanitaris-de-la-batalla-de-l-ebre.json",
     "available": true,
     "tags": [
-      "ciencia",
       "guerra",
+      "ciencia",
       "catalunya",
       "catalans",
       "guerra-civil",
       "segle-xx"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Segle XX"
   },
   {
     "id": "artistes-i-intel-lectuals-a-l-exili-del-1939",
@@ -5153,9 +5119,9 @@
     "available": true,
     "tags": [
       "guerra",
-      "cultura",
       "biografia",
       "politica",
+      "cultura",
       "africa"
     ],
     "category": "Guerres i Batalles"
@@ -5275,14 +5241,11 @@
     "jsonFile": "amants-i-bastards-de-la-corona-d-aragó.json",
     "available": true,
     "tags": [
-      "guerra",
       "politica",
-      "cultura",
-      "catalunya",
-      "mediterrani",
-      "grecs",
+      "societat",
+      "romans",
       "reconquesta",
-      "baixa-edat-mitjana"
+      "antiguitat"
     ],
     "category": "Època Romana"
   },
@@ -5302,15 +5265,15 @@
     "tags": [
       "politica",
       "cultura",
-      "societat",
       "religió",
+      "societat",
       "ciencia",
       "catalunya",
       "catalans",
       "descobriments",
       "edat-moderna"
     ],
-    "category": "Època Romana"
+    "category": "Cultura i Societat"
   },
   {
     "id": "alfons-v-el-magn-nim",
@@ -5326,13 +5289,13 @@
     "jsonFile": "alfons-v-el-magnànim.json",
     "available": true,
     "tags": [
-      "biografia",
-      "cultura",
       "guerra",
       "politica",
-      "catalunya",
+      "biografia",
+      "cultura",
       "europa",
       "mediterrani",
+      "catalunya",
       "catalans"
     ],
     "category": "Guerres i Batalles"
@@ -5351,9 +5314,9 @@
     "jsonFile": "alexander-von-humboldt.json",
     "available": true,
     "tags": [
-      "ciencia",
       "biografia",
       "politica",
+      "ciencia",
       "america",
       "descobriments"
     ],
@@ -5428,14 +5391,14 @@
     "jsonFile": "l-escola-popular-de-guerra.json",
     "available": true,
     "tags": [
-      "guerra",
       "cultura",
+      "guerra",
       "catalunya",
       "espanya",
       "catalans",
       "guerra-civil",
-      "contemporani",
-      "segle-xx"
+      "segle-xx",
+      "contemporani"
     ],
     "category": "Segle XX"
   },
@@ -5510,14 +5473,14 @@
     "jsonFile": "l-espiritisme-a-catalunya-al-segle-xix.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
       "politica",
+      "cultura",
       "catalunya",
-      "europa",
       "catalans",
-      "guerra-civil",
-      "segle-xx"
+      "ibers",
+      "guerra-successio",
+      "segle-xviii"
     ],
     "category": "Segle XX"
   },
@@ -5535,13 +5498,13 @@
     "jsonFile": "l-espoli-franquista-del-moviment-associatiu-i-obrer.json",
     "available": true,
     "tags": [
-      "politica",
       "guerra",
+      "politica",
       "catalunya",
       "guerra-civil",
       "segle-xx"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Segle XX"
   },
   {
     "id": "l-espoli-napole-nic-a-it-lia-i-egipte",
@@ -5558,13 +5521,13 @@
     "available": true,
     "tags": [
       "cultura",
-      "catalunya",
       "espanya",
       "europa",
+      "catalunya",
       "francs",
       "guerra-frances",
-      "segle-xix",
-      "prehistoria"
+      "prehistoria",
+      "segle-xix"
     ],
     "category": "Època Romana"
   },
@@ -5583,8 +5546,8 @@
     "available": true,
     "tags": [
       "guerra",
-      "politica",
       "cultura",
+      "politica",
       "segle-xx"
     ],
     "category": "Guerres i Batalles"
@@ -5624,16 +5587,14 @@
     "jsonFile": "l-evacuació-des-dels-consolats-durant-la-guerra-civil.json",
     "available": true,
     "tags": [
-      "ciencia",
-      "arquitectura",
       "guerra",
+      "cultura",
+      "europa",
       "catalunya",
-      "francs",
       "guerra-civil",
-      "segle-xx",
-      "prehistoria"
+      "segle-xx"
     ],
-    "category": "Segle XX"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "l-evoluci-dels-mapes-de-catalunya",
@@ -5690,16 +5651,16 @@
     "jsonFile": "l-execució-del-coronel-bac-de-roda.json",
     "available": true,
     "tags": [
+      "guerra",
       "cultura",
       "societat",
-      "guerra",
       "catalunya",
-      "catalans",
       "francs",
+      "catalans",
       "guerra-successio",
       "segle-xviii"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Catalunya Moderna"
   },
   {
     "id": "l-exili-de-joaquim-pica-ol-xalabarder",
@@ -5715,13 +5676,13 @@
     "jsonFile": "l-exili-de-joaquim-picañol-xalabarder.json",
     "available": true,
     "tags": [
-      "guerra",
       "politica",
       "cultura",
-      "africa",
+      "guerra",
       "catalunya",
-      "francs",
+      "africa",
       "catalans",
+      "francs",
       "guerra-civil",
       "segle-xx"
     ],
@@ -5741,10 +5702,10 @@
     "jsonFile": "l-exili-i-el-retorn-de-teresa-pàmies.json",
     "available": true,
     "tags": [
-      "politica",
       "cultura",
       "societat",
       "guerra",
+      "politica",
       "america"
     ],
     "category": "Guerres i Batalles"
@@ -5763,16 +5724,16 @@
     "jsonFile": "l-expansió-mediterrània-de-la-corona-d-aragó.json",
     "available": true,
     "tags": [
-      "guerra",
       "politica",
+      "guerra",
       "cultura",
-      "catalunya",
       "mediterrani",
+      "catalunya",
       "grecs",
       "reconquesta",
       "baixa-edat-mitjana"
     ],
-    "category": "Monarquia"
+    "category": "Edat Mitjana"
   },
   {
     "id": "l-expedici-catalana-a-c-rdova-del-1010",
@@ -5791,13 +5752,13 @@
       "politica",
       "religió",
       "catalunya",
-      "ibers",
       "musulmans",
       "cristians",
+      "ibers",
       "alta-edat-mitjana",
       "baixa-edat-mitjana"
     ],
-    "category": "Edat Mitjana"
+    "category": "Monarquia"
   },
   {
     "id": "l-expedici-de-la-kon-tiki",
@@ -5813,8 +5774,11 @@
     "jsonFile": "l-expedició-de-la-kon-tiki.json",
     "available": true,
     "tags": [
-      "america",
-      "descobriments"
+      "politica",
+      "economia",
+      "catalunya",
+      "catalans",
+      "segle-xviii"
     ],
     "category": "General"
   },
@@ -5851,8 +5815,8 @@
     "available": true,
     "tags": [
       "economia",
-      "politica",
       "ciencia",
+      "politica",
       "catalunya",
       "espanya",
       "catalans",
@@ -5876,15 +5840,15 @@
     "jsonFile": "l-exèrcit-espanyol-al-segle-xix.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
       "politica",
-      "america",
+      "cultura",
       "espanya",
+      "america",
       "francs",
       "guerra-frances",
-      "prehistoria",
-      "segle-xix"
+      "segle-xix",
+      "prehistoria"
     ],
     "category": "Guerres i Batalles"
   },
@@ -5902,8 +5866,8 @@
     "jsonFile": "l-exèrcit-revolucionari-d-ajuda-als-treballadors.json",
     "available": true,
     "tags": [
-      "guerra",
       "politica",
+      "guerra",
       "contemporani"
     ],
     "category": "Monarquia"
@@ -5944,8 +5908,8 @@
     "jsonFile": "l-homo-antecessor.json",
     "available": true,
     "tags": [
-      "ciencia",
       "cultura",
+      "ciencia",
       "catalunya",
       "catalans",
       "prehistoria"
@@ -5966,9 +5930,9 @@
     "jsonFile": "l-hospital-militar-de-montserrat.json",
     "available": true,
     "tags": [
+      "guerra",
       "religió",
       "cultura",
-      "guerra",
       "economia",
       "espanya",
       "guerra-civil",
@@ -5991,10 +5955,9 @@
     "jsonFile": "l-humor-gràfic-durant-la-ii-república.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
       "politica",
-      "catalunya",
+      "asia",
       "guerra-civil",
       "segle-xx"
     ],
@@ -6034,8 +5997,8 @@
     "jsonFile": "françois-mitterrand.json",
     "available": true,
     "tags": [
-      "politica",
       "cultura",
+      "politica",
       "europa",
       "guerra-civil",
       "segle-xx"
@@ -6080,7 +6043,9 @@
     "available": true,
     "tags": [
       "guerra",
-      "guerra-civil",
+      "biografia",
+      "catalunya",
+      "catalans",
       "segle-xx"
     ],
     "category": "Personatges"
@@ -6123,12 +6088,12 @@
     "jsonFile": "george-sand-a-mallorca.json",
     "available": true,
     "tags": [
-      "espanya",
-      "europa",
       "mediterrani",
       "catalunya",
-      "francs",
+      "espanya",
+      "europa",
       "romans",
+      "francs",
       "guerra-frances",
       "reconquesta",
       "segle-xix",
@@ -6168,11 +6133,11 @@
     "jsonFile": "l-independentisme-dels-60-i-dels-70.json",
     "available": true,
     "tags": [
-      "cultura",
       "politica",
+      "cultura",
       "catalunya",
-      "catalans",
       "ibers",
+      "catalans",
       "guerra-frances"
     ],
     "category": "General"
@@ -6233,9 +6198,9 @@
     "jsonFile": "l-inici-del-comerç-d-ultramar-al-penedès.json",
     "available": true,
     "tags": [
+      "economia",
       "cultura",
       "ciencia",
-      "economia",
       "america",
       "descobriments",
       "segle-xix"
@@ -6256,13 +6221,13 @@
     "jsonFile": "henry-kissinger.json",
     "available": true,
     "tags": [
-      "biografia",
-      "cultura",
       "guerra",
+      "biografia",
       "politica",
-      "europa",
+      "cultura",
       "america",
       "asia",
+      "europa",
       "descobriments"
     ],
     "category": "Guerres i Batalles"
@@ -6302,11 +6267,6 @@
     "filename": "història-del-tbo.mp3",
     "jsonFile": "història-del-tbo.json",
     "available": true,
-    "tags": [
-      "politica",
-      "catalunya",
-      "francs"
-    ],
     "category": "General"
   },
   {
@@ -6398,9 +6358,9 @@
     "jsonFile": "l-intent-de-detenció-de-joan-granollacs.json",
     "available": true,
     "tags": [
+      "guerra",
       "politica",
       "cultura",
-      "guerra",
       "catalunya",
       "catalans"
     ],
@@ -6441,8 +6401,8 @@
     "available": true,
     "tags": [
       "biografia",
-      "arquitectura",
       "cultura",
+      "arquitectura",
       "catalunya",
       "francs",
       "segle-xvii"
@@ -6486,12 +6446,12 @@
     "available": true,
     "tags": [
       "guerra",
-      "cultura",
       "politica",
+      "cultura",
       "societat",
       "cristians"
     ],
-    "category": "Monarquia"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "joan-or-i-l-origen-de-la-vida",
@@ -6527,9 +6487,9 @@
     "jsonFile": "joan-sales-les-lletres-3.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
       "politica",
+      "cultura",
       "catalunya",
       "catalans",
       "francs",
@@ -6577,10 +6537,10 @@
       "catalans",
       "francs",
       "ibers",
-      "guerra-civil",
       "guerra-frances",
-      "segle-xx",
-      "segle-xix"
+      "guerra-civil",
+      "segle-xix",
+      "segle-xx"
     ],
     "category": "Segle XX"
   },
@@ -6662,16 +6622,16 @@
     "jsonFile": "josep-carner-ribalta.json",
     "available": true,
     "tags": [
-      "guerra",
-      "biografia",
       "politica",
       "cultura",
+      "guerra",
+      "biografia",
       "catalunya",
       "catalans",
       "guerra-civil",
       "segle-xx"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Segle XX"
   },
   {
     "id": "josep-maria-de-sagarra",
@@ -6687,9 +6647,9 @@
     "jsonFile": "josep-maria-de-sagarra.json",
     "available": true,
     "tags": [
-      "politica",
-      "cultura",
       "guerra",
+      "cultura",
+      "politica",
       "catalunya",
       "musulmans",
       "catalans"
@@ -6771,8 +6731,8 @@
     "jsonFile": "josé-de-san-martín.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
+      "cultura",
       "america",
       "catalunya",
       "guerra-frances",
@@ -6794,8 +6754,8 @@
     "jsonFile": "julio-muñoz-ramonet.json",
     "available": true,
     "tags": [
-      "guerra",
       "cultura",
+      "guerra",
       "catalunya",
       "guerra-civil",
       "segle-xx"
@@ -6817,9 +6777,9 @@
     "available": true,
     "tags": [
       "politica",
-      "cultura",
       "economia",
-      "societat"
+      "societat",
+      "cultura"
     ],
     "category": "General"
   },
@@ -6837,8 +6797,8 @@
     "jsonFile": "kheops-i-la-gran-piràmide.json",
     "available": true,
     "tags": [
-      "politica",
-      "biografia"
+      "biografia",
+      "politica"
     ],
     "category": "Monarquia"
   },
@@ -6881,7 +6841,7 @@
       "romans",
       "antiguitat"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Època Romana"
   },
   {
     "id": "tila-i-la-caiguda-de-l-imperi-rom",
@@ -6899,8 +6859,8 @@
     "tags": [
       "guerra",
       "biografia",
-      "asia",
       "catalunya",
+      "asia",
       "romans",
       "antiguitat"
     ],
@@ -6961,7 +6921,7 @@
       "guerra-civil",
       "segle-xx"
     ],
-    "category": "Segle XX"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "el-parlament-de-catalunya-recuperat",
@@ -6979,11 +6939,11 @@
     "tags": [
       "politica",
       "catalunya",
-      "ibers",
       "catalans",
+      "ibers",
       "guerra-civil",
-      "segle-xx",
-      "contemporani"
+      "contemporani",
+      "segle-xx"
     ],
     "category": "Segle XX"
   },
@@ -7025,8 +6985,8 @@
       "politica",
       "cultura",
       "economia",
-      "prehistoria",
-      "segle-xix"
+      "segle-xix",
+      "prehistoria"
     ],
     "category": "Monarquia"
   },
@@ -7065,13 +7025,13 @@
     "tags": [
       "cultura",
       "politica",
-      "africa",
       "catalunya",
       "espanya",
+      "africa",
       "catalans",
       "edat-moderna"
     ],
-    "category": "Època Romana"
+    "category": "Monarquia"
   },
   {
     "id": "l-s-diplom-tic-de-les-galeres",
@@ -7087,9 +7047,9 @@
     "jsonFile": "l-ús-diplomàtic-de-les-galeres.json",
     "available": true,
     "tags": [
-      "guerra",
-      "cultura",
       "politica",
+      "cultura",
+      "guerra",
       "catalunya"
     ],
     "category": "Monarquia"
@@ -7108,14 +7068,14 @@
     "jsonFile": "un-infiltrat-a-l-auditoria-de-guerra.json",
     "available": true,
     "tags": [
+      "guerra",
       "politica",
       "cultura",
-      "guerra",
       "catalunya",
       "guerra-civil",
       "segle-xx"
     ],
-    "category": "Segle XX"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "tycho-brahe",
@@ -7192,9 +7152,9 @@
     "jsonFile": "tintín.json",
     "available": true,
     "tags": [
+      "biografia",
       "cultura",
       "societat",
-      "biografia",
       "catalunya"
     ],
     "category": "General"
@@ -7232,9 +7192,9 @@
     "jsonFile": "testimonis-del-setge-del-1714.json",
     "available": true,
     "tags": [
-      "guerra",
-      "politica",
       "cultura",
+      "politica",
+      "guerra",
       "catalunya",
       "catalans",
       "guerra-successio",
@@ -7256,9 +7216,9 @@
     "jsonFile": "tenochtitlan.json",
     "available": true,
     "tags": [
-      "cultura",
       "ciencia",
       "arquitectura",
+      "cultura",
       "catalunya",
       "america",
       "descobriments"
@@ -7301,12 +7261,12 @@
     "jsonFile": "sinibald-de-mas-a-la-xina.json",
     "available": true,
     "tags": [
-      "cultura",
       "politica",
-      "america",
-      "asia",
+      "cultura",
       "catalunya",
       "espanya",
+      "america",
+      "asia",
       "catalans"
     ],
     "category": "Època Romana"
@@ -7331,7 +7291,7 @@
       "grecs",
       "antiguitat"
     ],
-    "category": "Època Romana"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "la-balaguer-andalusina",
@@ -7347,8 +7307,8 @@
     "jsonFile": "la-balaguer-andalusina.json",
     "available": true,
     "tags": [
-      "cultura",
       "politica",
+      "cultura",
       "musulmans",
       "baixa-edat-mitjana"
     ],
@@ -7407,8 +7367,8 @@
     "available": true,
     "tags": [
       "biografia",
-      "politica",
       "cultura",
+      "politica",
       "musulmans",
       "contemporani"
     ],
@@ -7452,15 +7412,15 @@
     "jsonFile": "sant-ignasi-de-loiola-a-manresa.json",
     "available": true,
     "tags": [
-      "politica",
       "arquitectura",
+      "politica",
       "espanya",
       "cristians",
       "francs",
       "creuades",
       "baixa-edat-mitjana"
     ],
-    "category": "Edat Mitjana"
+    "category": "Monarquia"
   },
   {
     "id": "sant-climent-de-ta-ll-i-la-vall-de-bo",
@@ -7567,7 +7527,7 @@
       "europa",
       "segle-xx"
     ],
-    "category": "Època Romana"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "la-barcelona-de-les-f-briques",
@@ -7583,10 +7543,11 @@
     "jsonFile": "la-barcelona-de-les-fàbriques.json",
     "available": true,
     "tags": [
-      "economia",
-      "politica",
-      "catalunya",
-      "segle-xix"
+      "cultura",
+      "guerra",
+      "fenicis",
+      "romans",
+      "antiguitat"
     ],
     "category": "Monarquia"
   },
@@ -7642,17 +7603,7 @@
     "filename": "retaules-de-l-edat-moderna.mp3",
     "jsonFile": "retaules-de-l-edat-moderna.json",
     "available": true,
-    "tags": [
-      "religió",
-      "cultura",
-      "catalunya",
-      "romans",
-      "catalans",
-      "cristians",
-      "antiguitat",
-      "baixa-edat-mitjana"
-    ],
-    "category": "Edat Mitjana"
+    "category": "Època Romana"
   },
   {
     "id": "receptaris-m-dics-medievals",
@@ -7687,9 +7638,9 @@
     "jsonFile": "ramon-curcó-rubio-indià-i-republicà.json",
     "available": true,
     "tags": [
+      "politica",
       "societat",
       "guerra",
-      "politica",
       "catalunya"
     ],
     "category": "Guerres i Batalles"
@@ -7713,8 +7664,8 @@
       "catalunya",
       "romans",
       "guerra-civil",
-      "antiguitat",
-      "segle-xx"
+      "segle-xx",
+      "antiguitat"
     ],
     "category": "Època Romana"
   },
@@ -7732,13 +7683,13 @@
     "jsonFile": "poema-de-gilgamesh.json",
     "available": true,
     "tags": [
-      "cultura",
       "biografia",
+      "cultura",
       "politica",
-      "catalunya",
       "asia",
-      "romans",
+      "catalunya",
       "catalans",
+      "romans",
       "antiguitat"
     ],
     "category": "Època Romana"
@@ -7760,13 +7711,13 @@
       "guerra",
       "politica",
       "cultura",
+      "mediterrani",
       "catalunya",
       "europa",
-      "mediterrani",
       "reconquesta",
       "baixa-edat-mitjana"
     ],
-    "category": "Edat Mitjana"
+    "category": "Monarquia"
   },
   {
     "id": "pier-paolo-pasolini",
@@ -7803,10 +7754,10 @@
     "jsonFile": "pere-casaldàliga.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
       "biografia",
       "religió",
+      "cultura",
       "america",
       "catalunya",
       "ibers",
@@ -7830,14 +7781,14 @@
     "jsonFile": "la-barcelona-visigòtica.json",
     "available": true,
     "tags": [
-      "cultura",
       "arquitectura",
+      "cultura",
       "catalunya",
+      "romans",
       "cristians",
       "visigots",
-      "romans",
-      "antiguitat",
-      "alta-edat-mitjana"
+      "alta-edat-mitjana",
+      "antiguitat"
     ],
     "category": "Època Romana"
   },
@@ -7855,13 +7806,13 @@
     "jsonFile": "pere-calders.json",
     "available": true,
     "tags": [
+      "cultura",
       "arquitectura",
       "guerra",
-      "cultura",
       "catalunya",
       "guerra-civil",
-      "segle-xx",
-      "baixa-edat-mitjana"
+      "baixa-edat-mitjana",
+      "segle-xx"
     ],
     "category": "Guerres i Batalles"
   },
@@ -7922,9 +7873,9 @@
     "jsonFile": "orígens-del-creixement-econòmic-català.json",
     "available": true,
     "tags": [
-      "politica",
       "economia",
       "cultura",
+      "politica",
       "catalunya",
       "catalans",
       "segle-xix"
@@ -7945,9 +7896,9 @@
     "jsonFile": "orígens-de-l-anarquisme-als-països-catalans.json",
     "available": true,
     "tags": [
+      "cultura",
       "politica",
       "economia",
-      "cultura",
       "ibers",
       "segle-xix"
     ],
@@ -7972,8 +7923,8 @@
       "africa",
       "francs",
       "guerra-frances",
-      "segle-xix",
-      "segle-xx"
+      "segle-xx",
+      "segle-xix"
     ],
     "category": "Guerres i Batalles"
   },
@@ -7991,10 +7942,10 @@
     "jsonFile": "oliver-cromwell-i-la-guerra-civil-anglesa.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
       "biografia",
       "politica",
+      "cultura",
       "catalunya",
       "europa",
       "guerra-civil",
@@ -8017,9 +7968,9 @@
     "available": true,
     "tags": [
       "ciencia",
-      "biografia",
       "politica",
       "cultura",
+      "biografia",
       "romans",
       "antiguitat"
     ],
@@ -8040,8 +7991,8 @@
     "available": true,
     "tags": [
       "economia",
-      "arquitectura",
       "biografia",
+      "arquitectura",
       "segle-xix"
     ],
     "category": "Guerres i Batalles"
@@ -8060,9 +8011,9 @@
     "jsonFile": "napoleó-bonaparte.json",
     "available": true,
     "tags": [
+      "cultura",
       "guerra",
       "politica",
-      "cultura",
       "europa",
       "francs",
       "guerra-frances",
@@ -8084,15 +8035,15 @@
     "jsonFile": "la-basílica-de-sant-miquel-de-termes-a-església.json",
     "available": true,
     "tags": [
-      "religió",
       "cultura",
+      "religió",
       "catalunya",
       "romans",
       "cristians",
-      "baixa-edat-mitjana",
-      "antiguitat"
+      "antiguitat",
+      "baixa-edat-mitjana"
     ],
-    "category": "Edat Mitjana"
+    "category": "Època Romana"
   },
   {
     "id": "montserrat-roig",
@@ -8128,8 +8079,8 @@
     "tags": [
       "cultura",
       "biografia",
-      "catalunya",
       "espanya",
+      "catalunya",
       "catalans",
       "segle-xx"
     ],
@@ -8168,8 +8119,8 @@
     "available": true,
     "tags": [
       "cultura",
-      "europa",
       "asia",
+      "europa",
       "cristians"
     ],
     "category": "General"
@@ -8207,16 +8158,16 @@
     "jsonFile": "mercè-rodoreda-i-armand-obiols.json",
     "available": true,
     "tags": [
+      "politica",
+      "cultura",
       "societat",
       "guerra",
-      "cultura",
-      "politica",
       "europa",
       "francs",
       "guerra-civil",
       "segle-xx"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Segle XX"
   },
   {
     "id": "menjar-i-vestir-a-l-alta-edat-mitjana",
@@ -8274,9 +8225,9 @@
     "jsonFile": "marie-curie.json",
     "available": true,
     "tags": [
+      "ciencia",
       "biografia",
-      "cultura",
-      "ciencia"
+      "cultura"
     ],
     "category": "General"
   },
@@ -8315,14 +8266,14 @@
     "jsonFile": "la-batalla-de-culloden.json",
     "available": true,
     "tags": [
-      "guerra",
       "ciencia",
+      "guerra",
       "europa",
       "ibers",
       "romans",
       "antiguitat"
     ],
-    "category": "Època Romana"
+    "category": "Monarquia"
   },
   {
     "id": "margarida-de-prades",
@@ -8347,7 +8298,7 @@
       "antiguitat",
       "alta-edat-mitjana"
     ],
-    "category": "Època Romana"
+    "category": "Monarquia"
   },
   {
     "id": "marcats-per-merc-rodoreda",
@@ -8363,9 +8314,9 @@
     "jsonFile": "marcats-per-mercè-rodoreda.json",
     "available": true,
     "tags": [
+      "cultura",
       "biografia",
       "ciencia",
-      "cultura",
       "catalunya",
       "catalans"
     ],
@@ -8385,12 +8336,12 @@
     "jsonFile": "manuel-de-pedrolo.json",
     "available": true,
     "tags": [
-      "biografia",
       "cultura",
       "arquitectura",
+      "biografia",
       "ibers",
-      "baixa-edat-mitjana",
-      "edat-moderna"
+      "edat-moderna",
+      "baixa-edat-mitjana"
     ],
     "category": "Personatges"
   },
@@ -8470,9 +8421,9 @@
     "jsonFile": "lucrècia-borja.json",
     "available": true,
     "tags": [
-      "cultura",
-      "politica",
       "societat",
+      "politica",
+      "cultura",
       "europa"
     ],
     "category": "General"
@@ -8491,12 +8442,12 @@
     "jsonFile": "luci-emili-patern-el-centurió-isonenc.json",
     "available": true,
     "tags": [
-      "guerra",
       "biografia",
+      "guerra",
       "romans",
       "antiguitat"
     ],
-    "category": "Època Romana"
+    "category": "Personatges"
   },
   {
     "id": "luci-corneli-sul-la",
@@ -8512,17 +8463,17 @@
     "jsonFile": "luci-corneli-sul-la.json",
     "available": true,
     "tags": [
-      "guerra",
       "biografia",
       "cultura",
+      "guerra",
       "catalunya",
       "romans",
       "grecs",
       "guerra-civil",
-      "antiguitat",
-      "segle-xx"
+      "segle-xx",
+      "antiguitat"
     ],
-    "category": "Segle XX"
+    "category": "Època Romana"
   },
   {
     "id": "louis-pasteur",
@@ -8562,8 +8513,8 @@
       "guerra",
       "francs",
       "guerra-frances",
-      "segle-xx",
-      "segle-xix"
+      "segle-xix",
+      "segle-xx"
     ],
     "category": "Guerres i Batalles"
   },
@@ -8583,13 +8534,13 @@
     "tags": [
       "guerra",
       "catalunya",
-      "romans",
       "fenicis",
+      "romans",
       "guerra-civil",
-      "antiguitat",
-      "segle-xx"
+      "segle-xx",
+      "antiguitat"
     ],
-    "category": "Època Romana"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "locutores-de-r-dio-durant-el-franquisme",
@@ -8605,14 +8556,14 @@
     "jsonFile": "locutores-de-ràdio-durant-el-franquisme.json",
     "available": true,
     "tags": [
-      "arquitectura",
       "guerra",
       "cultura",
+      "arquitectura",
       "catalunya",
       "catalans",
       "guerra-civil",
-      "segle-xx",
-      "baixa-edat-mitjana"
+      "baixa-edat-mitjana",
+      "segle-xx"
     ],
     "category": "Segle XX"
   },
@@ -8630,10 +8581,10 @@
     "jsonFile": "lluís-de-requesens-governador-de-flandes.json",
     "available": true,
     "tags": [
-      "guerra",
-      "cultura",
       "politica",
+      "cultura",
       "societat",
+      "guerra",
       "catalunya",
       "catalans",
       "expulsio-moriscos",
@@ -8655,8 +8606,8 @@
     "jsonFile": "lise-meitner.json",
     "available": true,
     "tags": [
-      "guerra",
-      "cultura"
+      "cultura",
+      "guerra"
     ],
     "category": "Guerres i Batalles"
   },
@@ -8674,9 +8625,9 @@
     "jsonFile": "les-taifes-de-lleida-i-tortosa.json",
     "available": true,
     "tags": [
+      "cultura",
       "guerra",
       "politica",
-      "cultura",
       "catalunya",
       "catalans",
       "guerra-civil",
@@ -8699,10 +8650,10 @@
     "jsonFile": "les-taifes-als-països-catalans-el-segle-xi.json",
     "available": true,
     "tags": [
-      "politica",
       "guerra",
-      "asia",
+      "politica",
       "catalunya",
+      "asia",
       "guerra-civil",
       "segle-xx",
       "baixa-edat-mitjana"
@@ -8752,7 +8703,7 @@
       "guerra-frances",
       "antiguitat"
     ],
-    "category": "Època Romana"
+    "category": "Cultura i Societat"
   },
   {
     "id": "les-primeres-corresponsals-de-guerra",
@@ -8768,8 +8719,8 @@
     "jsonFile": "les-primeres-corresponsals-de-guerra.json",
     "available": true,
     "tags": [
-      "guerra",
       "societat",
+      "guerra",
       "cultura"
     ],
     "category": "Guerres i Batalles"
@@ -8813,13 +8764,13 @@
       "guerra",
       "catalunya",
       "mediterrani",
-      "musulmans",
       "francs",
+      "musulmans",
       "expulsio-moriscos",
-      "baixa-edat-mitjana",
-      "edat-moderna"
+      "edat-moderna",
+      "baixa-edat-mitjana"
     ],
-    "category": "Monarquia"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "les-narracions-hist-riques-de-castellv",
@@ -8835,14 +8786,14 @@
     "jsonFile": "les-narracions-històriques-de-castellví.json",
     "available": true,
     "tags": [
-      "cultura",
       "arquitectura",
+      "cultura",
       "guerra",
       "catalunya",
       "francs",
       "guerra-successio",
-      "segle-xviii",
-      "baixa-edat-mitjana"
+      "baixa-edat-mitjana",
+      "segle-xviii"
     ],
     "category": "Catalunya Moderna"
   },
@@ -8889,7 +8840,7 @@
       "contemporani",
       "segle-xx"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Segle XX"
   },
   {
     "id": "les-mem-ries-d-antoni-feliu-i-codina",
@@ -8905,8 +8856,8 @@
     "jsonFile": "les-memòries-d-antoni-feliu-i-codina.json",
     "available": true,
     "tags": [
-      "cultura",
       "biografia",
+      "cultura",
       "catalunya",
       "guerra-civil",
       "reconquesta",
@@ -8947,11 +8898,11 @@
     "jsonFile": "les-joventuts-llibertàries-de-catalunya.json",
     "available": true,
     "tags": [
-      "guerra",
       "cultura",
+      "guerra",
       "catalunya",
-      "ibers",
       "catalans",
+      "ibers",
       "guerra-civil",
       "segle-xx"
     ],
@@ -8971,8 +8922,8 @@
     "jsonFile": "les-intrigues-del-vaticà.json",
     "available": true,
     "tags": [
-      "guerra",
       "politica",
+      "guerra",
       "europa"
     ],
     "category": "Guerres i Batalles"
@@ -8991,14 +8942,14 @@
     "jsonFile": "les-infermeres-de-l-hospital-internacional-de-vic.json",
     "available": true,
     "tags": [
-      "societat",
       "guerra",
+      "societat",
       "catalunya",
       "catalans",
       "guerra-civil",
       "segle-xx"
     ],
-    "category": "Segle XX"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "les-idees-de-la-il-lustraci",
@@ -9035,8 +8986,8 @@
     "available": true,
     "tags": [
       "guerra",
-      "biografia",
       "cultura",
+      "biografia",
       "catalunya",
       "espanya",
       "catalans",
@@ -9065,7 +9016,7 @@
       "romans",
       "antiguitat"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Època Romana"
   },
   {
     "id": "les-galeres",
@@ -9081,8 +9032,8 @@
     "jsonFile": "les-galeres.json",
     "available": true,
     "tags": [
-      "economia",
       "guerra",
+      "economia",
       "catalunya"
     ],
     "category": "Guerres i Batalles"
@@ -9107,7 +9058,7 @@
       "europa",
       "segle-xvii"
     ],
-    "category": "Cultura i Societat"
+    "category": "Monarquia"
   },
   {
     "id": "valldeperes-estiu-del-1938",
@@ -9123,9 +9074,9 @@
     "jsonFile": "valldeperes-estiu-del-1938.json",
     "available": true,
     "tags": [
-      "societat",
-      "guerra",
       "cultura",
+      "guerra",
+      "societat",
       "catalunya",
       "guerra-civil",
       "segle-xx"
@@ -9146,13 +9097,13 @@
     "jsonFile": "les-esperances-frustrades-de-la-guerra-gran.json",
     "available": true,
     "tags": [
-      "politica",
-      "guerra",
       "cultura",
+      "guerra",
+      "politica",
       "catalunya",
       "catalans"
     ],
-    "category": "Monarquia"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "les-dones-a-les-cr-niques-catalanes",
@@ -9169,8 +9120,8 @@
     "available": true,
     "tags": [
       "economia",
-      "politica",
       "societat",
+      "politica",
       "reconquesta",
       "baixa-edat-mitjana"
     ],
@@ -9211,15 +9162,15 @@
     "jsonFile": "les-cròniques-de-les-vespres-sicilianes.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
       "politica",
+      "cultura",
       "europa",
       "mediterrani",
       "descobriments",
       "baixa-edat-mitjana"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Monarquia"
   },
   {
     "id": "les-connotacions-pol-tiques-dels-bar-a-madrid",
@@ -9237,10 +9188,10 @@
     "tags": [
       "guerra",
       "politica",
-      "esport",
       "cultura",
-      "catalunya",
+      "esport",
       "espanya",
+      "catalunya",
       "guerra-civil",
       "segle-xx"
     ],
@@ -9260,12 +9211,12 @@
     "jsonFile": "les-connexions-catalanes-de-josé-rizal.json",
     "available": true,
     "tags": [
-      "arquitectura",
       "biografia",
+      "arquitectura",
       "cultura",
-      "catalunya",
       "espanya",
       "america",
+      "catalunya",
       "catalans",
       "guerra-frances",
       "baixa-edat-mitjana"
@@ -9287,12 +9238,12 @@
     "available": true,
     "tags": [
       "guerra",
-      "biografia",
       "politica",
+      "biografia",
       "europa",
       "segle-xx"
     ],
-    "category": "Monarquia"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "la-bomba-at-mica-de-franco",
@@ -9308,10 +9259,9 @@
     "jsonFile": "la-bomba-atòmica-de-franco.json",
     "available": true,
     "tags": [
-      "guerra",
+      "catalunya",
       "espanya",
-      "francs",
-      "guerra-civil"
+      "catalans"
     ],
     "category": "Guerres i Batalles"
   },
@@ -9331,9 +9281,9 @@
     "tags": [
       "cultura",
       "economia",
+      "catalunya",
       "mediterrani",
       "asia",
-      "catalunya",
       "catalans",
       "reconquesta",
       "baixa-edat-mitjana"
@@ -9411,8 +9361,8 @@
     "available": true,
     "tags": [
       "cultura",
-      "politica",
       "guerra",
+      "politica",
       "catalunya",
       "catalans",
       "guerra-civil",
@@ -9435,9 +9385,9 @@
     "jsonFile": "la-xarxa-de-telegrafia-òptica-a-catalunya.json",
     "available": true,
     "tags": [
-      "cultura",
       "economia",
       "ciencia",
+      "cultura",
       "catalunya",
       "espanya",
       "catalans",
@@ -9460,10 +9410,10 @@
     "jsonFile": "la-xarxa-catalanoaragonesa-al-mediterrani.json",
     "available": true,
     "tags": [
-      "cultura",
       "economia",
-      "mediterrani",
-      "catalunya"
+      "cultura",
+      "catalunya",
+      "mediterrani"
     ],
     "category": "Monarquia"
   },
@@ -9500,8 +9450,8 @@
     "jsonFile": "la-violència-als-monestirs-medievals.json",
     "available": true,
     "tags": [
-      "religió",
       "biografia",
+      "religió",
       "catalunya",
       "baixa-edat-mitjana",
       "contemporani"
@@ -9563,8 +9513,8 @@
     "jsonFile": "la-vida-privada-de-francesc-cambó.json",
     "available": true,
     "tags": [
-      "cultura",
       "politica",
+      "cultura",
       "catalunya",
       "espanya",
       "francs"
@@ -9585,9 +9535,9 @@
     "jsonFile": "la-vida-de-la-classe-obrera-del-s.xix-a-l-en-guàrdia.json",
     "available": true,
     "tags": [
-      "biografia",
-      "politica",
       "economia",
+      "politica",
+      "biografia",
       "catalunya",
       "catalans",
       "segle-xix"
@@ -9608,8 +9558,8 @@
     "jsonFile": "la-vida-de-clotilde-cerdà.json",
     "available": true,
     "tags": [
-      "cultura",
-      "biografia"
+      "biografia",
+      "cultura"
     ],
     "category": "Personatges"
   },
@@ -9626,10 +9576,6 @@
     "filename": "la-veritable-història-de-carros-de-foc.mp3",
     "jsonFile": "la-veritable-història-de-carros-de-foc.json",
     "available": true,
-    "tags": [
-      "cultura",
-      "esport"
-    ],
     "category": "General"
   },
   {
@@ -9710,7 +9656,12 @@
     "jsonFile": "la-segona-guerra-remença.json",
     "available": true,
     "tags": [
-      "guerra"
+      "guerra",
+      "catalunya",
+      "europa",
+      "ibers",
+      "catalans",
+      "baixa-edat-mitjana"
     ],
     "category": "Guerres i Batalles"
   },
@@ -9728,9 +9679,9 @@
     "jsonFile": "la-secció-femenina-a-lleida.json",
     "available": true,
     "tags": [
+      "arquitectura",
       "cultura",
       "societat",
-      "arquitectura",
       "catalunya",
       "segle-xx"
     ],
@@ -9750,8 +9701,8 @@
     "jsonFile": "la-seca-la-casa-de-la-moneda-de-barcelona.json",
     "available": true,
     "tags": [
-      "economia",
       "politica",
+      "economia",
       "catalunya",
       "catalans",
       "segle-xviii"
@@ -9772,9 +9723,9 @@
     "jsonFile": "la-bullanga-de-barcelona-del-1835.json",
     "available": true,
     "tags": [
-      "religió",
       "guerra",
       "politica",
+      "religió",
       "cultura",
       "catalunya",
       "catalans",
@@ -9883,8 +9834,8 @@
     "jsonFile": "la-ronda-del-general-mitre.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
+      "cultura",
       "america",
       "catalunya",
       "catalans",
@@ -9906,14 +9857,14 @@
     "jsonFile": "la-revolució-taiping.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
+      "cultura",
       "politica",
       "asia",
       "guerra-civil",
       "segle-xx"
     ],
-    "category": "Època Romana"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "la-revoluci-russa-i-catalunya",
@@ -9929,15 +9880,15 @@
     "jsonFile": "la-revolució-russa-i-catalunya.json",
     "available": true,
     "tags": [
-      "guerra",
       "politica",
+      "guerra",
       "catalunya",
       "europa",
       "catalans",
       "guerra-civil",
       "segle-xx"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Monarquia"
   },
   {
     "id": "la-revoluci-iraniana",
@@ -9953,8 +9904,8 @@
     "jsonFile": "la-revolució-iraniana.json",
     "available": true,
     "tags": [
-      "cultura",
       "politica",
+      "cultura",
       "asia",
       "musulmans",
       "guerra-civil",
@@ -9999,8 +9950,8 @@
     "jsonFile": "la-revolta-de-tiananmen.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
+      "cultura",
       "asia",
       "ibers"
     ],
@@ -10065,9 +10016,9 @@
     "jsonFile": "la-revolta-de-les-quintes-del-1870.json",
     "available": true,
     "tags": [
-      "guerra",
-      "politica",
       "societat",
+      "politica",
+      "guerra",
       "america",
       "musulmans",
       "ibers",
@@ -10089,8 +10040,8 @@
     "jsonFile": "la-revista-mirador.json",
     "available": true,
     "tags": [
-      "politica",
       "cultura",
+      "politica",
       "catalunya",
       "catalans"
     ],
@@ -10113,8 +10064,8 @@
       "politica",
       "cultura",
       "catalunya",
-      "catalans",
       "francs",
+      "catalans",
       "alta-edat-mitjana"
     ],
     "category": "General"
@@ -10157,14 +10108,10 @@
     "available": true,
     "tags": [
       "guerra",
-      "biografia",
-      "catalunya",
-      "romans",
       "guerra-civil",
-      "antiguitat",
       "segle-xx"
     ],
-    "category": "Època Romana"
+    "category": "Segle XX"
   },
   {
     "id": "la-relaci-de-jaume-i-amb-els-pa-sos-isl-mics",
@@ -10180,13 +10127,13 @@
     "jsonFile": "la-relació-de-jaume-i-amb-els-països-islàmics.json",
     "available": true,
     "tags": [
-      "politica",
       "economia",
+      "politica",
       "africa",
       "catalunya",
       "reconquesta",
-      "edat-moderna",
-      "baixa-edat-mitjana"
+      "baixa-edat-mitjana",
+      "edat-moderna"
     ],
     "category": "Edat Mitjana"
   },
@@ -10226,10 +10173,10 @@
     "available": true,
     "tags": [
       "guerra",
-      "catalunya",
-      "europa",
       "mediterrani",
       "africa",
+      "catalunya",
+      "europa",
       "ibers",
       "segle-xx"
     ],
@@ -10269,12 +10216,12 @@
     "jsonFile": "la-primera-revolució-industrial-a-catalunya.json",
     "available": true,
     "tags": [
-      "cultura",
       "economia",
       "politica",
-      "asia",
+      "cultura",
       "catalunya",
       "europa",
+      "asia",
       "catalans",
       "segle-xix"
     ],
@@ -10337,10 +10284,10 @@
     "tags": [
       "cultura",
       "catalunya",
-      "catalans",
       "romans",
-      "antiguitat",
-      "prehistoria"
+      "catalans",
+      "prehistoria",
+      "antiguitat"
     ],
     "category": "Època Romana"
   },
@@ -10358,8 +10305,8 @@
     "jsonFile": "la-polònia-ocupada.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
+      "cultura",
       "catalunya",
       "cristians",
       "segle-xx"
@@ -10380,9 +10327,9 @@
     "jsonFile": "la-política-hospitalària-del-consell-de-cent.json",
     "available": true,
     "tags": [
-      "arquitectura",
-      "biografia",
       "politica",
+      "biografia",
+      "arquitectura",
       "catalunya",
       "baixa-edat-mitjana"
     ],
@@ -10402,12 +10349,15 @@
     "jsonFile": "la-política-en-els-orígens-de-la-ràdio.json",
     "available": true,
     "tags": [
+      "cultura",
+      "guerra",
+      "politica",
       "catalunya",
       "catalans",
-      "francs",
+      "guerra-civil",
       "segle-xx"
     ],
-    "category": "Segle XX"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "la-plaga-antonina",
@@ -10449,10 +10399,10 @@
       "politica",
       "europa",
       "catalunya",
-      "ibers",
       "romans",
-      "cristians",
       "catalans",
+      "cristians",
+      "ibers",
       "antiguitat",
       "baixa-edat-mitjana"
     ],
@@ -10472,8 +10422,8 @@
     "jsonFile": "la-capacitat-militar-andalusí.json",
     "available": true,
     "tags": [
-      "guerra",
       "politica",
+      "guerra",
       "musulmans",
       "ibers",
       "baixa-edat-mitjana"
@@ -10494,10 +10444,10 @@
     "jsonFile": "la-pedra-de-girona-en-el-gòtic-català.json",
     "available": true,
     "tags": [
-      "cultura",
-      "arquitectura",
       "politica",
       "religió",
+      "arquitectura",
+      "cultura",
       "catalunya",
       "catalans",
       "visigots",
@@ -10525,7 +10475,7 @@
       "reconquesta",
       "segle-xx"
     ],
-    "category": "Monarquia"
+    "category": "Segle XX"
   },
   {
     "id": "la-nouvelle-vague",
@@ -10547,7 +10497,7 @@
       "guerra-frances",
       "segle-xix"
     ],
-    "category": "Monarquia"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "la-mort-i-les-ex-quies-de-mart-i-l-hum",
@@ -10563,13 +10513,13 @@
     "jsonFile": "la-mort-i-les-exèquies-de-martí-i-l-humà.json",
     "available": true,
     "tags": [
-      "biografia",
       "politica",
+      "biografia",
       "cultura",
       "catalunya",
       "baixa-edat-mitjana"
     ],
-    "category": "Monarquia"
+    "category": "Personatges"
   },
   {
     "id": "la-momificaci-humana-a-l-antic-egipte",
@@ -10604,9 +10554,9 @@
     "jsonFile": "la-modernització-de-mallorca.json",
     "available": true,
     "tags": [
-      "politica",
       "cultura",
       "economia",
+      "politica",
       "mediterrani",
       "reconquesta"
     ],
@@ -10626,9 +10576,9 @@
     "jsonFile": "la-moda-entre-el-segle-xix-i-el-xx.json",
     "available": true,
     "tags": [
+      "politica",
       "cultura",
       "economia",
-      "politica",
       "catalunya",
       "catalans",
       "segle-xix"
@@ -10649,14 +10599,14 @@
     "jsonFile": "la-mineria-al-berguedà.json",
     "available": true,
     "tags": [
-      "economia",
       "cultura",
+      "economia",
       "catalunya",
       "espanya",
       "america",
       "catalans",
-      "segle-xix",
-      "prehistoria"
+      "prehistoria",
+      "segle-xix"
     ],
     "category": "General"
   },
@@ -10674,12 +10624,12 @@
     "jsonFile": "la-maternitat-d-elna.json",
     "available": true,
     "tags": [
-      "guerra",
       "cultura",
       "societat",
+      "guerra",
       "catalunya",
-      "francs",
       "catalans",
+      "francs",
       "guerra-civil",
       "segle-xx"
     ],
@@ -10699,13 +10649,13 @@
     "jsonFile": "la-massacre-de-jedwabne.json",
     "available": true,
     "tags": [
-      "guerra",
       "religió",
+      "guerra",
       "cristians",
       "jueus",
       "expulsio-jueus"
     ],
-    "category": "Cultura i Societat"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "la-casa-de-la-llotja",
@@ -10744,10 +10694,15 @@
     "available": true,
     "tags": [
       "societat",
+      "guerra",
       "catalunya",
-      "baixa-edat-mitjana"
+      "romans",
+      "catalans",
+      "visigots",
+      "baixa-edat-mitjana",
+      "antiguitat"
     ],
-    "category": "Edat Mitjana"
+    "category": "Època Romana"
   },
   {
     "id": "la-jam-ncia",
@@ -10763,13 +10718,10 @@
     "jsonFile": "la-jamància.json",
     "available": true,
     "tags": [
+      "politica",
       "cultura",
-      "economia",
-      "europa",
-      "america",
       "catalunya",
-      "catalans",
-      "descobriments"
+      "ibers"
     ],
     "category": "Monarquia"
   },
@@ -10809,8 +10761,8 @@
     "jsonFile": "la-invenció-de-la-marató.json",
     "available": true,
     "tags": [
-      "esport",
       "cultura",
+      "esport",
       "ciencia",
       "grecs",
       "antiguitat"
@@ -10831,11 +10783,13 @@
     "jsonFile": "la-invasió-romana-de-britània.json",
     "available": true,
     "tags": [
+      "guerra",
+      "cultura",
       "catalunya",
-      "espanya",
-      "catalans"
+      "romans",
+      "antiguitat"
     ],
-    "category": "Època Romana"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "la-invasi-dels-cent-mil-fills-de-sant-llu-s",
@@ -10851,11 +10805,11 @@
     "jsonFile": "la-invasió-dels-cent-mil-fills-de-sant-lluís.json",
     "available": true,
     "tags": [
-      "biografia",
       "politica",
+      "biografia",
       "espanya",
-      "ibers",
       "francs",
+      "ibers",
       "guerra-frances",
       "segle-xix"
     ],
@@ -10878,8 +10832,8 @@
       "guerra",
       "europa",
       "grecs",
-      "segle-xx",
-      "antiguitat"
+      "antiguitat",
+      "segle-xx"
     ],
     "category": "Guerres i Batalles"
   },
@@ -10897,8 +10851,8 @@
     "jsonFile": "la-inquisició-contra-veronese.json",
     "available": true,
     "tags": [
-      "politica",
       "guerra",
+      "politica",
       "cultura",
       "catalunya",
       "ibers",
@@ -10920,9 +10874,9 @@
     "jsonFile": "la-indústria-cervesera-a-barcelona.json",
     "available": true,
     "tags": [
+      "cultura",
       "guerra",
       "politica",
-      "cultura",
       "economia",
       "catalunya",
       "francs",
@@ -10945,12 +10899,12 @@
     "jsonFile": "la-independència-d-algèria.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
-      "europa",
+      "cultura",
       "africa",
-      "francs",
+      "europa",
       "musulmans",
+      "francs",
       "ibers",
       "guerra-frances"
     ],
@@ -10970,14 +10924,14 @@
     "jsonFile": "la-casa-gralla.json",
     "available": true,
     "tags": [
+      "cultura",
       "economia",
       "arquitectura",
       "politica",
-      "cultura",
       "catalunya",
       "visigots",
-      "edat-moderna",
-      "segle-xix"
+      "segle-xix",
+      "edat-moderna"
     ],
     "category": "General"
   },
@@ -11037,8 +10991,8 @@
     "tags": [
       "cultura",
       "societat",
-      "europa",
       "catalunya",
+      "europa",
       "catalans",
       "francs"
     ],
@@ -11065,7 +11019,7 @@
       "antiguitat",
       "baixa-edat-mitjana"
     ],
-    "category": "Època Romana"
+    "category": "Edat Mitjana"
   },
   {
     "id": "la-hist-ria-del-cinema-a-l-en-gu-rdia",
@@ -11081,9 +11035,9 @@
     "jsonFile": "la-història-del-cinema-a-l-en-guàrdia.json",
     "available": true,
     "tags": [
-      "politica",
       "cultura",
       "ciencia",
+      "politica",
       "catalunya",
       "catalans",
       "edat-moderna"
@@ -11104,10 +11058,8 @@
     "jsonFile": "la-història-de-cassola.json",
     "available": true,
     "tags": [
-      "guerra",
-      "biografia",
-      "ciencia",
       "catalunya",
+      "espanya",
       "catalans"
     ],
     "category": "Guerres i Batalles"
@@ -11126,7 +11078,11 @@
     "jsonFile": "la-guerra-del-vietnam-a-en-guàrdia-promoció.json",
     "available": true,
     "tags": [
-      "guerra"
+      "politica",
+      "guerra",
+      "ibers",
+      "guerra-civil",
+      "segle-xx"
     ],
     "category": "Guerres i Batalles"
   },
@@ -11143,10 +11099,6 @@
     "filename": "la-guerra-del-pacífic-a-l-en-guàrdia.mp3",
     "jsonFile": "la-guerra-del-pacífic-a-l-en-guàrdia.json",
     "available": true,
-    "tags": [
-      "guerra",
-      "politica"
-    ],
     "category": "Guerres i Batalles"
   },
   {
@@ -11163,13 +11115,17 @@
     "jsonFile": "la-guerra-de-la-quàdruple-aliança.json",
     "available": true,
     "tags": [
-      "guerra",
-      "guerra-successio",
-      "guerra-segadors",
-      "segle-xvii",
-      "segle-xviii"
+      "politica",
+      "cultura",
+      "economia",
+      "catalunya",
+      "europa",
+      "catalans",
+      "ibers",
+      "segle-xix",
+      "contemporani"
     ],
-    "category": "Època Romana"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "la-guerra-d-frica-de-joaquim-ventall",
@@ -11185,14 +11141,14 @@
     "jsonFile": "la-guerra-d-àfrica-de-joaquim-ventalló.json",
     "available": true,
     "tags": [
-      "guerra",
-      "cultura",
+      "esport",
       "biografia",
       "politica",
-      "esport",
+      "guerra",
+      "cultura",
+      "africa",
       "catalunya",
       "espanya",
-      "africa",
       "catalans"
     ],
     "category": "Personatges"
@@ -11211,8 +11167,11 @@
     "jsonFile": "la-ciència-ficció.json",
     "available": true,
     "tags": [
-      "ciencia",
-      "cultura"
+      "guerra",
+      "catalunya",
+      "catalans",
+      "guerra-civil",
+      "segle-xx"
     ],
     "category": "General"
   },
@@ -11230,8 +11189,7 @@
     "jsonFile": "la-guerra-d-oman.json",
     "available": true,
     "tags": [
-      "guerra",
-      "prehistoria"
+      "guerra"
     ],
     "category": "Guerres i Batalles"
   },
@@ -11249,19 +11207,19 @@
     "jsonFile": "la-guerra-civil-russa.json",
     "available": true,
     "tags": [
-      "religió",
+      "guerra",
       "politica",
       "cultura",
-      "guerra",
-      "asia",
+      "religió",
       "europa",
+      "asia",
       "cristians",
       "ibers",
       "guerra-civil",
-      "segle-xx",
-      "segle-xix"
+      "segle-xix",
+      "segle-xx"
     ],
-    "category": "Segle XX"
+    "category": "Època Romana"
   },
   {
     "id": "la-guerra-civil-a-l-alt-urgell-i-la-cerdanya",
@@ -11282,7 +11240,7 @@
       "guerra-civil",
       "segle-xx"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Segle XX"
   },
   {
     "id": "la-guerra-civil-a-jes-s",
@@ -11298,11 +11256,15 @@
     "jsonFile": "la-guerra-civil-a-jesús.json",
     "available": true,
     "tags": [
+      "politica",
+      "economia",
       "guerra",
+      "catalunya",
+      "espanya",
       "guerra-civil",
       "segle-xx"
     ],
-    "category": "Segle XX"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "la-guerra-civil-a-andorra",
@@ -11318,9 +11280,9 @@
     "jsonFile": "la-guerra-civil-a-andorra.json",
     "available": true,
     "tags": [
+      "politica",
       "economia",
       "guerra",
-      "politica",
       "catalunya",
       "espanya",
       "guerra-civil",
@@ -11342,11 +11304,12 @@
     "jsonFile": "la-gran-tríada-de-la-tragèdia-grega.json",
     "available": true,
     "tags": [
-      "economia",
-      "politica",
+      "biografia",
+      "cultura",
       "catalunya",
+      "grecs",
       "catalans",
-      "segle-xviii"
+      "antiguitat"
     ],
     "category": "General"
   },
@@ -11364,8 +11327,8 @@
     "jsonFile": "la-gran-enciclopèdia-catalana.json",
     "available": true,
     "tags": [
-      "cultura",
       "arquitectura",
+      "cultura",
       "catalunya",
       "catalans",
       "contemporani"
@@ -11407,9 +11370,9 @@
     "tags": [
       "cultura",
       "catalunya",
-      "francs",
       "romans",
       "catalans",
+      "francs",
       "antiguitat"
     ],
     "category": "Època Romana"
@@ -11432,10 +11395,10 @@
       "catalunya",
       "espanya",
       "guerra-civil",
-      "contemporani",
-      "segle-xx"
+      "segle-xx",
+      "contemporani"
     ],
-    "category": "Segle XX"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "la-comissaria-de-via-laietana",
@@ -11451,8 +11414,8 @@
     "jsonFile": "la-comissaria-de-via-laietana.json",
     "available": true,
     "tags": [
-      "cultura",
       "politica",
+      "cultura",
       "catalunya",
       "segle-xx"
     ],
@@ -11472,8 +11435,8 @@
     "jsonFile": "la-fortificació-militar-de-girona-en-època-moderna.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
+      "cultura",
       "catalunya",
       "francs"
     ],
@@ -11493,10 +11456,18 @@
     "jsonFile": "la-fil-loxera-a-catalunya.json",
     "available": true,
     "tags": [
+      "politica",
       "cultura",
-      "societat",
+      "religió",
+      "arquitectura",
+      "guerra",
       "catalunya",
-      "catalans"
+      "cristians",
+      "catalans",
+      "jueus",
+      "expulsio-jueus",
+      "inquisicio",
+      "baixa-edat-mitjana"
     ],
     "category": "General"
   },
@@ -11515,10 +11486,10 @@
     "available": true,
     "tags": [
       "catalunya",
-      "romans",
       "francs",
-      "contemporani",
-      "antiguitat"
+      "romans",
+      "antiguitat",
+      "contemporani"
     ],
     "category": "Època Romana"
   },
@@ -11537,8 +11508,8 @@
     "available": true,
     "tags": [
       "guerra",
-      "cultura",
       "politica",
+      "cultura",
       "europa",
       "mediterrani"
     ],
@@ -11577,13 +11548,11 @@
     "jsonFile": "la-fi-de-l-apartheid.json",
     "available": true,
     "tags": [
-      "religió",
+      "guerra",
+      "politica",
       "cultura",
-      "catalunya",
-      "romans",
-      "cristians",
-      "baixa-edat-mitjana",
-      "antiguitat"
+      "europa",
+      "mediterrani"
     ],
     "category": "General"
   },
@@ -11601,9 +11570,9 @@
     "jsonFile": "la-família-santpere.json",
     "available": true,
     "tags": [
-      "cultura",
       "societat",
       "politica",
+      "cultura",
       "catalunya",
       "catalans"
     ],
@@ -11666,8 +11635,8 @@
     "jsonFile": "la-divulgació-històrica.json",
     "available": true,
     "tags": [
-      "politica",
       "cultura",
+      "politica",
       "catalunya",
       "grecs",
       "antiguitat"
@@ -11708,13 +11677,9 @@
     "jsonFile": "la-divisió-de-l-islam.json",
     "available": true,
     "tags": [
-      "religió",
-      "cultura",
       "catalunya",
-      "romans",
-      "cristians",
-      "baixa-edat-mitjana",
-      "antiguitat"
+      "espanya",
+      "catalans"
     ],
     "category": "General"
   },
@@ -11732,14 +11697,9 @@
     "jsonFile": "la-dissidència-a-la-catalunya-del-segle-xviii.json",
     "available": true,
     "tags": [
-      "politica",
-      "economia",
-      "arquitectura",
-      "cultura",
       "catalunya",
-      "catalans",
-      "segle-xix",
-      "segle-xviii"
+      "cristians",
+      "catalans"
     ],
     "category": "Guerres i Batalles"
   },
@@ -11779,11 +11739,10 @@
     "jsonFile": "la-dinastia-abe-kishi-i-el-pld.json",
     "available": true,
     "tags": [
+      "guerra",
       "cultura",
-      "economia",
       "politica",
-      "catalunya",
-      "catalans",
+      "ibers",
       "segle-xix"
     ],
     "category": "Guerres i Batalles"
@@ -11859,12 +11818,12 @@
     "tags": [
       "guerra",
       "politica",
-      "espanya",
       "catalunya",
+      "espanya",
       "catalans",
       "ibers",
-      "segle-xix",
-      "edat-moderna"
+      "edat-moderna",
+      "segle-xix"
     ],
     "category": "Guerres i Batalles"
   },
@@ -11882,8 +11841,8 @@
     "jsonFile": "la-cultura-de-les-navetes.json",
     "available": true,
     "tags": [
-      "cultura",
       "arquitectura",
+      "cultura",
       "descobriments",
       "prehistoria"
     ],
@@ -11922,14 +11881,7 @@
     "filename": "la-conquesta-de-valència.mp3",
     "jsonFile": "la-conquesta-de-valència.json",
     "available": true,
-    "tags": [
-      "politica",
-      "catalunya",
-      "mediterrani",
-      "reconquesta",
-      "baixa-edat-mitjana"
-    ],
-    "category": "Monarquia"
+    "category": "Edat Mitjana"
   },
   {
     "id": "la-coronela-a-la-barcelona-moderna",
@@ -11970,8 +11922,8 @@
       "catalunya",
       "romans",
       "guerra-civil",
-      "antiguitat",
-      "segle-xx"
+      "segle-xx",
+      "antiguitat"
     ],
     "category": "Segle XX"
   },
@@ -12026,9 +11978,9 @@
     "jsonFile": "2-pirates-i-corsaris.json",
     "available": true,
     "tags": [
+      "cultura",
       "politica",
       "economia",
-      "cultura",
       "africa",
       "francs"
     ],
@@ -12067,11 +12019,7 @@
     "available": true,
     "tags": [
       "guerra",
-      "catalunya",
-      "europa",
-      "catalans",
-      "ibers",
-      "baixa-edat-mitjana"
+      "fenicis"
     ],
     "category": "Guerres i Batalles"
   },
@@ -12163,7 +12111,11 @@
     "jsonFile": "9-la-guerra-del-marroc.json",
     "available": true,
     "tags": [
-      "guerra"
+      "politica",
+      "guerra",
+      "ibers",
+      "guerra-civil",
+      "segle-xx"
     ],
     "category": "Guerres i Batalles"
   },
@@ -12283,8 +12235,7 @@
     "jsonFile": "16-la-guerra-dels-segadors.json",
     "available": true,
     "tags": [
-      "guerra",
-      "guerra-frances"
+      "guerra"
     ],
     "category": "Guerres i Batalles"
   },
@@ -12378,7 +12329,7 @@
     "jsonFile": "21-els-setges-de-barcelona.json",
     "available": true,
     "tags": [
-      "cultura",
+      "guerra",
       "catalunya"
     ],
     "category": "Guerres i Batalles"
@@ -12397,8 +12348,9 @@
     "jsonFile": "22-la-guerra-de-cuba.json",
     "available": true,
     "tags": [
-      "guerra",
-      "america"
+      "catalunya",
+      "espanya",
+      "catalans"
     ],
     "category": "Guerres i Batalles"
   },
@@ -12631,7 +12583,7 @@
       "guerra-segadors",
       "segle-xvii"
     ],
-    "category": "Catalunya Moderna"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "ep-37",
@@ -12747,9 +12699,7 @@
     "jsonFile": "43-la-guerra-gran.json",
     "available": true,
     "tags": [
-      "guerra",
-      "catalunya",
-      "catalans"
+      "guerra"
     ],
     "category": "Guerres i Batalles"
   },
@@ -12863,7 +12813,12 @@
     "jsonFile": "50-la-batalla-de-lepant.json",
     "available": true,
     "tags": [
-      "guerra"
+      "cultura",
+      "guerra",
+      "mediterrani",
+      "romans",
+      "fenicis",
+      "antiguitat"
     ],
     "category": "Guerres i Batalles"
   },
@@ -12881,9 +12836,7 @@
     "jsonFile": "51-la-guerra-dels-matiners.json",
     "available": true,
     "tags": [
-      "guerra",
-      "guerra-segadors",
-      "segle-xvii"
+      "guerra"
     ],
     "category": "Guerres i Batalles"
   },
@@ -12937,10 +12890,7 @@
     "jsonFile": "54-la-xocolata-a-catalunya.json",
     "available": true,
     "tags": [
-      "politica",
-      "cultura",
       "catalunya",
-      "espanya",
       "catalans"
     ],
     "category": "General"
@@ -13045,8 +12995,8 @@
     "tags": [
       "catalunya",
       "europa",
-      "francs",
-      "catalans"
+      "catalans",
+      "francs"
     ],
     "category": "General"
   },
@@ -13064,9 +13014,7 @@
     "jsonFile": "61-catalans-a-la-ii-guerra-mundial-uk.json",
     "available": true,
     "tags": [
-      "guerra",
-      "catalunya",
-      "segle-xx"
+      "guerra"
     ],
     "category": "Guerres i Batalles"
   },
@@ -13101,9 +13049,6 @@
     "filename": "63-la-conquesta-de-múrcia.mp3",
     "jsonFile": "63-la-conquesta-de-múrcia.json",
     "available": true,
-    "tags": [
-      "mediterrani"
-    ],
     "category": "General"
   },
   {
@@ -13173,7 +13118,6 @@
     "jsonFile": "67-la-catalunya-borbònica.json",
     "available": true,
     "tags": [
-      "esport",
       "catalunya",
       "catalans"
     ],
@@ -13580,6 +13524,9 @@
     "filename": "92-les-dones-a-l-edat-mitjana.mp3",
     "jsonFile": "92-les-dones-a-l-edat-mitjana.json",
     "available": true,
+    "tags": [
+      "societat"
+    ],
     "category": "General"
   },
   {
@@ -13707,6 +13654,11 @@
     "filename": "100-la-caiguda-de-tarragona.mp3",
     "jsonFile": "100-la-caiguda-de-tarragona.json",
     "available": true,
+    "tags": [
+      "catalunya",
+      "espanya",
+      "catalans"
+    ],
     "category": "General"
   },
   {
@@ -13738,11 +13690,10 @@
     "jsonFile": "102-la-invasió-de-la-vall-d-aran.json",
     "available": true,
     "tags": [
-      "economia",
-      "politica",
-      "catalunya",
-      "catalans",
-      "segle-xviii"
+      "ciencia",
+      "arquitectura",
+      "europa",
+      "baixa-edat-mitjana"
     ],
     "category": "General"
   },
@@ -13814,15 +13765,11 @@
     "jsonFile": "106-la-cuina-medieval-a-catalunya.json",
     "available": true,
     "tags": [
-      "cultura",
-      "economia",
-      "europa",
-      "america",
       "catalunya",
       "catalans",
-      "descobriments"
+      "baixa-edat-mitjana"
     ],
-    "category": "Cultura i Societat"
+    "category": "Edat Mitjana"
   },
   {
     "id": "ep-107",
@@ -13841,7 +13788,7 @@
       "ciencia",
       "baixa-edat-mitjana"
     ],
-    "category": "Cultura i Societat"
+    "category": "Edat Mitjana"
   },
   {
     "id": "ep-108",
@@ -13858,15 +13805,10 @@
     "available": true,
     "tags": [
       "guerra",
-      "politica",
-      "francs",
       "guerra-successio",
-      "guerra-frances",
-      "segle-xix",
-      "segle-xvii",
       "segle-xviii"
     ],
-    "category": "Catalunya Moderna"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "ep-109",
@@ -13919,6 +13861,15 @@
     "filename": "111-l-inici-del-cinema-a-catalunya.mp3",
     "jsonFile": "111-l-inici-del-cinema-a-catalunya.json",
     "available": true,
+    "tags": [
+      "economia",
+      "cultura",
+      "europa",
+      "america",
+      "catalunya",
+      "catalans",
+      "descobriments"
+    ],
     "category": "General"
   },
   {
@@ -13935,16 +13886,16 @@
     "jsonFile": "112-el-tractat-dels-pirineus.json",
     "available": true,
     "tags": [
-      "guerra",
-      "cultura",
       "politica",
+      "cultura",
+      "guerra",
       "catalunya",
       "espanya",
       "europa",
       "catalans",
-      "segle-xvii",
+      "contemporani",
       "edat-moderna",
-      "contemporani"
+      "segle-xvii"
     ],
     "category": "General"
   },
@@ -14011,8 +13962,8 @@
     "jsonFile": "116-grecs-i-fenicis.json",
     "available": true,
     "tags": [
-      "fenicis",
       "grecs",
+      "fenicis",
       "antiguitat"
     ],
     "category": "General"
@@ -14137,9 +14088,7 @@
     "jsonFile": "123-la-guerra-de-crimea.json",
     "available": true,
     "tags": [
-      "catalunya",
-      "espanya",
-      "catalans"
+      "guerra"
     ],
     "category": "Guerres i Batalles"
   },
@@ -14156,11 +14105,6 @@
     "filename": "124-la-presa-de-gibraltar.mp3",
     "jsonFile": "124-la-presa-de-gibraltar.json",
     "available": true,
-    "tags": [
-      "catalunya",
-      "espanya",
-      "catalans"
-    ],
     "category": "General"
   },
   {
@@ -14196,7 +14140,7 @@
       "guerra-civil",
       "segle-xx"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Segle XX"
   },
   {
     "id": "ep-127",
@@ -14212,18 +14156,14 @@
     "jsonFile": "127-el-neolític-a-catalunya.json",
     "available": true,
     "tags": [
-      "guerra",
-      "politica",
-      "religió",
-      "cultura",
-      "arquitectura",
+      "economia",
+      "asia",
       "catalunya",
-      "cristians",
+      "europa",
+      "ibers",
       "catalans",
-      "jueus",
-      "inquisicio",
-      "expulsio-jueus",
-      "baixa-edat-mitjana"
+      "segle-xix",
+      "prehistoria"
     ],
     "category": "General"
   },
@@ -14260,8 +14200,8 @@
       "cultura",
       "catalunya",
       "romans",
-      "catalans",
       "cristians",
+      "catalans",
       "antiguitat",
       "baixa-edat-mitjana"
     ],
@@ -14280,9 +14220,6 @@
     "filename": "130-la-conquesta-de-sardenya.mp3",
     "jsonFile": "130-la-conquesta-de-sardenya.json",
     "available": true,
-    "tags": [
-      "mediterrani"
-    ],
     "category": "General"
   },
   {
@@ -14319,16 +14256,8 @@
     "jsonFile": "132-la-vida-urbana-a-la-baixa-edat-mitjana.json",
     "available": true,
     "tags": [
-      "religió",
-      "cultura",
-      "politica",
-      "europa",
+      "societat",
       "catalunya",
-      "ibers",
-      "romans",
-      "cristians",
-      "catalans",
-      "antiguitat",
       "baixa-edat-mitjana"
     ],
     "category": "General"
@@ -14347,11 +14276,11 @@
     "jsonFile": "133-els-dinosaures-a-catalunya.json",
     "available": true,
     "tags": [
-      "religió",
+      "cultura",
+      "politica",
       "catalunya",
-      "catalans",
-      "jueus",
-      "expulsio-jueus"
+      "espanya",
+      "catalans"
     ],
     "category": "General"
   },
@@ -14389,14 +14318,8 @@
     "jsonFile": "135-l-automobilisme-a-catalunya.json",
     "available": true,
     "tags": [
-      "cultura",
-      "economia",
-      "politica",
-      "asia",
       "catalunya",
-      "europa",
-      "catalans",
-      "segle-xix"
+      "catalans"
     ],
     "category": "General"
   },
@@ -14733,8 +14656,8 @@
     "jsonFile": "154-les-històries-personals-de-la-batalla-de-l-ebre.json",
     "available": true,
     "tags": [
-      "ciencia",
       "guerra",
+      "ciencia",
       "catalunya",
       "catalans",
       "guerra-civil",
@@ -14790,11 +14713,8 @@
     "jsonFile": "157-els-jueus-a-catalunya.json",
     "available": true,
     "tags": [
-      "religió",
       "catalunya",
-      "catalans",
-      "jueus",
-      "expulsio-jueus"
+      "catalans"
     ],
     "category": "General"
   },
@@ -15139,13 +15059,8 @@
     "jsonFile": "177-la-boxa-a-catalunya.json",
     "available": true,
     "tags": [
-      "cultura",
-      "economia",
-      "europa",
-      "america",
       "catalunya",
-      "catalans",
-      "descobriments"
+      "catalans"
     ],
     "category": "General"
   },
@@ -15183,8 +15098,11 @@
     "jsonFile": "179-la-construcció-de-la-catedral-de-girona.json",
     "available": true,
     "tags": [
-      "arquitectura",
-      "catalunya"
+      "politica",
+      "economia",
+      "catalunya",
+      "catalans",
+      "segle-xviii"
     ],
     "category": "General"
   },
@@ -15289,8 +15207,6 @@
     "jsonFile": "185-la-justícia-de-franco.json",
     "available": true,
     "tags": [
-      "guerra",
-      "espanya",
       "francs",
       "guerra-civil"
     ],
@@ -15374,10 +15290,11 @@
     "jsonFile": "190-els-inicis-de-la-televisió-a-catalunya.json",
     "available": true,
     "tags": [
-      "societat",
       "politica",
+      "economia",
       "catalunya",
-      "catalans"
+      "catalans",
+      "segle-xviii"
     ],
     "category": "General"
   },
@@ -15538,14 +15455,14 @@
     "jsonFile": "200-l-inici-de-la-guerra-del-francès.json",
     "available": true,
     "tags": [
-      "guerra",
       "politica",
+      "guerra",
       "francs",
       "guerra-successio",
       "guerra-frances",
-      "segle-xix",
+      "segle-xviii",
       "segle-xvii",
-      "segle-xviii"
+      "segle-xix"
     ],
     "category": "Guerres i Batalles"
   },
@@ -15562,6 +15479,9 @@
     "filename": "201-economia-a-l-edat-mitjana.mp3",
     "jsonFile": "201-economia-a-l-edat-mitjana.json",
     "available": true,
+    "tags": [
+      "economia"
+    ],
     "category": "General"
   },
   {
@@ -15578,11 +15498,9 @@
     "jsonFile": "202-la-colonització-de-la-catalunya-nova.json",
     "available": true,
     "tags": [
-      "guerra",
       "cultura",
-      "ciencia",
-      "catalunya",
-      "catalans"
+      "espanya",
+      "guerra-frances"
     ],
     "category": "General"
   },
@@ -15699,11 +15617,15 @@
     "jsonFile": "209-la-guerra-civil-anglesa.-cronwell.json",
     "available": true,
     "tags": [
+      "politica",
+      "economia",
       "guerra",
+      "catalunya",
+      "espanya",
       "guerra-civil",
       "segle-xx"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Segle XX"
   },
   {
     "id": "ep-210",
@@ -15869,13 +15791,10 @@
     "available": true,
     "tags": [
       "guerra",
-      "politica",
-      "arquitectura",
-      "espanya",
-      "guerra-civil",
-      "segle-xx"
+      "guerra-successio",
+      "segle-xviii"
     ],
-    "category": "Catalunya Moderna"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "ep-220",
@@ -16031,6 +15950,10 @@
     "filename": "229-la-cuina-del-barroc.mp3",
     "jsonFile": "229-la-cuina-del-barroc.json",
     "available": true,
+    "tags": [
+      "guerra",
+      "africa"
+    ],
     "category": "Cultura i Societat"
   },
   {
@@ -16076,11 +15999,6 @@
     "filename": "232-el-naixement-de-ccoo.mp3",
     "jsonFile": "232-el-naixement-de-ccoo.json",
     "available": true,
-    "tags": [
-      "cultura",
-      "catalunya",
-      "catalans"
-    ],
     "category": "General"
   },
   {
@@ -16135,10 +16053,10 @@
     "jsonFile": "235-el-naixement-de-l-eixample.json",
     "available": true,
     "tags": [
-      "ciencia",
       "cultura",
-      "descobriments",
-      "prehistoria"
+      "politica",
+      "edat-moderna",
+      "baixa-edat-mitjana"
     ],
     "category": "General"
   },
@@ -16156,11 +16074,15 @@
     "jsonFile": "236-la-història-de-la-prehistòria.json",
     "available": true,
     "tags": [
-      "economia",
       "politica",
+      "cultura",
+      "economia",
       "catalunya",
+      "europa",
       "catalans",
-      "segle-xviii"
+      "ibers",
+      "segle-xix",
+      "contemporani"
     ],
     "category": "General"
   },
@@ -16213,6 +16135,12 @@
     "filename": "239-història-del-musical.mp3",
     "jsonFile": "239-història-del-musical.json",
     "available": true,
+    "tags": [
+      "biografia",
+      "societat",
+      "cultura",
+      "catalunya"
+    ],
     "category": "General"
   },
   {
@@ -16248,7 +16176,11 @@
     "jsonFile": "241-la-batalla-de-talamanca.json",
     "available": true,
     "tags": [
-      "guerra"
+      "politica",
+      "guerra",
+      "catalunya",
+      "romans",
+      "antiguitat"
     ],
     "category": "Guerres i Batalles"
   },
@@ -16266,7 +16198,12 @@
     "jsonFile": "242-la-batalla-de-qadesh.json",
     "available": true,
     "tags": [
-      "guerra"
+      "cultura",
+      "guerra",
+      "mediterrani",
+      "romans",
+      "fenicis",
+      "antiguitat"
     ],
     "category": "Guerres i Batalles"
   },
@@ -16285,7 +16222,8 @@
     "available": true,
     "tags": [
       "guerra",
-      "prehistoria"
+      "francs",
+      "guerra-civil"
     ],
     "category": "Guerres i Batalles"
   },
@@ -16336,10 +16274,10 @@
     "jsonFile": "246-el-naixement-del-catalanisme-polític.json",
     "available": true,
     "tags": [
-      "arquitectura",
       "cultura",
-      "catalunya",
+      "arquitectura",
       "espanya",
+      "catalunya",
       "catalans",
       "guerra-frances"
     ],
@@ -16409,8 +16347,7 @@
     "available": true,
     "tags": [
       "catalunya",
-      "catalans",
-      "inquisicio"
+      "catalans"
     ],
     "category": "General"
   },
@@ -16428,7 +16365,12 @@
     "jsonFile": "251-la-batalla-de-l-atlàntic.json",
     "available": true,
     "tags": [
-      "guerra"
+      "ciencia",
+      "guerra",
+      "europa",
+      "ibers",
+      "romans",
+      "antiguitat"
     ],
     "category": "Guerres i Batalles"
   },
@@ -16498,9 +16440,8 @@
     "jsonFile": "255-la-vida-de-rossini.json",
     "available": true,
     "tags": [
-      "catalunya",
-      "espanya",
-      "catalans"
+      "biografia",
+      "cultura"
     ],
     "category": "Personatges"
   },
@@ -16629,9 +16570,14 @@
     "jsonFile": "263-la-barcelona-burgesa.json",
     "available": true,
     "tags": [
-      "guerra",
       "cultura",
-      "catalunya"
+      "guerra",
+      "politica",
+      "economia",
+      "catalunya",
+      "francs",
+      "guerra-frances",
+      "segle-xix"
     ],
     "category": "General"
   },
@@ -16741,8 +16687,8 @@
     "tags": [
       "cultura",
       "catalunya",
-      "catalans",
       "francs",
+      "catalans",
       "guerra-frances",
       "segle-xix"
     ],
@@ -16814,13 +16760,6 @@
     "filename": "273-la-conquesta-de-mèxic.mp3",
     "jsonFile": "273-la-conquesta-de-mèxic.json",
     "available": true,
-    "tags": [
-      "politica",
-      "catalunya",
-      "mediterrani",
-      "reconquesta",
-      "baixa-edat-mitjana"
-    ],
     "category": "General"
   },
   {
@@ -16851,11 +16790,6 @@
     "filename": "275-la-caiguda-de-constantinoble.mp3",
     "jsonFile": "275-la-caiguda-de-constantinoble.json",
     "available": true,
-    "tags": [
-      "catalunya",
-      "espanya",
-      "catalans"
-    ],
     "category": "General"
   },
   {
@@ -16872,7 +16806,8 @@
     "jsonFile": "276-la-cartografia-catalana.json",
     "available": true,
     "tags": [
-      "cultura"
+      "cultura",
+      "guerra-frances"
     ],
     "category": "General"
   },
@@ -16907,10 +16842,6 @@
     "filename": "278-la-rumba-catalana.mp3",
     "jsonFile": "278-la-rumba-catalana.json",
     "available": true,
-    "tags": [
-      "cultura",
-      "guerra-frances"
-    ],
     "category": "General"
   },
   {
@@ -16927,8 +16858,7 @@
     "jsonFile": "279-la-guerra-d-independència-dels-eua.json",
     "available": true,
     "tags": [
-      "guerra",
-      "guerra-frances"
+      "guerra"
     ],
     "category": "Guerres i Batalles"
   },
@@ -16947,14 +16877,14 @@
     "available": true,
     "tags": [
       "guerra",
-      "cultura",
       "catalunya",
       "espanya",
+      "europa",
       "catalans",
       "guerra-civil",
       "segle-xx"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Segle XX"
   },
   {
     "id": "ep-281",
@@ -17116,14 +17046,8 @@
     "jsonFile": "290-la-bogeria-a-la-catalunya-del-s.-xix.json",
     "available": true,
     "tags": [
-      "guerra",
-      "politica",
-      "cultura",
       "catalunya",
-      "ibers",
-      "catalans",
-      "guerra-successio",
-      "segle-xviii"
+      "catalans"
     ],
     "category": "General"
   },
@@ -17186,11 +17110,8 @@
     "jsonFile": "294-els-catalans-a-la-guerra-de-cuba.json",
     "available": true,
     "tags": [
-      "economia",
-      "politica",
-      "catalunya",
-      "catalans",
-      "segle-xviii"
+      "guerra",
+      "america"
     ],
     "category": "Guerres i Batalles"
   },
@@ -17367,7 +17288,7 @@
       "guerra-civil",
       "segle-xx"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Segle XX"
   },
   {
     "id": "ep-305",
@@ -17390,7 +17311,7 @@
       "segle-xx",
       "antiguitat"
     ],
-    "category": "Època Romana"
+    "category": "Segle XX"
   },
   {
     "id": "ep-306",
@@ -17462,10 +17383,10 @@
       "politica",
       "biografia",
       "guerra-successio",
-      "segle-xviii",
-      "edat-moderna"
+      "edat-moderna",
+      "segle-xviii"
     ],
-    "category": "Catalunya Moderna"
+    "category": "Monarquia"
   },
   {
     "id": "ep-310",
@@ -17522,9 +17443,9 @@
     "jsonFile": "312-la-guerra-dels-dos-peres.json",
     "available": true,
     "tags": [
-      "arquitectura",
       "guerra",
       "politica",
+      "arquitectura",
       "espanya",
       "baixa-edat-mitjana"
     ],
@@ -17583,16 +17504,16 @@
     "jsonFile": "315-molière.json",
     "available": true,
     "tags": [
-      "politica",
       "cultura",
       "biografia",
+      "politica",
       "catalunya",
       "europa",
       "francs",
       "guerra-frances",
       "segle-xix"
     ],
-    "category": "Personatges"
+    "category": "Monarquia"
   },
   {
     "id": "ep-316",
@@ -17649,8 +17570,8 @@
       "catalunya",
       "francs",
       "guerra-frances",
-      "segle-xx",
-      "segle-xix"
+      "segle-xix",
+      "segle-xx"
     ],
     "category": "Segle XX"
   },
@@ -17668,13 +17589,10 @@
     "jsonFile": "319-els-orígens-de-la-màfia.json",
     "available": true,
     "tags": [
-      "guerra",
-      "politica",
-      "cultura",
       "catalunya",
-      "europa",
       "catalans",
-      "baixa-edat-mitjana"
+      "francs",
+      "segle-xx"
     ],
     "category": "General"
   },
@@ -17764,8 +17682,8 @@
     "tags": [
       "cultura",
       "catalunya",
-      "catalans",
       "romans",
+      "catalans",
       "antiguitat"
     ],
     "category": "Època Romana"
@@ -17785,8 +17703,8 @@
     "available": true,
     "tags": [
       "politica",
-      "guerra",
       "cultura",
+      "guerra",
       "europa"
     ],
     "category": "Guerres i Batalles"
@@ -17805,10 +17723,11 @@
     "jsonFile": "326-els-gascons-a-catalunya.json",
     "available": true,
     "tags": [
+      "cultura",
+      "politica",
       "catalunya",
-      "catalans",
-      "fenicis",
-      "antiguitat"
+      "espanya",
+      "catalans"
     ],
     "category": "General"
   },
@@ -17826,11 +17745,11 @@
     "jsonFile": "327-catalunya-a-l-any-1000.json",
     "available": true,
     "tags": [
-      "politica",
-      "cultura",
+      "religió",
       "catalunya",
-      "espanya",
-      "catalans"
+      "cristians",
+      "catalans",
+      "baixa-edat-mitjana"
     ],
     "category": "Edat Mitjana"
   },
@@ -17915,9 +17834,8 @@
     "jsonFile": "332-la-tomba-de-tutankhamon.json",
     "available": true,
     "tags": [
-      "catalunya",
-      "espanya",
-      "catalans"
+      "cultura",
+      "asia"
     ],
     "category": "General"
   },
@@ -18001,13 +17919,13 @@
     "jsonFile": "336-ramon-muntaner.json",
     "available": true,
     "tags": [
-      "biografia",
       "politica",
+      "biografia",
       "catalunya",
       "catalans",
       "reconquesta"
     ],
-    "category": "Personatges"
+    "category": "Monarquia"
   },
   {
     "id": "ep-337",
@@ -18138,8 +18056,8 @@
     "jsonFile": "343-els-etruscos.json",
     "available": true,
     "tags": [
-      "cultura",
       "politica",
+      "cultura",
       "catalunya",
       "romans",
       "antiguitat"
@@ -18160,8 +18078,18 @@
     "jsonFile": "344-buffalo-bill-a-catalunya.json",
     "available": true,
     "tags": [
+      "politica",
+      "cultura",
+      "religió",
+      "arquitectura",
+      "guerra",
       "catalunya",
-      "catalans"
+      "cristians",
+      "catalans",
+      "jueus",
+      "expulsio-jueus",
+      "inquisicio",
+      "baixa-edat-mitjana"
     ],
     "category": "General"
   },
@@ -18179,8 +18107,8 @@
     "jsonFile": "345-els-crooners.json",
     "available": true,
     "tags": [
-      "cultura",
-      "biografia"
+      "biografia",
+      "cultura"
     ],
     "category": "Cultura i Societat"
   },
@@ -18198,14 +18126,14 @@
     "jsonFile": "346-el-comte-duc-d-olivares-i-felip-iv.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
       "politica",
+      "cultura",
       "guerra-segadors",
       "edat-moderna",
       "segle-xvii"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Monarquia"
   },
   {
     "id": "ep-347",
@@ -18245,7 +18173,7 @@
       "catalunya",
       "baixa-edat-mitjana"
     ],
-    "category": "Monarquia"
+    "category": "Edat Mitjana"
   },
   {
     "id": "ep-349",
@@ -18261,8 +18189,8 @@
     "jsonFile": "349-la-batalla-d-austerlitz.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
+      "cultura",
       "francs",
       "guerra-frances",
       "segle-xix"
@@ -18323,14 +18251,14 @@
     "jsonFile": "352-en-guàrdia-pere-el-gran.json",
     "available": true,
     "tags": [
+      "cultura",
       "biografia",
       "politica",
-      "cultura",
       "romans",
       "reconquesta",
       "antiguitat"
     ],
-    "category": "Personatges"
+    "category": "Època Romana"
   },
   {
     "id": "ep-353",
@@ -18350,7 +18278,7 @@
       "guerra",
       "segle-xx"
     ],
-    "category": "Monarquia"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "ep-354",
@@ -18367,8 +18295,8 @@
     "available": true,
     "tags": [
       "economia",
-      "arquitectura",
       "biografia",
+      "arquitectura",
       "segle-xix"
     ],
     "category": "Cultura i Societat"
@@ -18407,8 +18335,7 @@
     "jsonFile": "356-la-guerra-de-corea.json",
     "available": true,
     "tags": [
-      "guerra",
-      "america"
+      "guerra"
     ],
     "category": "Guerres i Batalles"
   },
@@ -18447,8 +18374,8 @@
       "politica",
       "biografia",
       "catalunya",
-      "catalans",
       "grecs",
+      "catalans",
       "antiguitat"
     ],
     "category": "General"
@@ -18467,13 +18394,13 @@
     "jsonFile": "359-creix-comissari-franquista.json",
     "available": true,
     "tags": [
-      "biografia",
       "politica",
       "cultura",
+      "biografia",
       "catalunya",
       "segle-xx"
     ],
-    "category": "Segle XX"
+    "category": "Monarquia"
   },
   {
     "id": "ep-360",
@@ -18549,7 +18476,7 @@
       "guerra-successio",
       "segle-xviii"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Monarquia"
   },
   {
     "id": "ep-364",
@@ -18586,10 +18513,10 @@
     "tags": [
       "catalunya",
       "grecs",
-      "romans",
       "catalans",
-      "antiguitat",
-      "prehistoria"
+      "romans",
+      "prehistoria",
+      "antiguitat"
     ],
     "category": "Època Romana"
   },
@@ -18625,15 +18552,15 @@
     "jsonFile": "367-l-exili-de-la-guerra-dels-segadors.json",
     "available": true,
     "tags": [
-      "guerra",
       "politica",
+      "guerra",
       "catalunya",
       "europa",
       "catalans",
       "guerra-segadors",
       "segle-xvii"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Catalunya Moderna"
   },
   {
     "id": "ep-368",
@@ -18650,12 +18577,12 @@
     "available": true,
     "tags": [
       "biografia",
-      "espanya",
       "america",
-      "francs",
+      "espanya",
       "ibers",
-      "descobriments",
-      "guerra-frances"
+      "francs",
+      "guerra-frances",
+      "descobriments"
     ],
     "category": "Època Romana"
   },
@@ -18673,15 +18600,15 @@
     "jsonFile": "369-francesc-de-verntallat-i-els-remences.json",
     "available": true,
     "tags": [
+      "guerra",
       "biografia",
       "politica",
-      "guerra",
       "francs",
       "guerra-civil",
       "baixa-edat-mitjana",
       "segle-xx"
     ],
-    "category": "Segle XX"
+    "category": "Monarquia"
   },
   {
     "id": "ep-370",
@@ -18717,9 +18644,7 @@
     "available": true,
     "tags": [
       "cultura",
-      "politica",
-      "catalunya",
-      "catalans"
+      "guerra-frances"
     ],
     "category": "General"
   },
@@ -18757,9 +18682,9 @@
     "tags": [
       "cultura",
       "biografia",
-      "romans",
       "visigots",
       "ibers",
+      "romans",
       "guerra-civil",
       "antiguitat",
       "segle-xx"
@@ -18780,13 +18705,14 @@
     "jsonFile": "374-la-catalunya-soviètica.json",
     "available": true,
     "tags": [
-      "cultura",
       "economia",
-      "europa",
-      "america",
+      "politica",
+      "cultura",
       "catalunya",
+      "europa",
+      "asia",
       "catalans",
-      "descobriments"
+      "segle-xix"
     ],
     "category": "General"
   },
@@ -18804,14 +18730,14 @@
     "jsonFile": "375-antoni-roca-el-capellà-bandoler.json",
     "available": true,
     "tags": [
-      "politica",
       "biografia",
       "cultura",
+      "politica",
       "europa",
       "catalunya",
       "catalans"
     ],
-    "category": "Personatges"
+    "category": "Monarquia"
   },
   {
     "id": "ep-376",
@@ -18827,14 +18753,14 @@
     "jsonFile": "376-la-iv-croada.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
+      "cultura",
       "asia",
       "romans",
       "reconquesta",
       "creuades",
-      "alta-edat-mitjana",
-      "antiguitat"
+      "antiguitat",
+      "alta-edat-mitjana"
     ],
     "category": "Guerres i Batalles"
   },
@@ -18872,8 +18798,8 @@
     "jsonFile": "378-els-pioners-del-cinema.json",
     "available": true,
     "tags": [
-      "politica",
       "cultura",
+      "politica",
       "catalunya",
       "catalans"
     ],
@@ -18892,6 +18818,14 @@
     "filename": "379-el-naixement-de-la-barceloneta.mp3",
     "jsonFile": "379-el-naixement-de-la-barceloneta.json",
     "available": true,
+    "tags": [
+      "guerra",
+      "catalunya",
+      "catalans",
+      "guerra-civil",
+      "segle-xx",
+      "contemporani"
+    ],
     "category": "Guerres i Batalles"
   },
   {
@@ -18931,7 +18865,7 @@
     "tags": [
       "guerra"
     ],
-    "category": "Època Romana"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "ep-382",
@@ -18968,9 +18902,10 @@
     "jsonFile": "383-la-pedra-de-rosetta.json",
     "available": true,
     "tags": [
-      "catalunya",
-      "espanya",
-      "catalans"
+      "cultura",
+      "politica",
+      "grecs",
+      "antiguitat"
     ],
     "category": "Monarquia"
   },
@@ -18990,10 +18925,10 @@
     "tags": [
       "cultura",
       "romans",
-      "baixa-edat-mitjana",
-      "antiguitat"
+      "antiguitat",
+      "baixa-edat-mitjana"
     ],
-    "category": "Edat Mitjana"
+    "category": "Cultura i Societat"
   },
   {
     "id": "ep-385",
@@ -19009,18 +18944,18 @@
     "jsonFile": "385-el-tractat-dels-pirineus.json",
     "available": true,
     "tags": [
-      "guerra",
-      "cultura",
       "politica",
+      "cultura",
+      "guerra",
       "catalunya",
       "espanya",
       "europa",
       "catalans",
-      "segle-xvii",
+      "contemporani",
       "edat-moderna",
-      "contemporani"
+      "segle-xvii"
     ],
-    "category": "Catalunya Moderna"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "ep-386",
@@ -19037,8 +18972,8 @@
     "available": true,
     "tags": [
       "religió",
-      "cultura",
       "guerra",
+      "cultura",
       "jueus",
       "expulsio-jueus",
       "segle-xx"
@@ -19213,9 +19148,9 @@
     "jsonFile": "396-la-cuina-dels-ibers.json",
     "available": true,
     "tags": [
-      "cultura",
       "biografia",
       "societat",
+      "cultura",
       "ibers",
       "romans",
       "antiguitat"
@@ -19236,11 +19171,11 @@
     "jsonFile": "397-richard-strauss.json",
     "available": true,
     "tags": [
-      "cultura",
       "biografia",
-      "politica"
+      "politica",
+      "cultura"
     ],
-    "category": "Monarquia"
+    "category": "Cultura i Societat"
   },
   {
     "id": "ep-398",
@@ -19275,8 +19210,8 @@
     "jsonFile": "399-els-refugis-de-la-guerra-civil.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
+      "cultura",
       "espanya",
       "america",
       "guerra-civil",
@@ -19319,7 +19254,11 @@
     "jsonFile": "401-les-presons-de-barcelona.json",
     "available": true,
     "tags": [
-      "catalunya"
+      "religió",
+      "politica",
+      "catalunya",
+      "inquisicio",
+      "contemporani"
     ],
     "category": "Monarquia"
   },
@@ -19337,11 +19276,10 @@
     "jsonFile": "402-el-descobriment-de-troia.json",
     "available": true,
     "tags": [
+      "cultura",
       "ciencia",
-      "guerra",
-      "asia",
-      "descobriments",
-      "edat-moderna"
+      "francs",
+      "descobriments"
     ],
     "category": "Catalunya Moderna"
   },
@@ -19385,8 +19323,8 @@
     "jsonFile": "404-mao-i-la-revolució-cultural.json",
     "available": true,
     "tags": [
-      "politica",
       "cultura",
+      "politica",
       "asia",
       "guerra-civil",
       "segle-xx"
@@ -19407,17 +19345,15 @@
     "jsonFile": "405-la-medicina-del-1714.json",
     "available": true,
     "tags": [
-      "politica",
       "cultura",
-      "ciencia",
+      "politica",
       "guerra",
       "catalunya",
       "catalans",
       "guerra-successio",
-      "edat-moderna",
       "segle-xviii"
     ],
-    "category": "Cultura i Societat"
+    "category": "Catalunya Moderna"
   },
   {
     "id": "ep-406",
@@ -19436,8 +19372,8 @@
       "religió",
       "europa",
       "francs",
-      "romans",
       "cristians",
+      "romans",
       "guerra-frances",
       "antiguitat",
       "segle-xix"
@@ -19458,12 +19394,12 @@
     "jsonFile": "407-la-descoberta-del-romànic.json",
     "available": true,
     "tags": [
-      "ciencia",
-      "religió",
       "cultura",
+      "religió",
+      "ciencia",
       "catalunya",
-      "romans",
       "catalans",
+      "romans",
       "antiguitat"
     ],
     "category": "Època Romana"
@@ -19520,12 +19456,12 @@
     "jsonFile": "410-johann-sebastian-bach.json",
     "available": true,
     "tags": [
+      "biografia",
+      "religió",
       "cultura",
       "societat",
-      "religió",
-      "biografia",
-      "cristians",
       "romans",
+      "cristians",
       "antiguitat"
     ],
     "category": "Cultura i Societat"
@@ -19566,13 +19502,13 @@
     "tags": [
       "catalunya",
       "europa",
-      "romans",
       "musulmans",
+      "romans",
       "catalans",
-      "baixa-edat-mitjana",
-      "antiguitat"
+      "antiguitat",
+      "baixa-edat-mitjana"
     ],
-    "category": "Edat Mitjana"
+    "category": "Monarquia"
   },
   {
     "id": "ep-413",
@@ -19588,9 +19524,10 @@
     "jsonFile": "413-la-batalla-de-verdun.json",
     "available": true,
     "tags": [
-      "cultura",
+      "ciencia",
       "guerra",
-      "fenicis",
+      "europa",
+      "ibers",
       "romans",
       "antiguitat"
     ],
@@ -19609,12 +19546,6 @@
     "filename": "414-el-naixement-de-l-agricultura.mp3",
     "jsonFile": "414-el-naixement-de-l-agricultura.json",
     "available": true,
-    "tags": [
-      "ciencia",
-      "cultura",
-      "descobriments",
-      "prehistoria"
-    ],
     "category": "General"
   },
   {
@@ -19637,8 +19568,8 @@
       "catalunya",
       "europa",
       "cristians",
-      "francs",
-      "catalans"
+      "catalans",
+      "francs"
     ],
     "category": "General"
   },
@@ -19656,9 +19587,9 @@
     "jsonFile": "416-ovidi-montllor.json",
     "available": true,
     "tags": [
-      "cultura",
       "biografia",
-      "politica"
+      "politica",
+      "cultura"
     ],
     "category": "Personatges"
   },
@@ -19676,14 +19607,14 @@
     "jsonFile": "417-els-castellarnau-industrials-del-ferro.json",
     "available": true,
     "tags": [
-      "arquitectura",
       "guerra",
       "economia",
+      "arquitectura",
       "catalunya",
       "espanya",
       "baixa-edat-mitjana",
-      "prehistoria",
-      "segle-xix"
+      "segle-xix",
+      "prehistoria"
     ],
     "category": "Edat Mitjana"
   },
@@ -19701,14 +19632,10 @@
     "jsonFile": "418-els-consolats-de-mar.json",
     "available": true,
     "tags": [
-      "politica",
+      "cultura",
       "catalunya",
-      "grecs",
-      "catalans",
-      "romans",
-      "guerra-civil",
-      "antiguitat",
-      "segle-xx"
+      "mediterrani",
+      "reconquesta"
     ],
     "category": "Monarquia"
   },
@@ -19774,7 +19701,7 @@
       "europa",
       "baixa-edat-mitjana"
     ],
-    "category": "Edat Mitjana"
+    "category": "Cultura i Societat"
   },
   {
     "id": "ep-422",
@@ -19790,15 +19717,15 @@
     "jsonFile": "422-el-delme.json",
     "available": true,
     "tags": [
+      "cultura",
       "politica",
       "religió",
-      "cultura",
       "catalunya",
       "cristians",
       "catalans",
       "baixa-edat-mitjana"
     ],
-    "category": "Edat Mitjana"
+    "category": "Monarquia"
   },
   {
     "id": "ep-423",
@@ -19814,8 +19741,8 @@
     "jsonFile": "423-la-història-de-l-educació.json",
     "available": true,
     "tags": [
-      "cultura",
-      "esport"
+      "societat",
+      "politica"
     ],
     "category": "Cultura i Societat"
   },
@@ -19833,14 +19760,14 @@
     "jsonFile": "424-la-guerra-dels-trenta-anys.json",
     "available": true,
     "tags": [
-      "guerra",
       "politica",
+      "guerra",
       "europa",
       "romans",
       "cristians",
       "antiguitat"
     ],
-    "category": "Monarquia"
+    "category": "Època Romana"
   },
   {
     "id": "ep-425",
@@ -19861,7 +19788,7 @@
       "cristians",
       "baixa-edat-mitjana"
     ],
-    "category": "Edat Mitjana"
+    "category": "Monarquia"
   },
   {
     "id": "ep-426",
@@ -19879,9 +19806,16 @@
     "tags": [
       "politica",
       "cultura",
+      "religió",
+      "arquitectura",
+      "guerra",
       "catalunya",
-      "espanya",
-      "catalans"
+      "cristians",
+      "catalans",
+      "jueus",
+      "expulsio-jueus",
+      "inquisicio",
+      "baixa-edat-mitjana"
     ],
     "category": "General"
   },
@@ -19899,8 +19833,8 @@
     "jsonFile": "427-la-noblesa-tortosina-del-segle-xvi.json",
     "available": true,
     "tags": [
-      "cultura",
       "politica",
+      "cultura",
       "catalunya",
       "catalans"
     ],
@@ -19938,11 +19872,13 @@
     "jsonFile": "429-de-la-guerra-dels-segadors-a-la-de-succesió.json",
     "available": true,
     "tags": [
+      "politica",
       "guerra",
-      "guerra-successio",
+      "catalunya",
+      "europa",
+      "catalans",
       "guerra-segadors",
-      "segle-xvii",
-      "segle-xviii"
+      "segle-xvii"
     ],
     "category": "Guerres i Batalles"
   },
@@ -19960,8 +19896,8 @@
     "jsonFile": "430-el-crac-del-29.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
+      "cultura",
       "economia"
     ],
     "category": "Guerres i Batalles"
@@ -19980,10 +19916,10 @@
     "jsonFile": "431-vida-de-buda.json",
     "available": true,
     "tags": [
-      "societat",
-      "arquitectura",
-      "biografia",
       "cultura",
+      "societat",
+      "biografia",
+      "arquitectura",
       "asia"
     ],
     "category": "Monarquia"
@@ -20004,10 +19940,10 @@
     "tags": [
       "guerra",
       "biografia",
-      "europa",
       "catalunya",
-      "francs",
+      "europa",
       "catalans",
+      "francs",
       "guerra-frances",
       "segle-xix"
     ],
@@ -20026,7 +19962,7 @@
     "filename": "433-el-compromís-de-casp.mp3",
     "jsonFile": "433-el-compromís-de-casp.json",
     "available": true,
-    "category": "Edat Mitjana"
+    "category": "Monarquia"
   },
   {
     "id": "ep-434",
@@ -20048,12 +19984,12 @@
       "francs",
       "guerra-successio",
       "guerra-frances",
+      "edat-moderna",
       "segle-xvii",
       "segle-xviii",
-      "segle-xix",
-      "edat-moderna"
+      "segle-xix"
     ],
-    "category": "Monarquia"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "ep-435",
@@ -20069,8 +20005,8 @@
     "jsonFile": "435-ramon-casas.json",
     "available": true,
     "tags": [
-      "cultura",
       "biografia",
+      "cultura",
       "catalunya",
       "catalans"
     ],
@@ -20090,17 +20026,17 @@
     "jsonFile": "436-la-fi-dels-templers.json",
     "available": true,
     "tags": [
-      "guerra",
       "politica",
+      "guerra",
       "asia",
       "francs",
       "creuades",
       "guerra-frances",
       "edat-moderna",
-      "segle-xix",
-      "baixa-edat-mitjana"
+      "baixa-edat-mitjana",
+      "segle-xix"
     ],
-    "category": "Edat Mitjana"
+    "category": "Monarquia"
   },
   {
     "id": "ep-437",
@@ -20116,12 +20052,9 @@
     "jsonFile": "437-pop-català-dels-60-i-els-70.json",
     "available": true,
     "tags": [
-      "cultura",
-      "politica",
       "catalunya",
       "catalans",
-      "ibers",
-      "guerra-frances"
+      "francs"
     ],
     "category": "General"
   },
@@ -20161,8 +20094,8 @@
       "guerra",
       "politica",
       "catalunya",
-      "catalans",
       "ibers",
+      "catalans",
       "segle-xix"
     ],
     "category": "Guerres i Batalles"
@@ -20185,7 +20118,7 @@
       "guerra-successio",
       "segle-xviii"
     ],
-    "category": "Monarquia"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "ep-441",
@@ -20201,15 +20134,11 @@
     "jsonFile": "441-la-conquesta-de-la-dàcia.json",
     "available": true,
     "tags": [
-      "economia",
       "politica",
-      "cultura",
+      "mediterrani",
       "catalunya",
-      "europa",
-      "catalans",
-      "ibers",
-      "contemporani",
-      "segle-xix"
+      "reconquesta",
+      "baixa-edat-mitjana"
     ],
     "category": "Època Romana"
   },
@@ -20268,11 +20197,11 @@
     "jsonFile": "444-la-cuina-romana.json",
     "available": true,
     "tags": [
-      "catalunya",
-      "catalans",
-      "baixa-edat-mitjana"
+      "mediterrani",
+      "romans",
+      "antiguitat"
     ],
-    "category": "Època Romana"
+    "category": "Cultura i Societat"
   },
   {
     "id": "ep-445",
@@ -20290,11 +20219,11 @@
     "tags": [
       "guerra",
       "politica",
-      "francs",
+      "cultura",
+      "catalunya",
+      "catalans",
       "guerra-successio",
-      "guerra-frances",
-      "segle-xix",
-      "segle-xvii",
+      "edat-moderna",
       "segle-xviii"
     ],
     "category": "Guerres i Batalles"
@@ -20313,8 +20242,8 @@
     "jsonFile": "446-el-jutge-dels-cementiris-clandestins.json",
     "available": true,
     "tags": [
-      "biografia",
       "guerra",
+      "biografia",
       "religió",
       "cristians",
       "guerra-civil",
@@ -20376,8 +20305,8 @@
     "tags": [
       "guerra",
       "politica",
-      "ibers",
-      "francs"
+      "francs",
+      "ibers"
     ],
     "category": "General"
   },
@@ -20479,14 +20408,14 @@
     "available": true,
     "tags": [
       "guerra",
-      "europa",
       "catalunya",
       "espanya",
+      "europa",
       "catalans",
       "guerra-successio",
       "segle-xviii"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Catalunya Moderna"
   },
   {
     "id": "ep-455",
@@ -20502,13 +20431,9 @@
     "jsonFile": "455-la-batalla-de-gaugamela.json",
     "available": true,
     "tags": [
-      "politica",
-      "guerra",
-      "catalunya",
-      "romans",
-      "antiguitat"
+      "guerra"
     ],
-    "category": "Monarquia"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "ep-456",
@@ -20567,16 +20492,14 @@
     "jsonFile": "458-l-arqueologia-durant-el-franquisme.json",
     "available": true,
     "tags": [
-      "biografia",
-      "politica",
       "cultura",
+      "biografia",
       "espanya",
       "catalunya",
-      "francs",
-      "prehistoria",
+      "catalans",
       "segle-xx"
     ],
-    "category": "Època Romana"
+    "category": "Segle XX"
   },
   {
     "id": "ep-459",
@@ -20658,9 +20581,9 @@
     "jsonFile": "462-la-novel-la-de-cavalleries.json",
     "available": true,
     "tags": [
-      "catalunya",
-      "espanya",
-      "catalans"
+      "cultura",
+      "biografia",
+      "baixa-edat-mitjana"
     ],
     "category": "Edat Mitjana"
   },
@@ -20678,12 +20601,8 @@
     "jsonFile": "463-la-música-del-cinema-bèl-lic.json",
     "available": true,
     "tags": [
-      "politica",
       "cultura",
-      "ciencia",
-      "catalunya",
-      "catalans",
-      "edat-moderna"
+      "politica"
     ],
     "category": "Cultura i Societat"
   },
@@ -20707,7 +20626,7 @@
       "romans",
       "antiguitat"
     ],
-    "category": "Època Romana"
+    "category": "Cultura i Societat"
   },
   {
     "id": "ep-465",
@@ -20807,8 +20726,18 @@
     "jsonFile": "469-la-publicitat-a-catalunya.json",
     "available": true,
     "tags": [
+      "politica",
+      "cultura",
+      "religió",
+      "arquitectura",
+      "guerra",
       "catalunya",
-      "catalans"
+      "cristians",
+      "catalans",
+      "jueus",
+      "expulsio-jueus",
+      "inquisicio",
+      "baixa-edat-mitjana"
     ],
     "category": "General"
   },
@@ -20879,8 +20808,8 @@
     "jsonFile": "473-joan-fuster-i-el-valencianisme.json",
     "available": true,
     "tags": [
-      "cultura",
       "biografia",
+      "cultura",
       "francs",
       "segle-xx"
     ],
@@ -20900,9 +20829,9 @@
     "jsonFile": "474-la-florència-del-renaixement.json",
     "available": true,
     "tags": [
+      "politica",
       "cultura",
       "economia",
-      "politica",
       "ibers",
       "baixa-edat-mitjana",
       "edat-moderna"
@@ -21007,9 +20936,7 @@
     "jsonFile": "479-la-música-de-ball.json",
     "available": true,
     "tags": [
-      "catalunya",
-      "espanya",
-      "catalans"
+      "cultura"
     ],
     "category": "Cultura i Societat"
   },
@@ -21071,20 +20998,12 @@
     "jsonFile": "482-la-catalunya-nova.json",
     "available": true,
     "tags": [
-      "guerra",
-      "politica",
-      "religió",
       "cultura",
-      "arquitectura",
+      "societat",
       "catalunya",
-      "cristians",
-      "catalans",
-      "jueus",
-      "inquisicio",
-      "expulsio-jueus",
-      "baixa-edat-mitjana"
+      "catalans"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Edat Mitjana"
   },
   {
     "id": "ep-483",
@@ -21101,8 +21020,8 @@
     "available": true,
     "tags": [
       "cultura",
-      "biografia",
       "societat",
+      "biografia",
       "catalunya",
       "francs"
     ],
@@ -21162,8 +21081,8 @@
     "jsonFile": "486-els-àpats-del-baró-de-maldà-plaers-1.json",
     "available": true,
     "tags": [
-      "arquitectura",
       "biografia",
+      "arquitectura",
       "catalunya",
       "catalans"
     ],
@@ -21204,16 +21123,16 @@
     "jsonFile": "488-marià-fortuny-artistes-1.json",
     "available": true,
     "tags": [
+      "guerra",
       "biografia",
       "cultura",
-      "guerra",
       "catalunya",
       "romans",
       "catalans",
       "francs",
       "antiguitat"
     ],
-    "category": "Personatges"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "ep-489",
@@ -21250,8 +21169,8 @@
     "tags": [
       "guerra",
       "cultura",
-      "francs",
       "ibers",
+      "francs",
       "guerra-frances",
       "segle-xix"
     ],
@@ -21271,13 +21190,13 @@
     "jsonFile": "491-la-ciutadella-grans-obres-1.json",
     "available": true,
     "tags": [
-      "arquitectura",
+      "guerra",
       "biografia",
       "ciencia",
-      "guerra",
+      "arquitectura",
       "catalunya"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Personatges"
   },
   {
     "id": "ep-492",
@@ -21316,8 +21235,8 @@
     "tags": [
       "cultura",
       "catalunya",
-      "catalans",
-      "francs"
+      "francs",
+      "catalans"
     ],
     "category": "General"
   },
@@ -21335,15 +21254,15 @@
     "jsonFile": "494-la-junta-de-comerç-institucions-1.json",
     "available": true,
     "tags": [
-      "economia",
-      "ciencia",
       "politica",
+      "ciencia",
+      "economia",
       "catalunya",
       "catalans",
       "guerra-successio",
-      "segle-xix",
       "segle-xviii",
-      "edat-moderna"
+      "edat-moderna",
+      "segle-xix"
     ],
     "category": "Monarquia"
   },
@@ -21366,13 +21285,13 @@
       "cultura",
       "arquitectura",
       "catalunya",
-      "catalans",
       "francs",
+      "catalans",
       "guerra-successio",
       "baixa-edat-mitjana",
       "segle-xviii"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Catalunya Moderna"
   },
   {
     "id": "ep-496",
@@ -21392,9 +21311,9 @@
       "cultura",
       "espanya",
       "catalunya",
-      "cristians",
       "catalans",
       "francs",
+      "cristians",
       "guerra-civil",
       "segle-xx"
     ],
@@ -21414,10 +21333,10 @@
     "jsonFile": "497-el-doctor-pere-mata-científics-1.json",
     "available": true,
     "tags": [
-      "biografia",
       "ciencia",
-      "politica",
+      "biografia",
       "cultura",
+      "politica",
       "catalunya",
       "espanya",
       "ibers",
@@ -21440,10 +21359,10 @@
     "jsonFile": "498-les-dones-en-l-antic-règim-dones-2.json",
     "available": true,
     "tags": [
-      "societat",
       "religió",
-      "cultura",
+      "societat",
       "politica",
+      "cultura",
       "cristians"
     ],
     "category": "General"
@@ -21483,16 +21402,16 @@
     "jsonFile": "500-el-diari-de-barcelona-lletres-2.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
       "politica",
+      "cultura",
       "catalunya",
       "catalans",
       "francs",
       "guerra-frances",
       "segle-xix"
     ],
-    "category": "Monarquia"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "ep-501",
@@ -21510,8 +21429,8 @@
     "tags": [
       "esport",
       "catalunya",
-      "ibers",
-      "catalans"
+      "catalans",
+      "ibers"
     ],
     "category": "Cultura i Societat"
   },
@@ -21549,8 +21468,8 @@
     "jsonFile": "503-pau-casals-artistes-2.json",
     "available": true,
     "tags": [
-      "cultura",
       "politica",
+      "cultura",
       "catalunya",
       "catalans",
       "contemporani"
@@ -21572,9 +21491,9 @@
     "available": true,
     "tags": [
       "catalunya",
-      "musulmans",
-      "francs",
       "catalans",
+      "francs",
+      "musulmans",
       "guerra-civil",
       "segle-xx"
     ],
@@ -21594,19 +21513,13 @@
     "jsonFile": "505-els-catalans-i-la-primera-guerra-mundial-internacional-3.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
-      "europa",
+      "cultura",
       "catalunya",
       "espanya",
-      "francs",
-      "romans",
       "catalans",
-      "ibers",
-      "guerra-civil",
-      "antiguitat",
-      "segle-xix",
-      "contemporani"
+      "cristians",
+      "segle-xx"
     ],
     "category": "Guerres i Batalles"
   },
@@ -21624,8 +21537,8 @@
     "jsonFile": "506-grans-batalles-napoleòniques-violència-2.json",
     "available": true,
     "tags": [
-      "guerra",
       "cultura",
+      "guerra",
       "europa"
     ],
     "category": "Guerres i Batalles"
@@ -21644,16 +21557,16 @@
     "jsonFile": "507-l-expansió-ferroviària-grans-obres-3.json",
     "available": true,
     "tags": [
-      "biografia",
-      "politica",
-      "economia",
       "cultura",
+      "biografia",
+      "economia",
+      "politica",
       "catalunya",
       "catalans",
       "prehistoria",
       "segle-xix"
     ],
-    "category": "Personatges"
+    "category": "Monarquia"
   },
   {
     "id": "ep-508",
@@ -21691,20 +21604,20 @@
     "jsonFile": "509-els-mossos-d-esquadra-violència-3.json",
     "available": true,
     "tags": [
+      "guerra",
       "politica",
       "cultura",
-      "guerra",
       "catalunya",
       "espanya",
       "catalans",
-      "guerra-civil",
       "guerra-successio",
+      "guerra-civil",
+      "segle-xx",
       "contemporani",
       "edat-moderna",
-      "segle-xviii",
-      "segle-xx"
+      "segle-xviii"
     ],
-    "category": "Segle XX"
+    "category": "Catalunya Moderna"
   },
   {
     "id": "ep-510",
@@ -21720,9 +21633,9 @@
     "jsonFile": "510-carme-ballester-dones-3.json",
     "available": true,
     "tags": [
-      "biografia",
       "politica",
       "societat",
+      "biografia",
       "catalunya",
       "catalans",
       "contemporani"
@@ -21743,9 +21656,9 @@
     "jsonFile": "513-lo-tigre-del-maestrat-violència-4.json",
     "available": true,
     "tags": [
-      "biografia",
-      "guerra",
       "cultura",
+      "guerra",
+      "biografia",
       "europa",
       "segle-xix"
     ],
@@ -21793,7 +21706,7 @@
       "catalans",
       "segle-xx"
     ],
-    "category": "Cultura i Societat"
+    "category": "Segle XX"
   },
   {
     "id": "ep-517",
@@ -21810,9 +21723,9 @@
     "available": true,
     "tags": [
       "guerra",
+      "america",
       "catalunya",
-      "espanya",
-      "america"
+      "espanya"
     ],
     "category": "Guerres i Batalles"
   },
@@ -21831,16 +21744,16 @@
     "available": true,
     "tags": [
       "guerra",
+      "biografia",
       "politica",
       "cultura",
       "societat",
-      "biografia",
-      "europa",
       "catalunya",
+      "europa",
       "guerra-civil",
       "segle-xx"
     ],
-    "category": "Segle XX"
+    "category": "Monarquia"
   },
   {
     "id": "ep-519",
@@ -21858,8 +21771,8 @@
     "tags": [
       "guerra",
       "cultura",
-      "francs",
       "ibers",
+      "francs",
       "segle-xix"
     ],
     "category": "Guerres i Batalles"
@@ -21897,8 +21810,8 @@
     "available": true,
     "tags": [
       "catalunya",
-      "catalans",
       "romans",
+      "catalans",
       "antiguitat"
     ],
     "category": "Època Romana"
@@ -21917,8 +21830,8 @@
     "jsonFile": "522-la-renaixença-lletres-5.json",
     "available": true,
     "tags": [
-      "cultura",
       "arquitectura",
+      "cultura",
       "catalunya"
     ],
     "category": "General"
@@ -21957,15 +21870,15 @@
     "jsonFile": "524-el-risorgimento-i-catalunya-influència-internacional-4.json",
     "available": true,
     "tags": [
-      "guerra",
       "cultura",
       "arquitectura",
+      "guerra",
       "europa",
       "catalunya",
       "espanya",
-      "ibers",
       "romans",
       "catalans",
+      "ibers",
       "antiguitat",
       "segle-xix"
     ],
@@ -21985,9 +21898,9 @@
     "jsonFile": "525-jordi-sabater-pi-científics-2.json",
     "available": true,
     "tags": [
-      "cultura",
       "biografia",
       "ciencia",
+      "cultura",
       "catalunya",
       "catalans"
     ],
@@ -22029,8 +21942,8 @@
     "jsonFile": "527-la-columna-macià-companys-violència-6.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
+      "cultura",
       "catalunya",
       "catalans",
       "guerra-civil",
@@ -22053,15 +21966,15 @@
     "jsonFile": "528-la-propaganda-del-trienni-liberal-la-resistència-3.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
       "politica",
+      "cultura",
       "ibers",
+      "segle-xix",
       "contemporani",
-      "baixa-edat-mitjana",
-      "segle-xix"
+      "baixa-edat-mitjana"
     ],
-    "category": "Monarquia"
+    "category": "Edat Mitjana"
   },
   {
     "id": "ep-529",
@@ -22084,7 +21997,7 @@
       "segle-xix",
       "segle-xx"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Segle XX"
   },
   {
     "id": "ep-530",
@@ -22121,8 +22034,8 @@
     "jsonFile": "531-la-junta-superior-institucions-4.json",
     "available": true,
     "tags": [
-      "guerra",
       "politica",
+      "guerra",
       "catalunya",
       "catalans",
       "francs",
@@ -22146,11 +22059,11 @@
     "available": true,
     "tags": [
       "biografia",
-      "societat",
       "politica",
+      "societat",
       "ibers"
     ],
-    "category": "Monarquia"
+    "category": "Cultura i Societat"
   },
   {
     "id": "ep-533",
@@ -22166,9 +22079,9 @@
     "jsonFile": "533-una-societat-assetjada-la-resistència-4.json",
     "available": true,
     "tags": [
-      "guerra",
-      "politica",
       "societat",
+      "politica",
+      "guerra",
       "catalunya",
       "catalans"
     ],
@@ -22255,8 +22168,8 @@
     "jsonFile": "537-vida-d-august-imperi-romà-1.json",
     "available": true,
     "tags": [
-      "politica",
       "biografia",
+      "politica",
       "romans",
       "antiguitat"
     ],
@@ -22295,8 +22208,8 @@
     "jsonFile": "539-newton-vs.-leibniz.json",
     "available": true,
     "tags": [
-      "cultura",
-      "ciencia"
+      "ciencia",
+      "cultura"
     ],
     "category": "General"
   },
@@ -22314,8 +22227,8 @@
     "jsonFile": "540-els-arxius-notarials.json",
     "available": true,
     "tags": [
-      "biografia",
       "cultura",
+      "biografia",
       "catalunya"
     ],
     "category": "Personatges"
@@ -22356,9 +22269,9 @@
     "available": true,
     "tags": [
       "biografia",
+      "guerra",
       "politica",
       "cultura",
-      "guerra",
       "catalunya",
       "catalans"
     ],
@@ -22420,14 +22333,14 @@
     "tags": [
       "biografia",
       "politica",
-      "cultura",
       "arquitectura",
+      "cultura",
       "espanya",
       "musulmans",
       "francs",
       "baixa-edat-mitjana"
     ],
-    "category": "Edat Mitjana"
+    "category": "Personatges"
   },
   {
     "id": "ep-546",
@@ -22464,12 +22377,12 @@
     "available": true,
     "tags": [
       "religió",
-      "societat",
       "cultura",
+      "societat",
       "cristians",
       "baixa-edat-mitjana"
     ],
-    "category": "Edat Mitjana"
+    "category": "Cultura i Societat"
   },
   {
     "id": "ep-548",
@@ -22485,8 +22398,8 @@
     "jsonFile": "548-la-venjança-catalana-vista-pels-bizantins.json",
     "available": true,
     "tags": [
-      "asia",
       "catalunya",
+      "asia",
       "grecs",
       "antiguitat"
     ],
@@ -22506,10 +22419,16 @@
     "jsonFile": "549-el-cartellisme-a-catalunya.json",
     "available": true,
     "tags": [
+      "economia",
+      "asia",
       "catalunya",
-      "catalans"
+      "europa",
+      "ibers",
+      "catalans",
+      "segle-xix",
+      "prehistoria"
     ],
-    "category": "Segle XX"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "ep-550",
@@ -22549,10 +22468,10 @@
       "guerra",
       "romans",
       "grecs",
-      "baixa-edat-mitjana",
-      "antiguitat"
+      "antiguitat",
+      "baixa-edat-mitjana"
     ],
-    "category": "Època Romana"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "ep-552",
@@ -22568,11 +22487,8 @@
     "jsonFile": "552-els-jesuïtes-a-catalunya.json",
     "available": true,
     "tags": [
-      "religió",
       "catalunya",
-      "catalans",
-      "jueus",
-      "expulsio-jueus"
+      "catalans"
     ],
     "category": "Època Romana"
   },
@@ -22593,7 +22509,7 @@
       "politica",
       "baixa-edat-mitjana"
     ],
-    "category": "Edat Mitjana"
+    "category": "Cultura i Societat"
   },
   {
     "id": "ep-554",
@@ -22630,13 +22546,14 @@
     "jsonFile": "555-la-medicina-al-segle-xviii.json",
     "available": true,
     "tags": [
-      "guerra",
       "cultura",
-      "ciencia",
+      "politica",
+      "guerra",
+      "europa",
       "catalunya",
       "catalans",
-      "guerra-successio",
-      "segle-xviii"
+      "guerra-civil",
+      "segle-xx"
     ],
     "category": "Cultura i Societat"
   },
@@ -22654,14 +22571,14 @@
     "jsonFile": "556-els-100-dies-de-napoleó.json",
     "available": true,
     "tags": [
+      "politica",
       "cultura",
       "guerra",
-      "politica",
       "europa",
       "guerra-frances",
       "segle-xix"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Monarquia"
   },
   {
     "id": "ep-557",
@@ -22677,12 +22594,7 @@
     "jsonFile": "557-l-art-a-barcelona-a-la-i-guerra-mundial.json",
     "available": true,
     "tags": [
-      "guerra",
-      "cultura",
-      "catalunya",
-      "europa",
-      "francs",
-      "catalans"
+      "guerra"
     ],
     "category": "Guerres i Batalles"
   },
@@ -22734,8 +22646,8 @@
     "jsonFile": "560-el-cisma-de-l-imperi.-l-imperi-romà-5.json",
     "available": true,
     "tags": [
-      "politica",
       "cultura",
+      "politica",
       "asia",
       "romans",
       "antiguitat"
@@ -22756,7 +22668,11 @@
     "jsonFile": "561-la-guerra-del-vietnam.json",
     "available": true,
     "tags": [
-      "guerra"
+      "politica",
+      "guerra",
+      "ibers",
+      "guerra-civil",
+      "segle-xx"
     ],
     "category": "Segle XX"
   },
@@ -22773,7 +22689,7 @@
     "filename": "562-miguel-primo-de-rivera.mp3",
     "jsonFile": "562-miguel-primo-de-rivera.json",
     "available": true,
-    "category": "Guerres i Batalles"
+    "category": "Monarquia"
   },
   {
     "id": "ep-563",
@@ -22789,8 +22705,8 @@
     "jsonFile": "563-els-hoplites.json",
     "available": true,
     "tags": [
-      "guerra",
       "cultura",
+      "guerra",
       "grecs",
       "prehistoria",
       "antiguitat"
@@ -22876,9 +22792,9 @@
     "jsonFile": "567-la-creació-de-star-wars.json",
     "available": true,
     "tags": [
+      "guerra",
       "cultura",
       "biografia",
-      "guerra",
       "politica",
       "africa"
     ],
@@ -22898,9 +22814,9 @@
     "jsonFile": "568-la-reina-maria-dona-d-alfons-v.json",
     "available": true,
     "tags": [
-      "arquitectura",
-      "politica",
       "biografia",
+      "politica",
+      "arquitectura",
       "catalunya",
       "espanya",
       "europa",
@@ -22923,11 +22839,11 @@
     "jsonFile": "569-alan-turing-i-la-criptografia.json",
     "available": true,
     "tags": [
+      "biografia",
       "guerra",
-      "ciencia",
-      "biografia"
+      "ciencia"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Personatges"
   },
   {
     "id": "ep-570",
@@ -22943,8 +22859,10 @@
     "jsonFile": "570-la-inquisició-a-catalunya.json",
     "available": true,
     "tags": [
-      "esport",
+      "cultura",
+      "politica",
       "catalunya",
+      "espanya",
       "catalans"
     ],
     "category": "Edat Mitjana"
@@ -22968,7 +22886,7 @@
       "ibers",
       "edat-moderna"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Monarquia"
   },
   {
     "id": "ep-572",
@@ -22984,13 +22902,13 @@
     "jsonFile": "572-els-virreis.json",
     "available": true,
     "tags": [
+      "cultura",
       "biografia",
       "politica",
-      "cultura",
       "catalunya",
       "mediterrani",
-      "catalans",
       "ibers",
+      "catalans",
       "reconquesta"
     ],
     "category": "Època Romana"
@@ -23031,9 +22949,9 @@
     "jsonFile": "574-la-vida-de-la-classe-obrera-al-s.-xix.json",
     "available": true,
     "tags": [
-      "biografia",
-      "politica",
       "economia",
+      "politica",
+      "biografia",
       "catalunya",
       "catalans",
       "segle-xix"
@@ -23054,8 +22972,8 @@
     "jsonFile": "575-l-epigrafia-romana.json",
     "available": true,
     "tags": [
-      "politica",
       "societat",
+      "politica",
       "romans",
       "antiguitat"
     ],
@@ -23098,9 +23016,9 @@
     "available": true,
     "tags": [
       "guerra",
-      "francs",
-      "ibers",
-      "edat-moderna"
+      "politica",
+      "europa",
+      "inquisicio"
     ],
     "category": "Guerres i Batalles"
   },
@@ -23118,10 +23036,14 @@
     "jsonFile": "578-picasso-a-catalunya.json",
     "available": true,
     "tags": [
+      "economia",
+      "politica",
       "cultura",
-      "societat",
       "catalunya",
-      "catalans"
+      "europa",
+      "asia",
+      "catalans",
+      "segle-xix"
     ],
     "category": "Monarquia"
   },
@@ -23140,13 +23062,13 @@
     "available": true,
     "tags": [
       "guerra",
-      "cultura",
       "religió",
+      "cultura",
       "asia",
       "romans",
       "cristians",
-      "antiguitat",
-      "baixa-edat-mitjana"
+      "baixa-edat-mitjana",
+      "antiguitat"
     ],
     "category": "Edat Mitjana"
   },
@@ -23164,13 +23086,13 @@
     "jsonFile": "580-francesc-eiximenis.json",
     "available": true,
     "tags": [
-      "societat",
       "biografia",
       "politica",
       "cultura",
+      "societat",
       "catalunya",
-      "catalans",
       "francs",
+      "catalans",
       "baixa-edat-mitjana"
     ],
     "category": "Edat Mitjana"
@@ -23190,12 +23112,11 @@
     "available": true,
     "tags": [
       "guerra",
-      "politica",
-      "cultura",
-      "europa",
-      "asia"
+      "francs",
+      "ibers",
+      "edat-moderna"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Època Romana"
   },
   {
     "id": "ep-582",
@@ -23211,10 +23132,10 @@
     "jsonFile": "582-la-veu-de-catalunya.json",
     "available": true,
     "tags": [
-      "politica",
+      "cultura",
+      "societat",
       "catalunya",
-      "catalans",
-      "contemporani"
+      "catalans"
     ],
     "category": "Monarquia"
   },
@@ -23232,7 +23153,11 @@
     "jsonFile": "583-la-batalla-de-les-boques-de-l-ebre.json",
     "available": true,
     "tags": [
-      "guerra"
+      "cultura",
+      "guerra",
+      "fenicis",
+      "romans",
+      "antiguitat"
     ],
     "category": "Guerres i Batalles"
   },
@@ -23311,14 +23236,14 @@
     "available": true,
     "tags": [
       "religió",
-      "arquitectura",
-      "politica",
       "cultura",
       "ciencia",
-      "cristians",
+      "arquitectura",
+      "politica",
       "romans",
-      "antiguitat",
-      "baixa-edat-mitjana"
+      "cristians",
+      "baixa-edat-mitjana",
+      "antiguitat"
     ],
     "category": "Edat Mitjana"
   },
@@ -23377,8 +23302,11 @@
     "available": true,
     "tags": [
       "guerra",
+      "catalunya",
+      "espanya",
       "guerra-civil",
-      "segle-xx"
+      "segle-xx",
+      "contemporani"
     ],
     "category": "Segle XX"
   },
@@ -23433,10 +23361,10 @@
     "jsonFile": "593-els-jocs-olímpics-de-l-antiguitat.json",
     "available": true,
     "tags": [
-      "religió",
       "cultura",
-      "esport",
       "guerra",
+      "religió",
+      "esport",
       "grecs",
       "cristians",
       "antiguitat"
@@ -23457,17 +23385,9 @@
     "jsonFile": "595-pere-el-cerimoniós.json",
     "available": true,
     "tags": [
-      "biografia",
-      "politica",
-      "cultura",
-      "guerra",
-      "arquitectura",
-      "mediterrani",
-      "espanya",
-      "reconquesta",
-      "baixa-edat-mitjana"
+      "catalunya"
     ],
-    "category": "Monarquia"
+    "category": "Personatges"
   },
   {
     "id": "ep-596",
@@ -23507,8 +23427,8 @@
     "jsonFile": "597-el-naixement-del-llenguatge-història-del-cinema-2.json",
     "available": true,
     "tags": [
-      "politica",
       "cultura",
+      "politica",
       "romans",
       "antiguitat"
     ],
@@ -23528,8 +23448,8 @@
     "jsonFile": "598-el-judici-de-ramon-mercader.json",
     "available": true,
     "tags": [
-      "economia",
       "biografia",
+      "economia",
       "catalunya",
       "catalans"
     ],
@@ -23549,17 +23469,17 @@
     "jsonFile": "599-els-ducats-d-atenes-i-neopàtria.json",
     "available": true,
     "tags": [
+      "guerra",
       "politica",
       "cultura",
-      "guerra",
       "catalunya",
+      "grecs",
       "catalans",
       "francs",
-      "grecs",
       "guerra-frances",
       "segle-xix"
     ],
-    "category": "Època Romana"
+    "category": "Monarquia"
   },
   {
     "id": "ep-600",
@@ -23636,15 +23556,15 @@
     "jsonFile": "603-el-dia-que-barcelona-va-morir.json",
     "available": true,
     "tags": [
-      "politica",
       "cultura",
       "guerra",
+      "politica",
       "catalunya",
       "romans",
-      "baixa-edat-mitjana",
-      "antiguitat"
+      "antiguitat",
+      "baixa-edat-mitjana"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Època Romana"
   },
   {
     "id": "ep-604",
@@ -23682,11 +23602,11 @@
     "jsonFile": "605-la-indústria-de-l-aiguardent-a-reus.json",
     "available": true,
     "tags": [
-      "economia",
       "politica",
+      "economia",
+      "america",
       "catalunya",
       "europa",
-      "america",
       "catalans",
       "descobriments"
     ],
@@ -23706,8 +23626,8 @@
     "jsonFile": "606-els-grans-gèneres-història-del-cinema-4.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
+      "cultura",
       "francs"
     ],
     "category": "Guerres i Batalles"
@@ -23766,18 +23686,8 @@
     "jsonFile": "609-la-màgia-a-catalunya.json",
     "available": true,
     "tags": [
-      "guerra",
-      "politica",
-      "religió",
-      "cultura",
-      "arquitectura",
       "catalunya",
-      "cristians",
-      "catalans",
-      "jueus",
-      "inquisicio",
-      "expulsio-jueus",
-      "baixa-edat-mitjana"
+      "catalans"
     ],
     "category": "Monarquia"
   },
@@ -23820,15 +23730,15 @@
     "jsonFile": "611-història-de-l-anticatalanisme.json",
     "available": true,
     "tags": [
-      "politica",
-      "religió",
       "cultura",
       "arquitectura",
+      "politica",
+      "religió",
       "espanya",
       "francs",
       "jueus",
-      "reconquesta",
       "expulsio-jueus",
+      "reconquesta",
       "baixa-edat-mitjana"
     ],
     "category": "Edat Mitjana"
@@ -23847,9 +23757,9 @@
     "jsonFile": "612-el-nou-hollywood-història-del-cinema-5.json",
     "available": true,
     "tags": [
-      "politica",
       "cultura",
       "ciencia",
+      "politica",
       "catalunya",
       "catalans",
       "edat-moderna"
@@ -23889,13 +23799,6 @@
     "filename": "615-els-viatges-a-l-edat-mitjana.mp3",
     "jsonFile": "615-els-viatges-a-l-edat-mitjana.json",
     "available": true,
-    "tags": [
-      "cultura",
-      "societat",
-      "guerra",
-      "romans",
-      "antiguitat"
-    ],
     "category": "Guerres i Batalles"
   },
   {
@@ -23920,7 +23823,7 @@
       "guerra-civil",
       "segle-xx"
     ],
-    "category": "Segle XX"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "ep-617",
@@ -23936,9 +23839,9 @@
     "jsonFile": "617-la-transformació-del-cinema-història-del-cinema-6.json",
     "available": true,
     "tags": [
-      "politica",
       "cultura",
       "ciencia",
+      "politica",
       "catalunya",
       "catalans",
       "edat-moderna"
@@ -23978,11 +23881,15 @@
     "jsonFile": "619-la-matemàtica-de-la-història.json",
     "available": true,
     "tags": [
-      "guerra",
-      "biografia",
-      "ciencia",
+      "politica",
+      "cultura",
+      "economia",
       "catalunya",
-      "catalans"
+      "europa",
+      "catalans",
+      "ibers",
+      "segle-xix",
+      "contemporani"
     ],
     "category": "Guerres i Batalles"
   },
@@ -24002,8 +23909,8 @@
     "tags": [
       "cultura",
       "catalunya",
-      "catalans",
       "romans",
+      "catalans",
       "antiguitat"
     ],
     "category": "Època Romana"
@@ -24023,10 +23930,10 @@
     "available": true,
     "tags": [
       "politica",
-      "religió",
       "cultura",
-      "jueus",
+      "religió",
       "grecs",
+      "jueus",
       "antiguitat"
     ],
     "category": "General"
@@ -24066,9 +23973,9 @@
     "jsonFile": "623-història-de-l-alguer.json",
     "available": true,
     "tags": [
+      "societat",
       "cultura",
       "economia",
-      "societat",
       "catalunya",
       "catalans"
     ],
@@ -24091,7 +23998,7 @@
       "catalunya",
       "catalans"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Monarquia"
   },
   {
     "id": "ep-625",
@@ -24107,13 +24014,13 @@
     "jsonFile": "625-traficants-d-esclaus-a-l-àfrica.json",
     "available": true,
     "tags": [
-      "cultura",
       "politica",
+      "cultura",
       "economia",
-      "america",
-      "africa",
       "catalunya",
       "espanya",
+      "america",
+      "africa",
       "descobriments"
     ],
     "category": "Monarquia"
@@ -24132,9 +24039,9 @@
     "jsonFile": "626-tres-dames-del-segle-xv.json",
     "available": true,
     "tags": [
+      "societat",
       "biografia",
       "politica",
-      "societat",
       "cultura",
       "ibers"
     ],
@@ -24154,15 +24061,15 @@
     "jsonFile": "627-el-pas-del-rubicó.json",
     "available": true,
     "tags": [
-      "guerra",
       "politica",
+      "guerra",
       "europa",
       "romans",
       "guerra-civil",
       "antiguitat",
       "segle-xx"
     ],
-    "category": "Època Romana"
+    "category": "Segle XX"
   },
   {
     "id": "ep-628",
@@ -24198,10 +24105,7 @@
     "available": true,
     "tags": [
       "guerra",
-      "catalunya",
-      "espanya",
       "guerra-civil",
-      "contemporani",
       "segle-xx"
     ],
     "category": "Segle XX"
@@ -24239,10 +24143,10 @@
     "jsonFile": "631-vicent-marco-l-esquerra-valenciana.json",
     "available": true,
     "tags": [
-      "guerra",
       "biografia",
       "cultura",
       "politica",
+      "guerra",
       "francs",
       "guerra-civil",
       "reconquesta",
@@ -24264,7 +24168,11 @@
     "jsonFile": "632-el-setge-de-girona.json",
     "available": true,
     "tags": [
-      "guerra"
+      "guerra",
+      "catalunya",
+      "mediterrani",
+      "asia",
+      "baixa-edat-mitjana"
     ],
     "category": "Guerres i Batalles"
   },
@@ -24303,8 +24211,8 @@
     "jsonFile": "634-la-construcció-del-partenó.json",
     "available": true,
     "tags": [
-      "cultura",
       "arquitectura",
+      "cultura",
       "europa",
       "grecs",
       "romans",
@@ -24326,11 +24234,11 @@
     "jsonFile": "635-la-família-güell.json",
     "available": true,
     "tags": [
-      "politica",
-      "societat",
       "economia",
-      "catalunya",
+      "societat",
+      "politica",
       "america",
+      "catalunya",
       "catalans",
       "segle-xix"
     ],
@@ -24353,14 +24261,14 @@
       "guerra",
       "biografia",
       "politica",
-      "catalunya",
       "espanya",
+      "catalunya",
       "catalans",
       "guerra-successio",
-      "segle-xviii",
-      "edat-moderna"
+      "edat-moderna",
+      "segle-xviii"
     ],
-    "category": "Catalunya Moderna"
+    "category": "Personatges"
   },
   {
     "id": "ep-637",
@@ -24376,14 +24284,14 @@
     "jsonFile": "637-filip-i-la-unificació-de-grècia.json",
     "available": true,
     "tags": [
-      "politica",
-      "cultura",
       "guerra",
+      "politica",
       "biografia",
+      "cultura",
       "grecs",
       "antiguitat",
-      "prehistoria",
-      "baixa-edat-mitjana"
+      "baixa-edat-mitjana",
+      "prehistoria"
     ],
     "category": "Guerres i Batalles"
   },
@@ -24401,18 +24309,18 @@
     "jsonFile": "638-el-piano-a-barcelona.json",
     "available": true,
     "tags": [
-      "cultura",
-      "economia",
       "guerra",
       "politica",
+      "cultura",
+      "economia",
       "arquitectura",
       "catalunya",
-      "francs",
       "ibers",
+      "francs",
       "guerra-frances",
       "segle-xix"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Cultura i Societat"
   },
   {
     "id": "ep-639",
@@ -24428,14 +24336,14 @@
     "jsonFile": "639-maig-del-68.json",
     "available": true,
     "tags": [
-      "politica",
       "economia",
-      "ibers",
+      "politica",
       "francs",
-      "segle-xix",
-      "edat-moderna"
+      "ibers",
+      "edat-moderna",
+      "segle-xix"
     ],
-    "category": "Monarquia"
+    "category": "Catalunya Moderna"
   },
   {
     "id": "ep-640",
@@ -24491,8 +24399,8 @@
     "jsonFile": "642-joan-soler-faneca-i-el-canal-d-urgell.json",
     "available": true,
     "tags": [
-      "arquitectura",
       "cultura",
+      "arquitectura",
       "catalunya",
       "catalans"
     ],
@@ -24513,8 +24421,8 @@
     "available": true,
     "tags": [
       "cultura",
-      "politica",
       "biografia",
+      "politica",
       "catalunya",
       "catalans"
     ],
@@ -24577,14 +24485,14 @@
     "available": true,
     "tags": [
       "guerra",
-      "cultura",
-      "politica",
       "arquitectura",
+      "politica",
+      "cultura",
       "europa",
       "guerra-civil",
       "segle-xx"
     ],
-    "category": "Segle XX"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "ep-647",
@@ -24685,8 +24593,8 @@
     "jsonFile": "651-enriqueta-martí.json",
     "available": true,
     "tags": [
-      "biografia",
       "cultura",
+      "biografia",
       "catalunya"
     ],
     "category": "Personatges"
@@ -24705,8 +24613,8 @@
     "jsonFile": "652-guerra-freda-3.-la-revolta-hongaresa-del-56.json",
     "available": true,
     "tags": [
-      "guerra",
-      "cultura"
+      "cultura",
+      "guerra"
     ],
     "category": "Guerres i Batalles"
   },
@@ -24724,12 +24632,14 @@
     "jsonFile": "653-la-destrucció-de-monestirs-del-1835.json",
     "available": true,
     "tags": [
+      "guerra",
       "politica",
       "religió",
+      "cultura",
       "catalunya",
       "catalans",
-      "expulsio-jueus",
-      "expulsio-moriscos"
+      "ibers",
+      "segle-xix"
     ],
     "category": "General"
   },
@@ -24748,11 +24658,10 @@
     "available": true,
     "tags": [
       "politica",
-      "cultura",
-      "guerra",
-      "asia",
-      "guerra-civil",
-      "segle-xx"
+      "economia",
+      "catalunya",
+      "catalans",
+      "segle-xviii"
     ],
     "category": "Guerres i Batalles"
   },
@@ -24770,13 +24679,13 @@
     "jsonFile": "655-periodistes-catalans-de-la-república.json",
     "available": true,
     "tags": [
+      "cultura",
       "guerra",
       "politica",
-      "cultura",
       "catalunya",
-      "francs",
       "ibers",
       "catalans",
+      "francs",
       "guerra-civil",
       "segle-xix",
       "segle-xx"
@@ -24796,13 +24705,6 @@
     "filename": "656-pirates-i-corsaris-a-l-empordà.mp3",
     "jsonFile": "656-pirates-i-corsaris-a-l-empordà.json",
     "available": true,
-    "tags": [
-      "politica",
-      "economia",
-      "cultura",
-      "africa",
-      "francs"
-    ],
     "category": "Monarquia"
   },
   {
@@ -24820,8 +24722,8 @@
     "available": true,
     "tags": [
       "guerra",
-      "politica",
       "cultura",
+      "politica",
       "america"
     ],
     "category": "Guerres i Batalles"
@@ -24840,8 +24742,8 @@
     "jsonFile": "658-el-retorn-de-tarradellas.json",
     "available": true,
     "tags": [
-      "cultura",
       "politica",
+      "cultura",
       "catalunya",
       "espanya",
       "catalans",
@@ -24884,10 +24786,11 @@
     "jsonFile": "660-la-postguerra-al-port-de-la-selva.json",
     "available": true,
     "tags": [
-      "guerra",
+      "politica",
+      "economia",
       "catalunya",
-      "europa",
-      "catalans"
+      "catalans",
+      "segle-xviii"
     ],
     "category": "Guerres i Batalles"
   },
@@ -24905,13 +24808,13 @@
     "jsonFile": "661-l-infant-pere-d-aragó-i-d-anjou.json",
     "available": true,
     "tags": [
-      "biografia",
       "cultura",
       "arquitectura",
       "politica",
+      "biografia",
       "catalunya",
-      "catalans",
       "visigots",
+      "catalans",
       "baixa-edat-mitjana"
     ],
     "category": "Edat Mitjana"
@@ -24930,9 +24833,9 @@
     "jsonFile": "662-guerra-freda-5.-el-mur-de-berlín.json",
     "available": true,
     "tags": [
+      "cultura",
       "arquitectura",
       "guerra",
-      "cultura",
       "europa",
       "guerra-civil",
       "segle-xx"
@@ -24977,12 +24880,12 @@
     "jsonFile": "664-la-batalla-d-alpens.json",
     "available": true,
     "tags": [
-      "guerra",
       "cultura",
+      "guerra",
       "catalunya",
+      "catalans",
       "ibers",
       "francs",
-      "catalans",
       "segle-xix"
     ],
     "category": "Guerres i Batalles"
@@ -25001,8 +24904,8 @@
     "jsonFile": "665-joan-baptista-cendrós.json",
     "available": true,
     "tags": [
-      "cultura",
       "biografia",
+      "cultura",
       "baixa-edat-mitjana"
     ],
     "category": "Edat Mitjana"
@@ -25021,17 +24924,12 @@
     "jsonFile": "666-el-còlera-a-catalunya.json",
     "available": true,
     "tags": [
-      "guerra",
-      "politica",
-      "religió",
-      "cultura",
+      "societat",
       "arquitectura",
+      "politica",
       "catalunya",
-      "cristians",
+      "espanya",
       "catalans",
-      "jueus",
-      "inquisicio",
-      "expulsio-jueus",
       "baixa-edat-mitjana"
     ],
     "category": "General"
@@ -25050,8 +24948,8 @@
     "jsonFile": "667-la-guerra-freda-6.-polònia.json",
     "available": true,
     "tags": [
-      "religió",
       "guerra",
+      "religió",
       "cultura",
       "cristians",
       "segle-xx"
@@ -25090,13 +24988,13 @@
     "jsonFile": "669-pere-català-i-pic.json",
     "available": true,
     "tags": [
-      "biografia",
       "politica",
       "cultura",
+      "biografia",
       "catalunya",
       "catalans"
     ],
-    "category": "Monarquia"
+    "category": "Personatges"
   },
   {
     "id": "ep-670",
@@ -25112,11 +25010,16 @@
     "jsonFile": "670-la-premsa-durant-la-guerra-de-successió.json",
     "available": true,
     "tags": [
+      "politica",
       "guerra",
+      "catalunya",
+      "catalans",
       "guerra-successio",
+      "guerra-segadors",
+      "segle-xvii",
       "segle-xviii"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Catalunya Moderna"
   },
   {
     "id": "ep-671",
@@ -25132,8 +25035,8 @@
     "jsonFile": "671-trobada-a-villa-diodati.json",
     "available": true,
     "tags": [
-      "politica",
       "cultura",
+      "politica",
       "romans",
       "antiguitat"
     ],
@@ -25153,8 +25056,8 @@
     "jsonFile": "672-muntanyes-de-la-grècia-clàssica.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
+      "cultura",
       "grecs",
       "antiguitat"
     ],
@@ -25175,9 +25078,9 @@
     "available": true,
     "tags": [
       "biografia",
+      "europa",
       "catalunya",
-      "espanya",
-      "europa"
+      "espanya"
     ],
     "category": "Personatges"
   },
@@ -25195,13 +25098,14 @@
     "jsonFile": "674-alfabetització-a-la-catalunya-moderna.json",
     "available": true,
     "tags": [
+      "guerra",
+      "politica",
       "cultura",
-      "economia",
-      "europa",
-      "america",
       "catalunya",
       "catalans",
-      "descobriments"
+      "ibers",
+      "guerra-successio",
+      "segle-xviii"
     ],
     "category": "General"
   },
@@ -25240,13 +25144,13 @@
     "jsonFile": "676-beethoven.json",
     "available": true,
     "tags": [
-      "cultura",
       "biografia",
+      "cultura",
       "catalunya",
       "romans",
       "antiguitat"
     ],
-    "category": "Època Romana"
+    "category": "Cultura i Societat"
   },
   {
     "id": "ep-677",
@@ -25262,7 +25166,8 @@
     "jsonFile": "677-sarraïns-a-catalunya.json",
     "available": true,
     "tags": [
-      "esport",
+      "cultura",
+      "societat",
       "catalunya",
       "catalans"
     ],
@@ -25291,7 +25196,7 @@
       "segle-xx",
       "contemporani"
     ],
-    "category": "Segle XX"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "ep-679",
@@ -25347,12 +25252,12 @@
     "jsonFile": "681-la-revolució-russa.json",
     "available": true,
     "tags": [
-      "cultura",
       "economia",
       "politica",
-      "asia",
+      "cultura",
       "catalunya",
       "europa",
+      "asia",
       "catalans",
       "segle-xix"
     ],
@@ -25379,7 +25284,7 @@
       "catalans",
       "segle-xx"
     ],
-    "category": "Segle XX"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "ep-683",
@@ -25417,8 +25322,8 @@
     "jsonFile": "684-la-revolució-mexicana.json",
     "available": true,
     "tags": [
-      "politica",
       "cultura",
+      "politica",
       "francs"
     ],
     "category": "Monarquia"
@@ -25497,9 +25402,9 @@
     "jsonFile": "688-la-independència-de-portugal.json",
     "available": true,
     "tags": [
-      "politica",
-      "guerra-frances",
-      "edat-moderna"
+      "catalunya",
+      "espanya",
+      "catalans"
     ],
     "category": "General"
   },
@@ -25544,10 +25449,10 @@
     "tags": [
       "cultura",
       "economia",
-      "catalunya",
-      "espanya",
       "europa",
       "america",
+      "catalunya",
+      "espanya",
       "catalans",
       "descobriments"
     ],
@@ -25568,13 +25473,13 @@
     "available": true,
     "tags": [
       "politica",
-      "cultura",
       "guerra",
+      "cultura",
       "catalunya",
+      "romans",
       "musulmans",
       "catalans",
       "francs",
-      "romans",
       "antiguitat"
     ],
     "category": "Guerres i Batalles"
@@ -25636,13 +25541,19 @@
     "jsonFile": "694-la-guerra-civil-xinesa.json",
     "available": true,
     "tags": [
-      "cultura",
       "guerra",
+      "politica",
+      "cultura",
+      "religió",
+      "europa",
       "asia",
+      "cristians",
+      "ibers",
       "guerra-civil",
+      "segle-xix",
       "segle-xx"
     ],
-    "category": "Segle XX"
+    "category": "Guerres i Batalles"
   },
   {
     "id": "ep-695",
@@ -25659,13 +25570,14 @@
     "available": true,
     "tags": [
       "guerra",
+      "politica",
+      "cultura",
       "catalunya",
       "catalans",
-      "francs",
       "guerra-civil",
       "segle-xx"
     ],
-    "category": "Guerres i Batalles"
+    "category": "Segle XX"
   },
   {
     "id": "ep-696",
@@ -25700,13 +25612,14 @@
     "jsonFile": "697-l-escriptura-a-la-catalunya-incipient.json",
     "available": true,
     "tags": [
+      "religió",
       "cultura",
-      "economia",
-      "europa",
-      "america",
       "catalunya",
       "catalans",
-      "descobriments"
+      "romans",
+      "cristians",
+      "visigots",
+      "antiguitat"
     ],
     "category": "Època Romana"
   },
@@ -25724,15 +25637,15 @@
     "jsonFile": "698-llengua-i-política-al-segle-xvii.json",
     "available": true,
     "tags": [
-      "arquitectura",
       "politica",
       "religió",
-      "catalunya",
+      "arquitectura",
       "espanya",
+      "catalunya",
       "catalans",
       "baixa-edat-mitjana"
     ],
-    "category": "Edat Mitjana"
+    "category": "Monarquia"
   },
   {
     "id": "ep-699",
@@ -25769,12 +25682,13 @@
     "available": true,
     "tags": [
       "guerra",
-      "cultura",
-      "musulmans",
-      "francs",
+      "politica",
+      "catalunya",
+      "europa",
+      "catalans",
       "guerra-civil",
-      "reconquesta",
-      "segle-xx"
+      "segle-xx",
+      "contemporani"
     ],
     "category": "Segle XX"
   },
@@ -25813,12 +25727,14 @@
     "jsonFile": "702-els-anglesos-a-la-guerra-del-francès.json",
     "available": true,
     "tags": [
-      "politica",
       "guerra",
+      "mediterrani",
+      "asia",
       "espanya",
-      "francs",
       "ibers",
+      "francs",
       "guerra-frances",
+      "reconquesta",
       "segle-xix"
     ],
     "category": "Guerres i Batalles"
@@ -25837,9 +25753,9 @@
     "jsonFile": "703-els-núvols-confiscats.json",
     "available": true,
     "tags": [
-      "guerra",
-      "cultura",
       "ciencia",
+      "cultura",
+      "guerra",
       "catalunya",
       "catalans"
     ],
@@ -25859,8 +25775,8 @@
     "jsonFile": "704-fernao-mendes-pinto.json",
     "available": true,
     "tags": [
-      "cultura",
       "politica",
+      "cultura",
       "asia"
     ],
     "category": "General"
@@ -25879,10 +25795,10 @@
     "jsonFile": "705-episodis-de-la-guerra-civil-5.-l-aviació-republicana.json",
     "available": true,
     "tags": [
-      "guerra",
       "politica",
       "cultura",
       "arquitectura",
+      "guerra",
       "catalunya",
       "espanya",
       "catalans",
