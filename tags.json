@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-08-22T14:00:00Z",
+  "last_updated": "2025-08-22T23:32:56Z",
   "episodes": {
     "1-guerra-mundial": {
       "title": "7 - 1ª Guerra mundial",
@@ -20,7 +20,8 @@
         ],
         "periods": [
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -29,8 +30,9 @@
       "title": "Agricultura a l'Antic Egipte",
       "tags": {
         "topics": [
+          "cultura",
           "economia",
-          "cultura"
+          "pagesia"
         ]
       },
       "confidence": 0.6,
@@ -43,8 +45,8 @@
           "catalunya"
         ],
         "topics": [
-          "societat",
-          "politica"
+          "politica",
+          "societat"
         ]
       },
       "confidence": 0.8,
@@ -64,7 +66,9 @@
     },
     "alan-turing-l-home-que-va-desxifrar-enigma": {
       "title": "Alan Turing, l'home que va desxifrar Enigma",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "albert-einstein-i-la-relativitat": {
@@ -93,8 +97,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "cultura",
           "arquitectura",
+          "cultura",
           "politica"
         ]
       },
@@ -111,9 +115,9 @@
           "america"
         ],
         "topics": [
-          "politica",
+          "biografia",
           "ciencia",
-          "biografia"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -121,7 +125,9 @@
     },
     "alexandre-el-gran": {
       "title": "328 - Alexandre el Gran",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "alfabetitzaci-a-la-catalunya-moderna": {
@@ -136,8 +142,8 @@
         ],
         "topics": [
           "cultura",
-          "religió",
-          "economia"
+          "economia",
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -145,7 +151,9 @@
     },
     "alfons-el-magn-nim": {
       "title": "95 - Alfons el magnànim",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "alfons-v-el-magn-nim": {
@@ -160,10 +168,10 @@
           "catalunya"
         ],
         "topics": [
-          "guerra",
           "biografia",
-          "politica",
-          "cultura"
+          "cultura",
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -186,10 +194,11 @@
         ],
         "topics": [
           "ciencia",
+          "cultura",
+          "menjar",
           "politica",
           "religió",
-          "societat",
-          "cultura"
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -197,7 +206,9 @@
     },
     "amadeu-de-savoia": {
       "title": "231 - Amadeu de Savoia",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "amants-i-bastards-de-la-corona-d-arag": {
@@ -224,8 +235,8 @@
       "title": "316 - Andreu Nin i el POUM",
       "tags": {
         "topics": [
-          "cultura",
-          "biografia"
+          "biografia",
+          "cultura"
         ]
       },
       "confidence": 0.6,
@@ -275,9 +286,9 @@
           "europa"
         ],
         "topics": [
-          "politica",
           "biografia",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -327,8 +338,8 @@
         "topics": [
           "biografia",
           "cultura",
-          "politica",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -336,12 +347,16 @@
     },
     "arnau-de-vilanova": {
       "title": "220 - Arnau de Vilanova",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "arnau-mir-de-tost": {
       "title": "187 - Arnau Mir de Tost",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "ars-guel-niu-de-bandolers": {
@@ -357,8 +372,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "guerra",
-          "arquitectura"
+          "arquitectura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -374,8 +389,8 @@
           "europa"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -456,9 +471,9 @@
           "segle-xx"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -466,7 +481,9 @@
     },
     "aus-as-march": {
       "title": "71 - Ausìas March",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "baixa-edat-mitjana-el-castell-de-montsoriu": {
@@ -483,9 +500,9 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
+          "arquitectura",
           "cultura",
-          "politica",
-          "arquitectura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -504,7 +521,9 @@
     },
     "balnearis-al-segle-xix": {
       "title": "221 - Balnearis al segle XIX",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "baltasar-samper-m-sic-exiliat": {
@@ -533,7 +552,9 @@
     },
     "bandolers": {
       "title": "24 - Bandolers",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "bandolers-mallorquins": {
@@ -554,8 +575,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -563,7 +584,9 @@
     },
     "banys-a-l-edat-mitjana": {
       "title": "247 - Banys a l'Edat Mitjana",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "barcelona-governada-per-napole": {
@@ -583,11 +606,11 @@
           "segle-xix"
         ],
         "topics": [
-          "religió",
           "cultura",
+          "guerra",
           "politica",
-          "societat",
-          "guerra"
+          "religió",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -604,7 +627,8 @@
         ],
         "periods": [
           "segle-xx"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -622,8 +646,8 @@
           "antiguitat"
         ],
         "topics": [
-          "cultura",
-          "biografia"
+          "biografia",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -645,9 +669,9 @@
           "segle-xx"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "societat",
-          "cultura"
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -655,7 +679,9 @@
     },
     "bruixes": {
       "title": "208 - Bruixes",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "buffalo-bill-a-catalunya": {
@@ -666,7 +692,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -705,8 +732,8 @@
           "contemporani"
         ],
         "topics": [
-          "economia",
           "cultura",
+          "economia",
           "politica"
         ]
       },
@@ -724,8 +751,8 @@
           "antiguitat"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -738,8 +765,8 @@
           "asia"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -755,9 +782,9 @@
           "segle-xx"
         ],
         "topics": [
+          "cultura",
           "guerra",
           "politica",
-          "cultura",
           "societat"
         ]
       },
@@ -801,12 +828,16 @@
     },
     "capablanca-versus-alekhine": {
       "title": "Capablanca versus Alekhine",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "caritat-i-benefic-ncia": {
       "title": "73 - Caritat i beneficència",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "carlemany": {
@@ -817,7 +848,8 @@
         ],
         "periods": [
           "alta-edat-mitjana"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -836,8 +868,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -871,7 +903,8 @@
       "tags": {
         "periods": [
           "edat-moderna"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -901,7 +934,9 @@
     },
     "carlisme-i-terra": {
       "title": "117 - Carlisme i terra",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "carme-ballester-dones-3": {
@@ -917,9 +952,9 @@
           "contemporani"
         ],
         "topics": [
-          "societat",
           "biografia",
-          "politica"
+          "politica",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -934,7 +969,8 @@
         "locations": [
           "espanya",
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -948,7 +984,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -965,8 +1002,8 @@
           "segle-xix"
         ],
         "topics": [
-          "politica",
-          "economia"
+          "economia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -974,7 +1011,9 @@
     },
     "catalans-a-hongria": {
       "title": "23 - Catalans a Hongria",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "catalans-a-la-colonitzaci-de-guinea": {
@@ -1004,7 +1043,8 @@
         ],
         "periods": [
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -1021,7 +1061,9 @@
     },
     "catalans-als-camp-nazis": {
       "title": "194 - Catalans als camp nazis",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "catalans-en-altres-independ-ncies": {
@@ -1092,7 +1134,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -1143,7 +1186,9 @@
     },
     "cisma-d-occident": {
       "title": "164 - Cisma d'occident",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "cle-patra": {
@@ -1176,8 +1221,8 @@
           "mediterrani"
         ],
         "topics": [
-          "guerra",
           "cultura",
+          "guerra",
           "politica"
         ]
       },
@@ -1186,7 +1231,9 @@
     },
     "conquesta-musulmana-i-origen-guardies": {
       "title": "29 - Conquesta musulmana i origen guardies",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "constant-i-el-cristianisme": {
@@ -1198,7 +1245,8 @@
         ],
         "periods": [
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -1219,8 +1267,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -1264,8 +1312,8 @@
           "segle-xix"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -1281,9 +1329,9 @@
           "segle-xx"
         ],
         "topics": [
-          "politica",
+          "biografia",
           "cultura",
-          "biografia"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -1294,14 +1342,17 @@
       "tags": {
         "events": [
           "creuades"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
     },
     "crim-i-premsa-entre-segles": {
       "title": "72 - Crim i premsa entre segles",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "cuina-del-paleol-tic": {
@@ -1314,8 +1365,9 @@
           "prehistoria"
         ],
         "topics": [
+          "ciencia",
           "cultura",
-          "ciencia"
+          "menjar"
         ]
       },
       "confidence": 0.8,
@@ -1323,7 +1375,9 @@
     },
     "d-octubre-del-34-a-juliol-del-36": {
       "title": "83 - D'octubre del 34 a juliol del 36",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "dag-hammarskj-ld-secretari-de-l-onu": {
@@ -1353,9 +1407,9 @@
           "contemporani"
         ],
         "topics": [
+          "biografia",
           "cultura",
-          "guerra",
-          "biografia"
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -1363,7 +1417,9 @@
     },
     "darwin-i-el-viatge-del-beagle": {
       "title": "296 - Darwin i el viatge del Beagle",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "de-la-guerra-dels-segadors-a-la-de-succesi": {
@@ -1392,7 +1448,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -1410,8 +1467,8 @@
           "segle-xix"
         ],
         "topics": [
-          "societat",
-          "economia"
+          "economia",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -1444,7 +1501,8 @@
         "locations": [
           "catalunya",
           "espanya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -1474,7 +1532,9 @@
     },
     "debat-sobre-el-comprom-s-de-casp": {
       "title": "161 - Debat sobre el Compromís de Casp",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "decret-de-nova-planta-successi-6": {
@@ -1524,19 +1584,24 @@
       "tags": {
         "locations": [
           "mediterrani"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
     },
     "del-neardental-al-sapiens": {
       "title": "74 - Del neardental al sapiens",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "delinq-ncia-i-prostituci-entre-segles": {
       "title": "27 - Delinqüència i prostitució entre segles",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "dels-grisos-als-blaus": {
@@ -1548,7 +1613,8 @@
         "periods": [
           "segle-xx",
           "contemporani"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -1578,7 +1644,9 @@
     },
     "descendents-d-alexandre-el-gran": {
       "title": "282 - Descendents d'Alexandre el Gran",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "diplom-cia-catalana-durant-la-guerra-civil": {
@@ -1615,8 +1683,8 @@
           "catalunya"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -1624,7 +1692,9 @@
     },
     "dom-nec-terradellas": {
       "title": "289 - Domènec Terradellas",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "dones-militars-a-la-guerra-civil": {
@@ -1637,10 +1707,10 @@
           "segle-xx"
         ],
         "topics": [
-          "societat",
+          "cultura",
           "guerra",
           "politica",
-          "cultura"
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -1672,8 +1742,8 @@
           "antiguitat"
         ],
         "topics": [
-          "cultura",
-          "arquitectura"
+          "arquitectura",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -1681,7 +1751,9 @@
     },
     "eduard-toda": {
       "title": "215 - Eduard Toda",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "einstein-i-la-revoluci-qu-ntica": {
@@ -1710,9 +1782,9 @@
           "segle-xx"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -1787,7 +1859,9 @@
     },
     "el-bar-de-mald": {
       "title": "47 - El Baró de Maldà",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "el-barri-xino-plaers-2": {
@@ -1816,9 +1890,9 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
+          "arquitectura",
           "cultura",
-          "arquitectura"
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -1834,10 +1908,10 @@
           "contemporani"
         ],
         "topics": [
+          "arquitectura",
           "cultura",
           "economia",
-          "religió",
-          "arquitectura"
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -1868,7 +1942,8 @@
       "tags": {
         "locations": [
           "america"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -1886,8 +1961,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -1949,10 +2024,10 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
+          "ciencia",
           "cultura",
           "economia",
-          "ciencia"
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -2015,7 +2090,8 @@
         "locations": [
           "catalunya",
           "europa"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -2033,14 +2109,17 @@
         "periods": [
           "prehistoria",
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.9,
       "auto_generated": true
     },
     "el-cant-gregori": {
       "title": "253 - El cant gregorià",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "el-capit-anton-valls": {
@@ -2056,8 +2135,8 @@
           "segle-xix"
         ],
         "topics": [
-          "guerra",
           "cultura",
+          "guerra",
           "politica"
         ]
       },
@@ -2084,9 +2163,9 @@
           "segle-xx"
         ],
         "topics": [
-          "politica",
           "cultura",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -2094,7 +2173,9 @@
     },
     "el-cas-di-st-fano": {
       "title": "274 - El cas Di Stéfano",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "el-cas-puig-antich": {
@@ -2105,7 +2186,8 @@
         ],
         "periods": [
           "segle-xx"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -2126,7 +2208,9 @@
     },
     "el-cas-rull-amb-antoni-dalmau": {
       "title": "199 - El Cas Rull amb Antoni Dalmau",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "el-castell-a-catalunya": {
@@ -2143,8 +2227,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
           "arquitectura",
+          "politica",
           "societat"
         ]
       },
@@ -2199,7 +2283,9 @@
     },
     "el-cicle-revolucionari": {
       "title": "66 - El cicle revolucionari",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "el-cinema-barcelon-dels-60-i-els-70": {
@@ -2237,8 +2323,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "guerra",
           "cultura",
+          "guerra",
           "religió"
         ]
       },
@@ -2267,7 +2353,9 @@
     },
     "el-cister-a-la-corona-d-arag": {
       "title": "59 - El Cister a la Corona d'Aragó",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "el-comissariat-de-propaganda-de-la-generalitat": {
@@ -2319,7 +2407,9 @@
     },
     "el-comprom-s-de-casp": {
       "title": "48 - El compromís de Casp",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "el-comtat-d-emp-ries": {
@@ -2338,8 +2428,8 @@
           "alta-edat-mitjana"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -2369,9 +2459,9 @@
           "segle-xvii"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -2407,10 +2497,10 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "religió",
           "arquitectura",
           "biografia",
           "politica",
+          "religió",
           "societat"
         ]
       },
@@ -2431,8 +2521,8 @@
           "segle-xix"
         ],
         "topics": [
-          "cultura",
-          "arquitectura"
+          "arquitectura",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -2446,7 +2536,8 @@
         ],
         "periods": [
           "baixa-edat-mitjana"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -2455,7 +2546,8 @@
       "title": "46 - El conflicte rabassaire",
       "tags": {
         "topics": [
-          "guerra"
+          "guerra",
+          "pagesia"
         ]
       },
       "confidence": 0.6,
@@ -2477,8 +2569,8 @@
           "contemporani"
         ],
         "topics": [
-          "cultura",
-          "ciencia"
+          "ciencia",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -2514,8 +2606,8 @@
         ],
         "topics": [
           "biografia",
-          "societat",
-          "cultura"
+          "cultura",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -2536,9 +2628,9 @@
           "edat-moderna"
         ],
         "topics": [
-          "politica",
           "arquitectura",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -2578,7 +2670,8 @@
       "tags": {
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -2592,7 +2685,8 @@
         ],
         "periods": [
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -2624,8 +2718,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
           "cultura",
+          "politica",
           "religió"
         ]
       },
@@ -2642,8 +2736,8 @@
           "descobriments"
         ],
         "topics": [
-          "cultura",
-          "ciencia"
+          "ciencia",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -2662,8 +2756,8 @@
           "edat-moderna"
         ],
         "topics": [
-          "guerra",
-          "ciencia"
+          "ciencia",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -2723,9 +2817,9 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
           "cultura",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -2748,9 +2842,9 @@
           "segle-xix"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -2793,9 +2887,9 @@
           "segle-xx"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -2816,10 +2910,10 @@
           "segle-xix"
         ],
         "topics": [
-          "cultura",
           "biografia",
-          "politica",
-          "ciencia"
+          "ciencia",
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -2827,7 +2921,9 @@
     },
     "el-dr-ferran-i-la-vacuna-del-c-lera": {
       "title": "230 - El Dr. Ferran i la vacuna del còlera",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "el-falutx-pepito-un-vaixell-negrer": {
@@ -2870,7 +2966,8 @@
         "periods": [
           "segle-xix",
           "prehistoria"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -2920,10 +3017,10 @@
           "europa"
         ],
         "topics": [
-          "politica",
           "cultura",
           "esport",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -2943,8 +3040,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "esport"
+          "esport",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -2968,8 +3065,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "esport"
+          "esport",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -3006,9 +3103,9 @@
           "segle-xix"
         ],
         "topics": [
-          "societat",
           "cultura",
-          "economia"
+          "economia",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -3021,8 +3118,8 @@
           "catalunya"
         ],
         "topics": [
-          "cultura",
-          "arquitectura"
+          "arquitectura",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -3030,7 +3127,9 @@
     },
     "el-general-batet": {
       "title": "140 - El general Batet",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "el-general-francesc-savalls": {
@@ -3038,14 +3137,17 @@
       "tags": {
         "civilizations": [
           "francs"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
     },
     "el-general-prim": {
       "title": "30 - El General Prim",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "el-govern-de-la-ciutat-d-urgell-al-segle-xvi": {
@@ -3058,8 +3160,8 @@
           "catalunya"
         ],
         "topics": [
-          "politica",
-          "economia"
+          "economia",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -3099,8 +3201,8 @@
         ],
         "topics": [
           "arquitectura",
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -3114,7 +3216,8 @@
         ],
         "periods": [
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -3129,8 +3232,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.8,
@@ -3178,8 +3281,8 @@
           "cristians"
         ],
         "topics": [
-          "religió",
-          "ciencia"
+          "ciencia",
+          "religió"
         ]
       },
       "confidence": 0.8,
@@ -3223,7 +3326,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -3243,8 +3347,8 @@
         ],
         "topics": [
           "biografia",
-          "religió",
-          "guerra"
+          "guerra",
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -3268,7 +3372,8 @@
       "tags": {
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -3328,7 +3433,8 @@
         ],
         "periods": [
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -3376,10 +3482,10 @@
           "segle-xix"
         ],
         "topics": [
+          "arquitectura",
           "cultura",
           "economia",
-          "politica",
-          "arquitectura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -3387,7 +3493,9 @@
     },
     "el-modernisme": {
       "title": "155 - El modernisme",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "el-monestir-de-pedralbes": {
@@ -3430,8 +3538,8 @@
           "catalunya"
         ],
         "topics": [
-          "religió",
-          "cultura"
+          "cultura",
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -3455,7 +3563,9 @@
     },
     "el-naixement-de-ccoo": {
       "title": "232 - El naixement de CCOO",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "el-naixement-de-l-agricultura": {
@@ -3468,8 +3578,9 @@
           "prehistoria"
         ],
         "topics": [
+          "ciencia",
           "cultura",
-          "ciencia"
+          "pagesia"
         ]
       },
       "confidence": 0.8,
@@ -3477,7 +3588,9 @@
     },
     "el-naixement-de-l-eixample": {
       "title": "235 - El naixement de l'Eixample",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "el-naixement-de-l-hemoter-pia-a-catalunya": {
@@ -3493,9 +3606,9 @@
           "segle-xix"
         ],
         "topics": [
-          "economia",
           "ciencia",
-          "cultura"
+          "cultura",
+          "economia"
         ]
       },
       "confidence": 0.9,
@@ -3531,7 +3644,9 @@
     },
     "el-naixement-del-catalanisme-pol-tic": {
       "title": "246 - El naixement del catalanisme polític",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "el-naixement-del-feixisme-itali": {
@@ -3542,7 +3657,8 @@
         ],
         "locations": [
           "europa"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -3572,7 +3688,8 @@
         ],
         "periods": [
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -3605,7 +3722,8 @@
         ],
         "periods": [
           "prehistoria"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -3621,8 +3739,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -3697,9 +3815,9 @@
           "segle-xix"
         ],
         "topics": [
+          "economia",
           "guerra",
-          "religió",
-          "economia"
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -3721,10 +3839,10 @@
           "edat-moderna"
         ],
         "topics": [
-          "guerra",
-          "politica",
           "biografia",
-          "cultura"
+          "cultura",
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -3732,7 +3850,9 @@
     },
     "el-paper-de-la-c-n-t": {
       "title": "181 - El paper de la C.N.T.",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "el-parlament-de-catalunya-recuperat": {
@@ -3809,7 +3929,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -3832,8 +3953,8 @@
         ],
         "topics": [
           "ciencia",
-          "religió",
-          "cultura"
+          "cultura",
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -3847,7 +3968,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -3869,10 +3991,10 @@
           "segle-xix"
         ],
         "topics": [
-          "cultura",
           "arquitectura",
-          "guerra",
+          "cultura",
           "economia",
+          "guerra",
           "politica"
         ]
       },
@@ -3887,7 +4009,8 @@
         ],
         "periods": [
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -3922,8 +4045,8 @@
           "europa"
         ],
         "topics": [
-          "politica",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -3974,8 +4097,8 @@
           "antiguitat"
         ],
         "topics": [
-          "religió",
-          "cultura"
+          "cultura",
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -4008,10 +4131,10 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
+          "arquitectura",
           "biografia",
           "cultura",
-          "arquitectura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -4025,7 +4148,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -4044,8 +4168,8 @@
           "contemporani"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -4070,8 +4194,8 @@
         ],
         "topics": [
           "arquitectura",
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -4082,7 +4206,8 @@
       "tags": {
         "civilizations": [
           "francs"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -4105,7 +4230,8 @@
         ],
         "periods": [
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -4127,9 +4253,9 @@
           "edat-moderna"
         ],
         "topics": [
+          "cultura",
           "politica",
-          "religió",
-          "cultura"
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -4234,9 +4360,9 @@
           "segle-xix"
         ],
         "topics": [
-          "politica",
           "economia",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -4260,8 +4386,8 @@
           "segle-xviii"
         ],
         "topics": [
-          "guerra",
           "arquitectura",
+          "guerra",
           "politica"
         ]
       },
@@ -4334,7 +4460,9 @@
     },
     "el-sexe-a-l-antic-egipte": {
       "title": "647 - El sexe a l'antic Egipte",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "el-sindicat-lliure-viol-ncia-1": {
@@ -4353,7 +4481,8 @@
         ],
         "periods": [
           "segle-xx"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.9,
       "auto_generated": true
@@ -4403,8 +4532,8 @@
           "espanya"
         ],
         "topics": [
-          "guerra",
           "cultura",
+          "guerra",
           "politica"
         ]
       },
@@ -4413,7 +4542,9 @@
     },
     "el-ter-de-nostra-senyora-de-montserrat": {
       "title": "298 - El terç de Nostra Senyora de Montserrat",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "el-terratr-mol-de-lisboa-del-1755": {
@@ -4452,9 +4583,9 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "cultura",
           "arquitectura",
+          "cultura",
+          "guerra",
           "politica"
         ]
       },
@@ -4468,8 +4599,8 @@
           "europa"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.8,
@@ -4477,7 +4608,9 @@
     },
     "el-tractat-del-comtat-de-cerdanya": {
       "title": "El Tractat del comtat de Cerdanya",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "el-tractat-dels-pirineus": {
@@ -4497,9 +4630,9 @@
           "edat-moderna"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -4522,10 +4655,10 @@
           "contemporani"
         ],
         "topics": [
-          "guerra",
           "arquitectura",
-          "politica",
-          "cultura"
+          "cultura",
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -4539,7 +4672,8 @@
         ],
         "periods": [
           "segle-xix"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -4592,8 +4726,8 @@
           "segle-xviii"
         ],
         "topics": [
-          "guerra",
           "biografia",
+          "guerra",
           "politica"
         ]
       },
@@ -4646,9 +4780,9 @@
           "segle-xix"
         ],
         "topics": [
-          "politica",
+          "cultura",
           "guerra",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -4664,9 +4798,9 @@
           "catalunya"
         ],
         "topics": [
-          "politica",
           "ciencia",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -4712,12 +4846,16 @@
     },
     "els-almog-vers": {
       "title": "6 - Els almogàvers",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "els-angelets-de-la-terra": {
       "title": "213 - Els angelets de la terra",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "els-anglesos-a-la-guerra-del-franc-s": {
@@ -4767,10 +4905,10 @@
           "catalunya"
         ],
         "topics": [
-          "politica",
-          "religió",
+          "arquitectura",
           "cultura",
-          "arquitectura"
+          "politica",
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -4788,11 +4926,11 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "religió",
           "arquitectura",
-          "politica",
+          "ciencia",
           "cultura",
-          "ciencia"
+          "politica",
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -4828,7 +4966,8 @@
       "tags": {
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -4860,7 +4999,8 @@
         "locations": [
           "mediterrani",
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -4874,7 +5014,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -4921,8 +5062,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -4954,7 +5095,9 @@
     },
     "els-borja": {
       "title": "17 - Els Borja",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "els-camps-de-concentraci-del-sud-de-fran-a": {
@@ -5012,8 +5155,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "economia",
           "arquitectura",
+          "economia",
           "guerra"
         ]
       },
@@ -5066,7 +5209,8 @@
         ],
         "locations": [
           "america"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -5139,7 +5283,9 @@
     },
     "els-comptats-proto-catalans": {
       "title": "93 - Els comptats proto catalans",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "els-comtats-catalans-contra-el-califat": {
@@ -5154,8 +5300,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
-          "arquitectura"
+          "arquitectura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -5168,9 +5314,9 @@
           "cristians"
         ],
         "topics": [
+          "cultura",
           "politica",
-          "religió",
-          "cultura"
+          "religió"
         ]
       },
       "confidence": 0.8,
@@ -5211,12 +5357,16 @@
     },
     "els-convits": {
       "title": "168 - Els convits",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "els-cors-de-clav": {
       "title": "272 - Els Cors de Clavé",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "els-crims-de-gandesa-del-1885": {
@@ -5271,7 +5421,11 @@
     },
     "els-dietaris-de-pag-s": {
       "title": "75 - Els dietaris de pagès",
-      "tags": {},
+      "tags": {
+        "topics": [
+          "pagesia"
+        ]
+      },
       "auto_generated": true
     },
     "els-dinosaures-a-catalunya": {
@@ -5285,7 +5439,8 @@
         ],
         "periods": [
           "prehistoria"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -5329,8 +5484,8 @@
           "antiguitat"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -5384,7 +5539,8 @@
         ],
         "periods": [
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -5429,8 +5585,8 @@
           "segle-xx"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -5490,7 +5646,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -5508,9 +5665,9 @@
           "segle-xix"
         ],
         "topics": [
-          "societat",
+          "cultura",
           "economia",
-          "cultura"
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -5550,8 +5707,8 @@
           "francs"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.8,
@@ -5567,8 +5724,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "religió",
           "cultura",
+          "religió",
           "societat"
         ]
       },
@@ -5589,11 +5746,11 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
+          "arquitectura",
           "cultura",
           "esport",
-          "politica",
-          "arquitectura"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -5641,7 +5798,8 @@
         ],
         "periods": [
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -5682,8 +5840,8 @@
           "espanya"
         ],
         "topics": [
-          "societat",
-          "biografia"
+          "biografia",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -5697,7 +5855,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -5751,8 +5910,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -5765,9 +5924,9 @@
           "francs"
         ],
         "topics": [
-          "societat",
+          "ciencia",
           "politica",
-          "ciencia"
+          "societat"
         ]
       },
       "confidence": 0.8,
@@ -5775,7 +5934,9 @@
     },
     "els-jerogl-fics-egipcis": {
       "title": "264 - Els jeroglífics egipcis",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "els-jesu-tes-a-catalunya": {
@@ -5857,10 +6018,10 @@
           "antiguitat"
         ],
         "topics": [
-          "guerra",
-          "religió",
           "cultura",
-          "esport"
+          "esport",
+          "guerra",
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -5899,10 +6060,10 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
           "arquitectura",
           "cultura",
-          "economia"
+          "economia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -5957,8 +6118,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
           "guerra",
+          "politica",
           "societat"
         ]
       },
@@ -5967,7 +6128,9 @@
     },
     "els-ltims-maquis": {
       "title": "286 - Els últims maquis",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "els-ltims-mesos-de-franco": {
@@ -5981,7 +6144,8 @@
         ],
         "locations": [
           "espanya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -6004,7 +6168,9 @@
     },
     "els-mals-usos": {
       "title": "89 - Els mals usos",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "els-mercaders-medievals": {
@@ -6014,9 +6180,9 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
+          "cultura",
           "economia",
-          "societat",
-          "cultura"
+          "societat"
         ]
       },
       "confidence": 0.8,
@@ -6032,8 +6198,8 @@
           "catalunya"
         ],
         "topics": [
-          "societat",
-          "politica"
+          "politica",
+          "societat"
         ]
       },
       "confidence": 0.8,
@@ -6111,8 +6277,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -6139,9 +6305,9 @@
           "contemporani"
         ],
         "topics": [
-          "politica",
+          "cultura",
           "guerra",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -6157,9 +6323,9 @@
           "catalunya"
         ],
         "topics": [
-          "guerra",
+          "ciencia",
           "cultura",
-          "ciencia"
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -6204,7 +6370,8 @@
         ],
         "periods": [
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -6221,8 +6388,8 @@
           "america"
         ],
         "topics": [
-          "cultura",
-          "biografia"
+          "biografia",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -6242,9 +6409,9 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
           "cultura",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -6263,8 +6430,8 @@
           "segle-xx"
         ],
         "topics": [
-          "cultura",
-          "arquitectura"
+          "arquitectura",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -6277,8 +6444,8 @@
           "mediterrani"
         ],
         "topics": [
-          "cultura",
-          "biografia"
+          "biografia",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -6296,7 +6463,8 @@
         ],
         "periods": [
           "segle-xx"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -6320,7 +6488,9 @@
     },
     "els-or-gens-del-blues-i-el-jazz": {
       "title": "258 - Els orígens del Blues i el Jazz",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "els-or-gens-del-catal-escrit": {
@@ -6339,8 +6509,8 @@
           "antiguitat"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -6350,8 +6520,8 @@
       "title": "Els orígens del Park Güell",
       "tags": {
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.6,
@@ -6376,7 +6546,8 @@
       "tags": {
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -6400,7 +6571,9 @@
     },
     "els-perses": {
       "title": "189 - Els perses",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "els-pioners-del-cinema": {
@@ -6429,7 +6602,8 @@
         ],
         "periods": [
           "prehistoria"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -6458,7 +6632,8 @@
       "tags": {
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -6476,9 +6651,9 @@
           "antiguitat"
         ],
         "topics": [
-          "politica",
           "cultura",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -6497,8 +6672,8 @@
           "catalunya"
         ],
         "topics": [
-          "religió",
-          "ciencia"
+          "ciencia",
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -6518,8 +6693,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -6538,8 +6713,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "arquitectura"
+          "arquitectura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -6547,7 +6722,9 @@
     },
     "els-registres-parroquials": {
       "title": "472 - Els registres parroquials",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "els-regnes-de-taifes": {
@@ -6654,7 +6831,9 @@
     },
     "els-setze-jutges": {
       "title": "267 - Els setze jutges",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "els-supervivents-dels-camps-nazis": {
@@ -6698,14 +6877,17 @@
       "tags": {
         "periods": [
           "baixa-edat-mitjana"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
     },
     "els-terratremols-d-olot": {
       "title": "148 - Els terratremols d'Olot",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "els-toros-plaers-4": {
@@ -6720,7 +6902,8 @@
         ],
         "periods": [
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -6741,7 +6924,9 @@
     },
     "els-trobadors": {
       "title": "205 - Els trobadors",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "els-trobadors-medievals": {
@@ -6759,7 +6944,8 @@
         "periods": [
           "antiguitat",
           "baixa-edat-mitjana"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.9,
       "auto_generated": true
@@ -6800,8 +6986,8 @@
           "antiguitat"
         ],
         "topics": [
-          "guerra",
           "cultura",
+          "guerra",
           "societat"
         ]
       },
@@ -6810,12 +6996,16 @@
     },
     "els-viatges-d-al-bey": {
       "title": "13 - Els viatges d'Alí Bey",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "els-viatges-d-antoni-de-montserrat": {
       "title": "79 - Els viatges d'Antoni de Montserrat",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "els-viatges-de-marco-polo": {
@@ -6837,7 +7027,9 @@
     },
     "els-viatges-de-zheng-he": {
       "title": "259 - Els viatges de Zheng He",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "els-virreis": {
@@ -6856,8 +7048,8 @@
         ],
         "topics": [
           "biografia",
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -6929,7 +7121,9 @@
     },
     "emp-ries": {
       "title": "45 - Empúries",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "emp-ries-durant-la-guerra-civil": {
@@ -6949,8 +7143,8 @@
           "prehistoria"
         ],
         "topics": [
-          "ciencia",
           "arquitectura",
+          "ciencia",
           "guerra"
         ]
       },
@@ -6959,7 +7153,9 @@
     },
     "en-gu-rdia": {
       "title": "En guàrdia!",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "en-gu-rdia-especial-1714": {
@@ -6974,7 +7170,9 @@
     },
     "en-gu-rdia-nadal": {
       "title": "342 - En guàrdia: Nadal",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "en-gu-rdia-pere-el-gran": {
@@ -6990,9 +7188,9 @@
           "antiguitat"
         ],
         "topics": [
-          "politica",
+          "biografia",
           "cultura",
-          "biografia"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -7008,9 +7206,9 @@
           "asia"
         ],
         "topics": [
-          "guerra",
           "biografia",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -7049,9 +7247,9 @@
         ],
         "topics": [
           "arquitectura",
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -7068,8 +7266,8 @@
         ],
         "topics": [
           "biografia",
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -7102,8 +7300,8 @@
           "antiguitat"
         ],
         "topics": [
-          "societat",
-          "guerra"
+          "guerra",
+          "societat"
         ]
       },
       "confidence": 0.8,
@@ -7111,15 +7309,17 @@
     },
     "en-guardia-de-15-a-16-h-18-12-2016": {
       "title": "En guardia, de 15 a 16 h - 18/12/2016",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "en-guardia-de-15-a-16-h-22-01-2017": {
       "title": "En guardia, de 15 a 16 h - 22/01/2017",
       "tags": {
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.6,
@@ -7157,7 +7357,9 @@
     },
     "enric-prat-de-la-riba": {
       "title": "281 - Enric Prat de la Riba",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "enriqueta-mart": {
@@ -7181,8 +7383,8 @@
           "europa"
         ],
         "topics": [
-          "politica",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -7201,9 +7403,9 @@
           "prehistoria"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -7217,7 +7419,8 @@
         ],
         "periods": [
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -7230,7 +7433,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -7274,10 +7478,10 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "politica",
+          "arquitectura",
           "cultura",
-          "arquitectura"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -7299,9 +7503,9 @@
           "segle-xx"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -7366,8 +7570,8 @@
           "reconquesta"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -7375,7 +7579,9 @@
     },
     "ermessenda-de-carcassona": {
       "title": "198 - Ermessenda de Carcassona",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "esclaus-africans-a-barcelona": {
@@ -7405,8 +7611,8 @@
           "espanya"
         ],
         "topics": [
-          "economia",
-          "cultura"
+          "cultura",
+          "economia"
         ]
       },
       "confidence": 0.8,
@@ -7440,7 +7646,11 @@
     },
     "especial-debat-sobre-la-llei-de-contractes-de-conreu": {
       "title": "Especial - Debat sobre la Llei de contractes de conreu",
-      "tags": {},
+      "tags": {
+        "topics": [
+          "pagesia"
+        ]
+      },
       "auto_generated": true
     },
     "especial-diada-felip-v": {
@@ -7461,8 +7671,8 @@
           "edat-moderna"
         ],
         "topics": [
-          "guerra",
           "biografia",
+          "guerra",
           "politica"
         ]
       },
@@ -7471,7 +7681,9 @@
     },
     "especial-musical-nadal": {
       "title": "394 - Especial musical Nadal",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "especial-nadal": {
@@ -7514,7 +7726,8 @@
         "periods": [
           "prehistoria",
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.9,
       "auto_generated": true
@@ -7546,9 +7759,9 @@
           "antiguitat"
         ],
         "topics": [
-          "politica",
+          "biografia",
           "cultura",
-          "biografia"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -7556,7 +7769,9 @@
     },
     "eurovisi": {
       "title": "291 - Eurovisió",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "eusebi-g-ell-mecenes": {
@@ -7572,9 +7787,9 @@
           "segle-xix"
         ],
         "topics": [
-          "politica",
           "cultura",
-          "economia"
+          "economia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -7588,14 +7803,17 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
     },
     "exploradors-catalans": {
       "title": "299 - Exploradors catalans",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "explosions-d-ira-social-a-barcelona": {
@@ -7628,10 +7846,10 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
           "biografia",
-          "politica",
           "cultura",
+          "guerra",
+          "politica",
           "societat"
         ]
       },
@@ -7645,8 +7863,8 @@
           "asia"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -7657,7 +7875,8 @@
       "tags": {
         "civilizations": [
           "cristians"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -7667,7 +7886,8 @@
       "tags": {
         "locations": [
           "europa"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -7688,9 +7908,9 @@
           "segle-xx"
         ],
         "topics": [
-          "politica",
+          "cultura",
           "guerra",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -7721,10 +7941,10 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
+          "biografia",
           "cultura",
           "guerra",
-          "politica",
-          "biografia"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -7782,10 +8002,10 @@
           "segle-xviii"
         ],
         "topics": [
-          "guerra",
+          "arquitectura",
           "biografia",
           "cultura",
-          "arquitectura"
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -7805,8 +8025,9 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "guerra",
           "biografia",
+          "guerra",
+          "pagesia",
           "politica"
         ]
       },
@@ -7827,10 +8048,10 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
-          "societat",
           "biografia",
-          "cultura"
+          "cultura",
+          "politica",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -7852,9 +8073,9 @@
           "antiguitat"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -7883,7 +8104,8 @@
       "tags": {
         "civilizations": [
           "francs"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -7898,8 +8120,8 @@
           "contemporani"
         ],
         "topics": [
-          "societat",
-          "cultura"
+          "cultura",
+          "societat"
         ]
       },
       "confidence": 0.8,
@@ -7934,7 +8156,8 @@
         ],
         "events": [
           "guerra-civil"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -7953,8 +8176,8 @@
         ],
         "topics": [
           "cultura",
-          "societat",
-          "politica"
+          "politica",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -7981,7 +8204,8 @@
       "tags": {
         "periods": [
           "segle-xx"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -8018,8 +8242,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "biografia"
+          "biografia",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -8033,7 +8257,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -8093,7 +8318,8 @@
         "periods": [
           "antiguitat",
           "segle-xix"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.9,
       "auto_generated": true
@@ -8106,7 +8332,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -8121,8 +8348,8 @@
           "catalunya"
         ],
         "topics": [
-          "cultura",
           "biografia",
+          "cultura",
           "politica"
         ]
       },
@@ -8131,7 +8358,9 @@
     },
     "giuseppe-verdi": {
       "title": "182 - Giuseppe Verdi",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "globus-i-dirigibles": {
@@ -8141,8 +8370,8 @@
           "catalunya"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -8155,8 +8384,8 @@
           "europa"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.8,
@@ -8170,14 +8399,17 @@
         ],
         "periods": [
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
     },
     "grans-jocs-de-la-humanitat": {
       "title": "558 - Grans jocs de la humanitat",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "grecs-i-fenicis": {
@@ -8189,7 +8421,8 @@
         ],
         "periods": [
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -8236,10 +8469,10 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "politica",
           "arquitectura",
-          "cultura"
+          "cultura",
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -8263,9 +8496,9 @@
           "america"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -8285,8 +8518,8 @@
         ],
         "topics": [
           "arquitectura",
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -8294,12 +8527,16 @@
     },
     "guifr-el-pil-s": {
       "title": "33 - Guifré el pilós",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "guillem-raimon-d-iborra-bar-de-cervell": {
       "title": "292 - Guillem Raimon d'Iborra, Baró de Cervelló",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "h-ndel": {
@@ -8352,7 +8589,8 @@
         ],
         "periods": [
           "segle-xx"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -8370,9 +8608,9 @@
         ],
         "topics": [
           "biografia",
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -8456,9 +8694,9 @@
         ],
         "topics": [
           "arquitectura",
-          "religió",
           "cultura",
-          "politica"
+          "politica",
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -8515,7 +8753,9 @@
     },
     "hist-ria-del-musical": {
       "title": "239 - Història del musical",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "hist-ria-del-tbo": {
@@ -8580,19 +8820,24 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
     },
     "hug-roger-iii-el-senyor-de-les-muntanyes": {
       "title": "180 - Hug Roger III, el senyor de les muntanyes",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "ic-ria-i-el-comunisme-ut-pic": {
       "title": "44 - Icària i el comunisme utòpic",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "ida-pfeiffer-viatgera-del-segle-xix": {
@@ -8600,7 +8845,8 @@
       "tags": {
         "events": [
           "creuades"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -8610,7 +8856,8 @@
       "tags": {
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -8639,8 +8886,8 @@
       "tags": {
         "topics": [
           "biografia",
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -8669,14 +8916,17 @@
         ],
         "locations": [
           "mediterrani"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
     },
     "jaume-balmes": {
       "title": "152 - Jaume Balmes",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "jaume-i-i-la-conquesta-de-mallorca": {
@@ -8687,7 +8937,8 @@
         ],
         "locations": [
           "mediterrani"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -8700,7 +8951,8 @@
         ],
         "periods": [
           "baixa-edat-mitjana"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -8710,7 +8962,8 @@
       "tags": {
         "events": [
           "reconquesta"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -8747,9 +9000,9 @@
           "segle-xvii"
         ],
         "topics": [
-          "cultura",
           "arquitectura",
-          "biografia"
+          "biografia",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -8762,8 +9015,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "cultura",
-          "biografia"
+          "biografia",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -8779,8 +9032,8 @@
           "segle-xx"
         ],
         "topics": [
-          "cultura",
-          "biografia"
+          "biografia",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -8826,7 +9079,9 @@
     },
     "joan-ii-i-el-princep-de-viana": {
       "title": "150 - Joan II i el princep de Viana",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "joan-or-i-l-origen-de-la-vida": {
@@ -8862,9 +9117,9 @@
           "segle-xx"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -8891,9 +9146,9 @@
           "catalunya"
         ],
         "topics": [
-          "guerra",
-          "cultura",
           "biografia",
+          "cultura",
+          "guerra",
           "politica"
         ]
       },
@@ -8910,8 +9165,8 @@
           "catalunya"
         ],
         "topics": [
-          "cultura",
-          "arquitectura"
+          "arquitectura",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -8972,10 +9227,10 @@
           "antiguitat"
         ],
         "topics": [
-          "societat",
           "biografia",
+          "cultura",
           "religió",
-          "cultura"
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -8992,8 +9247,8 @@
         ],
         "topics": [
           "biografia",
-          "cultura",
-          "ciencia"
+          "ciencia",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -9011,8 +9266,8 @@
           "catalunya"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -9050,9 +9305,9 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "cultura",
           "biografia",
+          "cultura",
+          "guerra",
           "politica"
         ]
       },
@@ -9070,9 +9325,9 @@
           "catalunya"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -9091,8 +9346,8 @@
           "contemporani"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -9145,9 +9400,9 @@
           "espanya"
         ],
         "topics": [
+          "biografia",
           "cultura",
-          "esport",
-          "biografia"
+          "esport"
         ]
       },
       "confidence": 0.9,
@@ -9166,8 +9421,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -9178,7 +9433,8 @@
       "tags": {
         "periods": [
           "baixa-edat-mitjana"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -9200,8 +9456,8 @@
       "title": "Kheops i la Gran Piràmide",
       "tags": {
         "topics": [
-          "politica",
-          "biografia"
+          "biografia",
+          "politica"
         ]
       },
       "confidence": 0.6,
@@ -9232,8 +9488,8 @@
           "catalunya"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -9281,7 +9537,8 @@
           "segle-xx",
           "segle-xix",
           "contemporani"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.9,
       "auto_generated": true
@@ -9298,8 +9555,8 @@
           "contemporani"
         ],
         "topics": [
-          "guerra",
           "biografia",
+          "guerra",
           "politica",
           "societat"
         ]
@@ -9315,7 +9572,8 @@
         ],
         "periods": [
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -9330,9 +9588,9 @@
           "segle-xx"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -9346,6 +9604,7 @@
         ],
         "topics": [
           "cultura",
+          "menjar",
           "politica"
         ]
       },
@@ -9361,6 +9620,9 @@
         ],
         "periods": [
           "antiguitat"
+        ],
+        "topics": [
+          "menjar"
         ]
       },
       "confidence": 0.8,
@@ -9398,12 +9660,16 @@
     },
     "l-an-basi-de-xenofont": {
       "title": "301 - L'anàbasi de Xenofont",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "l-antic-egipte": {
       "title": "191 - L'antic Egipte",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "l-arbrat-de-barcelona-a-inicis-del-segle-xx": {
@@ -9438,9 +9704,9 @@
           "segle-xx"
         ],
         "topics": [
-          "politica",
+          "biografia",
           "cultura",
-          "biografia"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -9494,9 +9760,9 @@
           "europa"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -9506,10 +9772,10 @@
       "title": "L'ascens dels samurais al poder",
       "tags": {
         "topics": [
-          "guerra",
           "biografia",
-          "politica",
-          "cultura"
+          "cultura",
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -9526,8 +9792,8 @@
         ],
         "topics": [
           "cultura",
-          "societat",
-          "politica"
+          "politica",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -9535,7 +9801,9 @@
     },
     "l-assassinat-dels-germans-badia": {
       "title": "86 - L'assassinat dels germans Badia",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "l-assemblea-de-catalunya": {
@@ -9553,8 +9821,8 @@
         ],
         "topics": [
           "cultura",
-          "societat",
-          "politica"
+          "politica",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -9562,7 +9830,9 @@
     },
     "l-atac-granad-de-1304-a-cocentaina": {
       "title": "128 - L'atac granadí de 1304 a Cocentaina",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "l-automobilisme-a-catalunya": {
@@ -9573,7 +9843,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -9620,7 +9891,9 @@
     },
     "l-eclosi-del-turisme-al-maresme": {
       "title": "L'eclosió del turisme al Maresme",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "l-eclosi-dels-atletes-africans": {
@@ -9632,8 +9905,8 @@
           "catalunya"
         ],
         "topics": [
-          "esport",
-          "cultura"
+          "cultura",
+          "esport"
         ]
       },
       "confidence": 0.9,
@@ -9643,8 +9916,8 @@
       "title": "L'economia de la mort al barroc",
       "tags": {
         "topics": [
-          "economia",
           "cultura",
+          "economia",
           "societat"
         ]
       },
@@ -9793,8 +10066,8 @@
           "antiguitat"
         ],
         "topics": [
-          "societat",
-          "politica"
+          "politica",
+          "societat"
         ]
       },
       "confidence": 0.8,
@@ -9810,9 +10083,9 @@
           "antiguitat"
         ],
         "topics": [
-          "politica",
           "cultura",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -9837,12 +10110,16 @@
     },
     "l-escola-abans-i-despr-s-del-39": {
       "title": "196 - L'escola abans i després del 39",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "l-escola-catalana-a-principis-del-xx": {
       "title": "114 - L'escola catalana a principis del XX",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "l-escola-del-mar-de-la-barceloneta": {
@@ -9853,7 +10130,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -9876,8 +10154,8 @@
           "contemporani"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -9899,8 +10177,8 @@
           "antiguitat"
         ],
         "topics": [
-          "religió",
-          "cultura"
+          "cultura",
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -9976,8 +10254,8 @@
           "segle-xx"
         ],
         "topics": [
-          "politica",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -10082,8 +10360,8 @@
           "asia"
         ],
         "topics": [
-          "guerra",
           "cultura",
+          "guerra",
           "politica"
         ]
       },
@@ -10104,8 +10382,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -10121,8 +10399,8 @@
           "catalunya"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -10202,8 +10480,8 @@
         ],
         "topics": [
           "cultura",
-          "societat",
-          "guerra"
+          "guerra",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -10217,7 +10495,8 @@
         ],
         "periods": [
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -10237,9 +10516,9 @@
           "contemporani"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -10318,10 +10597,10 @@
           "america"
         ],
         "topics": [
-          "politica",
-          "societat",
+          "cultura",
           "guerra",
-          "cultura"
+          "politica",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -10342,9 +10621,9 @@
         ],
         "topics": [
           "biografia",
-          "politica",
           "cultura",
-          "economia"
+          "economia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -10367,8 +10646,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "guerra",
           "cultura",
+          "guerra",
           "politica"
         ]
       },
@@ -10406,7 +10685,8 @@
         ],
         "locations": [
           "america"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -10416,7 +10696,8 @@
       "tags": {
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -10441,6 +10722,7 @@
         "topics": [
           "ciencia",
           "economia",
+          "menjar",
           "politica"
         ]
       },
@@ -10449,12 +10731,16 @@
     },
     "l-exposici-internacional-del-29": {
       "title": "227 - L'exposició internacional del 29",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "l-her-ldica-i-la-vexilologia": {
       "title": "141 - L'heràldica i la vexilologia",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "l-her-ncia-cultural-romana": {
@@ -10467,8 +10753,8 @@
           "antiguitat"
         ],
         "topics": [
-          "politica",
           "cultura",
+          "politica",
           "societat"
         ]
       },
@@ -10488,8 +10774,8 @@
           "prehistoria"
         ],
         "topics": [
-          "cultura",
-          "ciencia"
+          "ciencia",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -10509,10 +10795,10 @@
           "contemporani"
         ],
         "topics": [
+          "cultura",
           "economia",
           "guerra",
-          "religió",
-          "cultura"
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -10566,8 +10852,8 @@
           "catalunya"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -10587,10 +10873,10 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
+          "arquitectura",
           "biografia",
           "cultura",
-          "arquitectura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -10606,8 +10892,8 @@
           "catalunya"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.8,
@@ -10663,7 +10949,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -10681,9 +10968,9 @@
           "segle-xix"
         ],
         "topics": [
+          "ciencia",
           "cultura",
-          "economia",
-          "ciencia"
+          "economia"
         ]
       },
       "confidence": 0.9,
@@ -10699,9 +10986,9 @@
           "catalunya"
         ],
         "topics": [
-          "politica",
           "cultura",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -10715,9 +11002,9 @@
         ],
         "topics": [
           "cultura",
-          "societat",
           "guerra",
-          "politica"
+          "politica",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -10735,14 +11022,17 @@
         ],
         "periods": [
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
     },
     "l-ocupaci-borb-nica": {
       "title": "31 - L'ocupació borbònica",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "l-ocupaci-franquista-de-les-terres-de-lleida": {
@@ -10776,14 +11066,17 @@
         ],
         "periods": [
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
     },
     "l-odisea-de-la-divisi-del-nord": {
       "title": "55 - L'odisea de la divisió del Nord",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "l-ofensiva-sovi-tica-fi-de-la-ii-guerra-mundial-3": {
@@ -10813,7 +11106,9 @@
     },
     "l-omnibus-de-la-mort": {
       "title": "222 - L'omnibus de la mort",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "l-ona-laietana": {
@@ -10946,8 +11241,8 @@
           "segle-xix"
         ],
         "topics": [
-          "politica",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -11041,12 +11336,16 @@
     },
     "l-xode-republic": {
       "title": "260 - L'èxode republicà",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-b-blia": {
       "title": "167 - La Bíblia",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-balaguer-andalusina": {
@@ -11071,7 +11370,8 @@
       "tags": {
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -11098,7 +11398,8 @@
       "tags": {
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -11141,8 +11442,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "religió",
-          "cultura"
+          "cultura",
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -11199,8 +11500,8 @@
           "segle-xix"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -11250,8 +11551,8 @@
           "antiguitat"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -11271,8 +11572,8 @@
           "antiguitat"
         ],
         "topics": [
-          "guerra",
-          "ciencia"
+          "ciencia",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -11353,8 +11654,8 @@
           "antiguitat"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -11442,8 +11743,8 @@
           "antiguitat"
         ],
         "topics": [
-          "politica",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -11474,7 +11775,9 @@
     },
     "la-biga-i-la-busca": {
       "title": "99 - La Biga i la Busca",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-bogeria-a-la-catalunya-del-s-xix": {
@@ -11485,7 +11788,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -11555,8 +11859,8 @@
           "segle-xix"
         ],
         "topics": [
-          "guerra",
           "cultura",
+          "guerra",
           "politica",
           "religió"
         ]
@@ -11574,8 +11878,8 @@
           "catalunya"
         ],
         "topics": [
-          "societat",
-          "cultura"
+          "cultura",
+          "societat"
         ]
       },
       "confidence": 0.8,
@@ -11591,8 +11895,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "ciencia",
-          "arquitectura"
+          "arquitectura",
+          "ciencia"
         ]
       },
       "confidence": 0.8,
@@ -11600,7 +11904,9 @@
     },
     "la-caiguda-de-constantinoble": {
       "title": "275 - La caiguda de Constantinoble",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-caiguda-de-l-imperi-rom": {
@@ -11611,7 +11917,8 @@
         ],
         "periods": [
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -11621,7 +11928,8 @@
       "tags": {
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -11636,9 +11944,9 @@
           "antiguitat"
         ],
         "topics": [
-          "societat",
           "biografia",
-          "politica"
+          "politica",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -11654,8 +11962,8 @@
           "antiguitat"
         ],
         "topics": [
-          "politica",
           "biografia",
+          "politica",
           "societat"
         ]
       },
@@ -11695,8 +12003,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -11704,7 +12012,9 @@
     },
     "la-carrera-espacial": {
       "title": "226 - La carrera espacial",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-cartografia-catalana": {
@@ -11762,10 +12072,10 @@
           "edat-moderna"
         ],
         "topics": [
+          "arquitectura",
           "cultura",
-          "politica",
           "economia",
-          "arquitectura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -11779,7 +12089,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -11834,7 +12145,8 @@
         ],
         "locations": [
           "europa"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -11843,8 +12155,8 @@
       "title": "La ciència-ficció",
       "tags": {
         "topics": [
-          "cultura",
-          "ciencia"
+          "ciencia",
+          "cultura"
         ]
       },
       "confidence": 0.6,
@@ -11857,10 +12169,10 @@
           "catalunya"
         ],
         "topics": [
-          "biografia",
           "arquitectura",
-          "guerra",
-          "ciencia"
+          "biografia",
+          "ciencia",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -11874,7 +12186,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -11896,8 +12209,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -11913,8 +12226,8 @@
           "segle-xx"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -11925,7 +12238,8 @@
       "tags": {
         "locations": [
           "asia"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -11961,7 +12275,9 @@
     },
     "la-comuna-de-par-s": {
       "title": "143 - La comuna de París",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-conquesta-de-la-d-cia": {
@@ -11972,19 +12288,24 @@
         ],
         "periods": [
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
     },
     "la-conquesta-de-m-rcia": {
       "title": "63 - La conquesta de Múrcia",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-conquesta-de-m-xic": {
       "title": "273 - La conquesta de Mèxic",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-conquesta-de-sardenya": {
@@ -11992,7 +12313,8 @@
       "tags": {
         "locations": [
           "mediterrani"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -12022,14 +12344,17 @@
       "tags": {
         "civilizations": [
           "francs"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
     },
     "la-conquesta-del-regne-de-m-rcia": {
       "title": "193 - La conquesta del regne de Múrcia",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-conspiraci-de-catilina": {
@@ -12096,8 +12421,8 @@
           "antiguitat"
         ],
         "topics": [
-          "cultura",
-          "arquitectura"
+          "arquitectura",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -12111,14 +12436,17 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
     },
     "la-copla": {
       "title": "306 - La copla",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-coronela-a-la-barcelona-moderna": {
@@ -12137,7 +12465,9 @@
     },
     "la-correspond-ncia-al-segles-xviii-i-xix": {
       "title": "125 - La correspondència al segles XVIII i XIX",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-corrupci-a-roma": {
@@ -12163,10 +12493,10 @@
           "africa"
         ],
         "topics": [
-          "guerra",
-          "politica",
           "biografia",
-          "cultura"
+          "cultura",
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -12209,7 +12539,11 @@
     },
     "la-cuina-del-barroc": {
       "title": "229 - La cuina del Barroc",
-      "tags": {},
+      "tags": {
+        "topics": [
+          "menjar"
+        ]
+      },
       "auto_generated": true
     },
     "la-cuina-dels-ibers": {
@@ -12224,8 +12558,9 @@
         ],
         "topics": [
           "biografia",
-          "societat",
-          "cultura"
+          "cultura",
+          "menjar",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -12242,6 +12577,9 @@
         ],
         "periods": [
           "baixa-edat-mitjana"
+        ],
+        "topics": [
+          "menjar"
         ]
       },
       "confidence": 0.8,
@@ -12258,6 +12596,9 @@
         ],
         "periods": [
           "antiguitat"
+        ],
+        "topics": [
+          "menjar"
         ]
       },
       "confidence": 0.8,
@@ -12273,8 +12614,8 @@
           "prehistoria"
         ],
         "topics": [
-          "cultura",
-          "arquitectura"
+          "arquitectura",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -12282,7 +12623,9 @@
     },
     "la-d-cada-moderada": {
       "title": "96 - La dècada moderada",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-darrera-carlinada-a-la-vall-del-ges": {
@@ -12353,12 +12696,16 @@
     },
     "la-dictadura-de-primo-de-rivera": {
       "title": "122 - La dictadura de Primo de Rivera",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-dictadura-de-primo-de-rivera-a-l-en-gu-rdia": {
       "title": "La dictadura de Primo de Rivera a l'En Guàrdia",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-dictadura-militar-brasilera-i-els-ind-genes": {
@@ -12382,8 +12729,8 @@
           "catalunya"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -12399,9 +12746,9 @@
           "segle-xix"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -12452,7 +12799,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -12475,8 +12823,8 @@
         ],
         "topics": [
           "cultura",
-          "politica",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -12505,8 +12853,8 @@
           "asia"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -12525,8 +12873,8 @@
           "antiguitat"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -12566,7 +12914,9 @@
     },
     "la-falange": {
       "title": "211 - La Falange",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-falsificaci-d-art-medieval": {
@@ -12591,7 +12941,11 @@
     },
     "la-fam": {
       "title": "80 - La fam",
-      "tags": {},
+      "tags": {
+        "topics": [
+          "menjar"
+        ]
+      },
       "auto_generated": true
     },
     "la-fam-lia-g-ell": {
@@ -12608,9 +12962,9 @@
           "segle-xix"
         ],
         "topics": [
+          "economia",
           "politica",
-          "societat",
-          "economia"
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -12627,8 +12981,8 @@
         ],
         "topics": [
           "cultura",
-          "societat",
-          "politica"
+          "politica",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -12684,8 +13038,8 @@
           "europa"
         ],
         "topics": [
-          "cultura",
           "arquitectura",
+          "cultura",
           "politica"
         ]
       },
@@ -12700,9 +13054,9 @@
           "europa"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -12710,7 +13064,9 @@
     },
     "la-fi-del-regne-de-granada": {
       "title": "214 - La fi del Regne de Granada",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-fi-dels-estats-pontificis": {
@@ -12726,7 +13082,8 @@
         "periods": [
           "antiguitat",
           "contemporani"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.9,
       "auto_generated": true
@@ -12782,8 +13139,8 @@
           "america"
         ],
         "topics": [
-          "economia",
-          "cultura"
+          "cultura",
+          "economia"
         ]
       },
       "confidence": 0.9,
@@ -12800,9 +13157,9 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
           "cultura",
-          "economia"
+          "economia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -12916,8 +13273,8 @@
           "contemporani"
         ],
         "topics": [
-          "cultura",
-          "arquitectura"
+          "arquitectura",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -13010,9 +13367,9 @@
           "segle-xx"
         ],
         "topics": [
+          "economia",
           "guerra",
-          "politica",
-          "economia"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -13120,10 +13477,10 @@
           "segle-xx"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "religió",
           "politica",
-          "cultura"
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -13142,8 +13499,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -13161,10 +13518,10 @@
           "africa"
         ],
         "topics": [
-          "esport",
-          "guerra",
           "biografia",
           "cultura",
+          "esport",
+          "guerra",
           "politica"
         ]
       },
@@ -13204,8 +13561,8 @@
           "asia"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.8,
@@ -13242,8 +13599,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.8,
@@ -13313,7 +13670,8 @@
       "title": "91 - La guerra de secessió i la fam del cotó",
       "tags": {
         "topics": [
-          "guerra"
+          "guerra",
+          "menjar"
         ]
       },
       "confidence": 0.6,
@@ -13357,8 +13715,8 @@
           "segle-xix"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -13377,8 +13735,8 @@
           "segle-xix"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -13397,8 +13755,8 @@
           "segle-xix"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -13478,9 +13836,9 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
           "arquitectura",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -13560,8 +13918,8 @@
         ],
         "topics": [
           "cultura",
-          "religió",
-          "guerra"
+          "guerra",
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -13591,8 +13949,8 @@
       "title": "La història de Cassola",
       "tags": {
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.6,
@@ -13614,24 +13972,31 @@
       "tags": {
         "periods": [
           "prehistoria"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
     },
     "la-hist-ria-del-cava": {
       "title": "85 - La història del cava",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-hist-ria-del-cinema-a-l-en-gu-rdia": {
       "title": "La història del cinema a l'\"En guàrdia!\"",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-homosexualitat-fins-al-segle-xvi": {
       "title": "159 - La homosexualitat fins al segle XVI",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-iconocl-stia-bizantina": {
@@ -13708,8 +14073,8 @@
           "catalunya"
         ],
         "topics": [
-          "cultura",
           "ciencia",
+          "cultura",
           "guerra"
         ]
       },
@@ -13732,10 +14097,10 @@
           "segle-xix"
         ],
         "topics": [
+          "cultura",
           "economia",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -13756,8 +14121,8 @@
           "europa"
         ],
         "topics": [
-          "politica",
-          "economia"
+          "economia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -13773,8 +14138,8 @@
           "catalunya"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -13790,8 +14155,8 @@
           "prehistoria"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -13813,8 +14178,8 @@
           "europa"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -13840,9 +14205,9 @@
       "title": "693 - La infància a l'antic Egipte",
       "tags": {
         "topics": [
-          "societat",
+          "cultura",
           "politica",
-          "cultura"
+          "societat"
         ]
       },
       "confidence": 0.8,
@@ -13867,11 +14232,11 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
+          "arquitectura",
+          "cultura",
           "guerra",
           "politica",
-          "religió",
-          "cultura",
-          "arquitectura"
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -13890,9 +14255,9 @@
           "catalunya"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -13903,7 +14268,8 @@
       "tags": {
         "events": [
           "inquisicio"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -13930,7 +14296,9 @@
     },
     "la-invasi-de-la-vall-d-aran": {
       "title": "102 - La invasió de la Vall d'Aran",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-invasi-de-les-sueques": {
@@ -14023,8 +14391,8 @@
           "antiguitat"
         ],
         "topics": [
-          "cultura",
           "ciencia",
+          "cultura",
           "esport"
         ]
       },
@@ -14044,8 +14412,8 @@
           "america"
         ],
         "topics": [
-          "cultura",
-          "ciencia"
+          "ciencia",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -14086,8 +14454,8 @@
           "catalunya"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -14102,7 +14470,8 @@
         "locations": [
           "catalunya",
           "europa"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -14125,9 +14494,9 @@
           "edat-moderna"
         ],
         "topics": [
-          "politica",
           "ciencia",
-          "economia"
+          "economia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -14188,7 +14557,8 @@
         ],
         "events": [
           "guerra-civil"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -14204,7 +14574,8 @@
         ],
         "periods": [
           "segle-xx"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -14230,8 +14601,8 @@
           "espanya"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -14261,8 +14632,8 @@
       "title": "463 - La música del cinema bèl·lic",
       "tags": {
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.6,
@@ -14388,8 +14759,8 @@
         ],
         "topics": [
           "cultura",
-          "societat",
-          "guerra"
+          "guerra",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -14411,9 +14782,9 @@
           "segle-xviii"
         ],
         "topics": [
+          "ciencia",
           "cultura",
-          "guerra",
-          "ciencia"
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -14460,7 +14831,9 @@
     },
     "la-menorca-brit-nica": {
       "title": "101 - La Menorca britànica",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-mineria-al-bergued": {
@@ -14499,9 +14872,9 @@
           "segle-xix"
         ],
         "topics": [
-          "politica",
+          "cultura",
           "economia",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -14517,9 +14890,9 @@
           "mediterrani"
         ],
         "topics": [
-          "politica",
           "cultura",
-          "economia"
+          "economia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -14565,8 +14938,8 @@
         ],
         "topics": [
           "biografia",
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -14602,8 +14975,8 @@
           "catalunya"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -14622,8 +14995,8 @@
           "segle-xix"
         ],
         "topics": [
-          "politica",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -14642,8 +15015,8 @@
           "segle-xx"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -14678,9 +15051,9 @@
         ],
         "topics": [
           "arquitectura",
+          "cultura",
           "politica",
-          "religió",
-          "cultura"
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -14696,8 +15069,8 @@
           "antiguitat"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -14721,9 +15094,9 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
+          "cultura",
           "politica",
-          "religió",
-          "cultura"
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -14741,7 +15114,9 @@
     },
     "la-pesta-negra": {
       "title": "58 - La pesta negra",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-plaga-antonina": {
@@ -14776,8 +15151,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -14799,9 +15174,9 @@
           "segle-xx"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -14938,7 +15313,9 @@
     },
     "la-presa-de-gibraltar": {
       "title": "124 - La presa de Gibraltar",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-primera-edat-del-ferro-a-l-ebre": {
@@ -14954,7 +15331,8 @@
         "periods": [
           "antiguitat",
           "prehistoria"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.9,
       "auto_generated": true
@@ -14997,9 +15375,9 @@
           "segle-xix"
         ],
         "topics": [
-          "politica",
           "cultura",
-          "economia"
+          "economia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -15017,9 +15395,9 @@
           "contemporani"
         ],
         "topics": [
-          "politica",
+          "cultura",
           "guerra",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -15066,7 +15444,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -15132,9 +15511,9 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
           "arquitectura",
-          "biografia"
+          "biografia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -15155,8 +15534,8 @@
           "edat-moderna"
         ],
         "topics": [
-          "politica",
-          "economia"
+          "economia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -15213,8 +15592,8 @@
           "catalunya"
         ],
         "topics": [
-          "cultura",
-          "arquitectura"
+          "arquitectura",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -15265,12 +15644,16 @@
     },
     "la-represi-del-b-ndol-republic": {
       "title": "90 - La represió del bàndol republicà",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-resist-ncia-anti-borb-nica": {
       "title": "94 - La resistència anti borbònica",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-restauraci-del-bisbat-d-osona-el-segle-ix": {
@@ -15304,8 +15687,8 @@
           "catalunya"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -15347,8 +15730,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
-          "arquitectura"
+          "arquitectura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -15364,8 +15747,8 @@
           "asia"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.8,
@@ -15373,7 +15756,9 @@
     },
     "la-revoluci-de-l-astronomia": {
       "title": "322 - La revolució de l'astronomia",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-revoluci-dule": {
@@ -15402,7 +15787,8 @@
       "tags": {
         "periods": [
           "baixa-edat-mitjana"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -15415,8 +15801,8 @@
           "francs"
         ],
         "topics": [
-          "politica",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -15438,8 +15824,8 @@
           "segle-xx"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -15447,7 +15833,9 @@
     },
     "la-revoluci-meiji": {
       "title": "284 - La revolució Meiji",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-revoluci-mexicana": {
@@ -15457,8 +15845,8 @@
           "francs"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -15497,8 +15885,8 @@
           "segle-xx"
         ],
         "topics": [
-          "politica",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -15506,7 +15894,9 @@
     },
     "la-revoluci-russa-i-la-vaga-general": {
       "title": "78 - La revolució russa i la vaga general",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-revoluci-taiping": {
@@ -15596,7 +15986,9 @@
     },
     "la-rumba-catalana": {
       "title": "278 - La rumba catalana",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-ruta-de-la-seda": {
@@ -15638,7 +16030,9 @@
     },
     "la-sardana": {
       "title": "293 - La sardana",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-sarsuela": {
@@ -15675,6 +16069,7 @@
         ],
         "topics": [
           "economia",
+          "pagesia",
           "politica"
         ]
       },
@@ -15691,9 +16086,9 @@
           "segle-xx"
         ],
         "topics": [
+          "arquitectura",
           "cultura",
-          "societat",
-          "arquitectura"
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -15727,7 +16122,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "guerra"
+          "guerra",
+          "pagesia"
         ]
       },
       "confidence": 0.9,
@@ -15735,7 +16131,9 @@
     },
     "la-setmana-tr-gica": {
       "title": "14 - La setmana tràgica",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-soluci-final": {
@@ -15804,8 +16202,8 @@
           "edat-moderna"
         ],
         "topics": [
-          "cultura",
           "ciencia",
+          "cultura",
           "politica"
         ]
       },
@@ -15836,8 +16234,8 @@
           "catalunya"
         ],
         "topics": [
-          "economia",
-          "cultura"
+          "cultura",
+          "economia"
         ]
       },
       "confidence": 0.8,
@@ -15872,7 +16270,8 @@
         "locations": [
           "catalunya",
           "espanya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -15882,7 +16281,8 @@
       "tags": {
         "events": [
           "reconquesta"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -15899,7 +16299,8 @@
         ],
         "periods": [
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -15917,7 +16318,9 @@
     },
     "la-veritable-hist-ria-de-jes-s-de-natzaret": {
       "title": "248 - La veritable història de Jesús de Natzaret",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-veu-de-catalunya": {
@@ -15954,8 +16357,8 @@
           "antiguitat"
         ],
         "topics": [
-          "guerra",
-          "arquitectura"
+          "arquitectura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -15965,8 +16368,8 @@
       "title": "La vida de Clotilde Cerdà",
       "tags": {
         "topics": [
-          "cultura",
-          "biografia"
+          "biografia",
+          "cultura"
         ]
       },
       "confidence": 0.6,
@@ -15985,8 +16388,8 @@
           "segle-xix"
         ],
         "topics": [
-          "economia",
           "biografia",
+          "economia",
           "politica"
         ]
       },
@@ -16006,9 +16409,9 @@
           "segle-xix"
         ],
         "topics": [
-          "politica",
+          "biografia",
           "economia",
-          "biografia"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -16044,12 +16447,16 @@
     },
     "la-vida-rural-a-l-edat-mitjana": {
       "title": "146 - La vida rural a l'edat mitjana",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-vida-urbana-a-la-baixa-edat-mitjana": {
       "title": "132 - La vida urbana a la baixa edat mitjana",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "la-vinya-al-pened-s": {
@@ -16065,6 +16472,7 @@
           "catalunya"
         ],
         "topics": [
+          "pagesia",
           "politica"
         ]
       },
@@ -16132,9 +16540,9 @@
           "segle-xix"
         ],
         "topics": [
+          "ciencia",
           "cultura",
-          "economia",
-          "ciencia"
+          "economia"
         ]
       },
       "confidence": 0.9,
@@ -16148,6 +16556,9 @@
         ],
         "locations": [
           "catalunya"
+        ],
+        "topics": [
+          "menjar"
         ]
       },
       "confidence": 0.6,
@@ -16163,9 +16574,9 @@
           "asia"
         ],
         "topics": [
-          "guerra",
           "biografia",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -16188,9 +16599,9 @@
           "contemporani"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -16236,8 +16647,8 @@
       "title": "696 - Les Bases de Manresa",
       "tags": {
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.6,
@@ -16245,7 +16656,9 @@
     },
     "les-can-ons-d-el-molino": {
       "title": "287 - Les cançons d'El Molino",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "les-cartes-d-antoni-giberga": {
@@ -16336,8 +16749,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
           "biografia",
+          "guerra",
           "politica"
         ]
       },
@@ -16362,9 +16775,9 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "cultura",
+          "arquitectura",
           "biografia",
-          "arquitectura"
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -16384,10 +16797,10 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
+          "cultura",
           "esport",
-          "politica",
-          "cultura"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -16398,7 +16811,8 @@
       "tags": {
         "locations": [
           "espanya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -16430,9 +16844,9 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
           "cultura",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -16457,7 +16871,9 @@
     },
     "les-discogr-fiques-catalanes": {
       "title": "391 - Les discogràfiques catalanes",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "les-dones-a-l-edat-mitjana": {
@@ -16484,8 +16900,8 @@
           "segle-xx"
         ],
         "topics": [
-          "societat",
-          "guerra"
+          "guerra",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -16502,8 +16918,8 @@
         ],
         "topics": [
           "economia",
-          "societat",
-          "politica"
+          "politica",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -16529,10 +16945,10 @@
           "cristians"
         ],
         "topics": [
+          "cultura",
           "politica",
-          "societat",
           "religió",
-          "cultura"
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -16564,9 +16980,9 @@
           "prehistoria"
         ],
         "topics": [
-          "politica",
           "cultura",
-          "economia"
+          "economia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -16582,9 +16998,9 @@
           "segle-xvii"
         ],
         "topics": [
-          "politica",
+          "arquitectura",
           "cultura",
-          "arquitectura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -16592,7 +17008,9 @@
     },
     "les-fortificacions-de-l-edat-moderna": {
       "title": "129 - Les fortificacions de l'edat moderna",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "les-galeres": {
@@ -16602,8 +17020,8 @@
           "catalunya"
         ],
         "topics": [
-          "guerra",
-          "economia"
+          "economia",
+          "guerra"
         ]
       },
       "confidence": 0.8,
@@ -16611,7 +17029,9 @@
     },
     "les-grans-dives-de-l-pera": {
       "title": "329 - Les grans dives de l'òpera",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "les-guerres-c-ntabres": {
@@ -16646,7 +17066,9 @@
     },
     "les-guerres-del-riff": {
       "title": "82 - Les guerres del Riff",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "les-hist-ries-personals-de-la-batalla-de-l-ebre": {
@@ -16676,9 +17098,9 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
           "biografia",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -16691,10 +17113,10 @@
           "europa"
         ],
         "topics": [
-          "societat",
           "ciencia",
+          "cultura",
           "politica",
-          "cultura"
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -16776,9 +17198,9 @@
           "segle-xix"
         ],
         "topics": [
-          "politica",
           "cultura",
-          "economia"
+          "economia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -16848,8 +17270,8 @@
           "segle-xx"
         ],
         "topics": [
-          "cultura",
-          "biografia"
+          "biografia",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -16887,8 +17309,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
-          "economia"
+          "economia",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -16896,7 +17318,9 @@
     },
     "les-mines-neolitiques-de-gav": {
       "title": "203 - Les mines neolitiques de Gavà",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "les-narracions-hist-riques-de-castellv": {
@@ -16916,9 +17340,9 @@
           "segle-xviii"
         ],
         "topics": [
-          "guerra",
+          "arquitectura",
           "cultura",
-          "arquitectura"
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -16926,7 +17350,9 @@
     },
     "les-navas-de-tolosa": {
       "title": "216 - Les Navas de Tolosa",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "les-presons-de-barcelona": {
@@ -16973,8 +17399,8 @@
       "title": "Les primeres corresponsals de guerra",
       "tags": {
         "topics": [
-          "guerra",
           "cultura",
+          "guerra",
           "societat"
         ]
       },
@@ -17022,7 +17448,9 @@
     },
     "les-rel-quies": {
       "title": "149 - Les relíquies",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "les-relacions-entre-catalunya-i-arag": {
@@ -17033,7 +17461,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -17050,7 +17479,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -17094,9 +17524,9 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -17104,7 +17534,9 @@
     },
     "les-tres-guerres": {
       "title": "38 - Les tres guerres",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "les-v-dues-a-la-baixa-edat-mitjana": {
@@ -17117,8 +17549,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
           "cultura",
+          "politica",
           "religió"
         ]
       },
@@ -17130,22 +17562,25 @@
       "tags": {
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
     },
     "les-vespres-sicilianes": {
       "title": "10 - Les vespres sicilianes",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "lise-meitner": {
       "title": "Lise Meitner",
       "tags": {
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.6,
@@ -17165,9 +17600,9 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "religió",
           "arquitectura",
-          "politica"
+          "politica",
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -17175,7 +17610,9 @@
     },
     "llu-s-companys": {
       "title": "158 - Lluís Companys",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "llu-s-de-requesens-governador-de-flandes": {
@@ -17194,10 +17631,10 @@
           "edat-moderna"
         ],
         "topics": [
-          "politica",
-          "societat",
           "cultura",
-          "guerra"
+          "guerra",
+          "politica",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -17214,8 +17651,8 @@
         ],
         "topics": [
           "biografia",
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -17234,8 +17671,8 @@
           "segle-xx"
         ],
         "topics": [
-          "societat",
-          "politica"
+          "politica",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -17272,9 +17709,9 @@
           "francs"
         ],
         "topics": [
-          "politica",
+          "ciencia",
           "cultura",
-          "ciencia"
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -17298,9 +17735,9 @@
           "segle-xx"
         ],
         "topics": [
+          "biografia",
           "cultura",
-          "guerra",
-          "biografia"
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -17316,8 +17753,8 @@
           "antiguitat"
         ],
         "topics": [
-          "guerra",
-          "biografia"
+          "biografia",
+          "guerra"
         ]
       },
       "confidence": 0.8,
@@ -17330,9 +17767,9 @@
           "europa"
         ],
         "topics": [
-          "societat",
+          "cultura",
           "politica",
-          "cultura"
+          "societat"
         ]
       },
       "confidence": 0.8,
@@ -17363,7 +17800,9 @@
     },
     "m-rius-contra-sul-la": {
       "title": "228 - Màrius contra Sul·la",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "m-sica-i-festa-dos-fets-inseparables": {
@@ -17430,8 +17869,8 @@
           "segle-xix"
         ],
         "topics": [
-          "politica",
-          "economia"
+          "economia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -17458,9 +17897,9 @@
           "edat-moderna"
         ],
         "topics": [
+          "arquitectura",
           "biografia",
-          "cultura",
-          "arquitectura"
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -17479,8 +17918,8 @@
           "segle-xx"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -17496,9 +17935,9 @@
           "catalunya"
         ],
         "topics": [
-          "cultura",
+          "biografia",
           "ciencia",
-          "biografia"
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -17544,9 +17983,9 @@
           "antiguitat"
         ],
         "topics": [
-          "guerra",
           "biografia",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -17573,9 +18012,9 @@
       "title": "Marie Curie",
       "tags": {
         "topics": [
-          "cultura",
           "biografia",
-          "ciencia"
+          "ciencia",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -17621,7 +18060,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -17642,9 +18082,9 @@
           "segle-xx"
         ],
         "topics": [
+          "cultura",
           "guerra",
           "politica",
-          "cultura",
           "societat"
         ]
       },
@@ -17678,9 +18118,9 @@
           "espanya"
         ],
         "topics": [
-          "politica",
+          "biografia",
           "guerra",
-          "biografia"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -17702,8 +18142,8 @@
           "america"
         ],
         "topics": [
-          "economia",
-          "cultura"
+          "cultura",
+          "economia"
         ]
       },
       "confidence": 0.9,
@@ -17724,7 +18164,9 @@
     },
     "miquelets-i-guerres-del-s-xvii": {
       "title": "262 - Miquelets i guerres del S. XVII",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "missioners-jesu-tes-a-la-xina": {
@@ -17761,9 +18203,9 @@
           "segle-xix"
         ],
         "topics": [
-          "politica",
+          "biografia",
           "cultura",
-          "biografia"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -17774,14 +18216,17 @@
       "tags": {
         "civilizations": [
           "ibers"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
     },
     "montserrat": {
       "title": "41 - Montserrat",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "montserrat-durant-el-franquisme": {
@@ -17851,8 +18296,8 @@
           "antiguitat"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.8,
@@ -17895,9 +18340,9 @@
           "segle-xix"
         ],
         "topics": [
-          "politica",
           "cultura",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -17910,9 +18355,9 @@
           "segle-xix"
         ],
         "topics": [
-          "economia",
           "arquitectura",
-          "biografia"
+          "biografia",
+          "economia"
         ]
       },
       "confidence": 0.8,
@@ -17940,15 +18385,17 @@
     },
     "negrers": {
       "title": "25 - Negrers",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "newton-vs-leibniz": {
       "title": "539 - Newton vs. Leibniz",
       "tags": {
         "topics": [
-          "cultura",
-          "ciencia"
+          "ciencia",
+          "cultura"
         ]
       },
       "confidence": 0.6,
@@ -17958,8 +18405,8 @@
       "title": "Àngel Guimerà",
       "tags": {
         "topics": [
-          "cultura",
-          "biografia"
+          "biografia",
+          "cultura"
         ]
       },
       "confidence": 0.6,
@@ -17973,7 +18420,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -18001,10 +18449,10 @@
           "antiguitat"
         ],
         "topics": [
-          "cultura",
           "biografia",
-          "politica",
-          "ciencia"
+          "ciencia",
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -18012,7 +18460,9 @@
     },
     "nyerros-i-cadells": {
       "title": "257 - Nyerros i cadells",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "oliver-cromwell-i-la-guerra-civil-anglesa": {
@@ -18030,9 +18480,9 @@
         ],
         "topics": [
           "biografia",
-          "politica",
           "cultura",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -18073,8 +18523,8 @@
         ],
         "topics": [
           "cultura",
-          "politica",
-          "economia"
+          "economia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -18093,9 +18543,9 @@
           "segle-xix"
         ],
         "topics": [
-          "politica",
           "cultura",
-          "economia"
+          "economia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -18105,9 +18555,9 @@
       "title": "416 - Ovidi Montllor",
       "tags": {
         "topics": [
-          "politica",
+          "biografia",
           "cultura",
-          "biografia"
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -18115,7 +18565,9 @@
     },
     "pau-casals": {
       "title": "162 - Pau Casals",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "pau-casals-artistes-2": {
@@ -18131,8 +18583,8 @@
           "contemporani"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -18165,7 +18617,8 @@
       "tags": {
         "events": [
           "guerra-segadors"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -18180,8 +18633,8 @@
           "catalunya"
         ],
         "topics": [
-          "cultura",
-          "biografia"
+          "biografia",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -18218,9 +18671,9 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
+          "arquitectura",
           "cultura",
-          "arquitectura"
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -18242,9 +18695,9 @@
           "america"
         ],
         "topics": [
-          "guerra",
           "biografia",
           "cultura",
+          "guerra",
           "religió"
         ]
       },
@@ -18262,8 +18715,8 @@
         ],
         "topics": [
           "biografia",
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -18284,9 +18737,9 @@
         ],
         "topics": [
           "arquitectura",
-          "guerra",
-          "cultura",
           "biografia",
+          "cultura",
+          "guerra",
           "politica"
         ]
       },
@@ -18295,7 +18748,9 @@
     },
     "pere-joan-barcel-carrasclet": {
       "title": "186 - Pere Joan Barceló \"Carrasclet\"",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "periodistes-catalans-de-la-rep-blica": {
@@ -18317,9 +18772,9 @@
           "segle-xx"
         ],
         "topics": [
-          "politica",
           "cultura",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -18361,8 +18816,8 @@
           "catalunya"
         ],
         "topics": [
-          "politica",
           "cultura",
+          "politica",
           "societat"
         ]
       },
@@ -18400,8 +18855,8 @@
         ],
         "topics": [
           "cultura",
-          "politica",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -18409,7 +18864,9 @@
     },
     "pirates-i-corsaris": {
       "title": "2 - Pirates i corsaris",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "pirates-i-corsaris-a-l-empord": {
@@ -18422,9 +18879,9 @@
           "africa"
         ],
         "topics": [
-          "politica",
           "cultura",
-          "economia"
+          "economia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -18432,7 +18889,9 @@
     },
     "pistolerisme-sindicats-lliures": {
       "title": "35 - Pistolerisme, sindicats lliures",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "pit-gores": {
@@ -18458,8 +18917,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "biografia",
-          "arquitectura"
+          "arquitectura",
+          "biografia"
         ]
       },
       "confidence": 0.9,
@@ -18493,9 +18952,9 @@
           "antiguitat"
         ],
         "topics": [
+          "biografia",
           "cultura",
-          "politica",
-          "biografia"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -18534,19 +18993,24 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
     },
     "prim-i-els-voluntaris-catalans": {
       "title": "225 - Prim i els voluntaris catalans",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "ramon-berenguer-iii-i-iv": {
       "title": "42 - Ramon Berenguer III i IV",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "ramon-casas": {
@@ -18589,9 +19053,9 @@
           "catalunya"
         ],
         "topics": [
-          "societat",
           "guerra",
-          "politica"
+          "politica",
+          "societat"
         ]
       },
       "confidence": 0.8,
@@ -18599,7 +19063,9 @@
     },
     "ramon-llull": {
       "title": "184 - Ramon Llull",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "ramon-mercader-i-trotski": {
@@ -18625,8 +19091,8 @@
           "catalunya"
         ],
         "topics": [
-          "politica",
-          "biografia"
+          "biografia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -18666,7 +19132,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra"
+          "guerra",
+          "pagesia"
         ]
       },
       "confidence": 0.8,
@@ -18746,8 +19213,8 @@
       "tags": {
         "topics": [
           "biografia",
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -18775,7 +19242,8 @@
         ],
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -18785,7 +19253,8 @@
       "tags": {
         "civilizations": [
           "francs"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -18798,7 +19267,8 @@
         ],
         "periods": [
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -18831,19 +19301,24 @@
       "tags": {
         "civilizations": [
           "francs"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
     },
     "salad": {
       "title": "207 - Saladí",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "salv-i-campillo": {
       "title": "197 - Salvà i Campillo",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "salvador-dal-geni-i-figura": {
@@ -18867,7 +19342,8 @@
         ],
         "topics": [
           "biografia",
-          "cultura"
+          "cultura",
+          "menjar"
         ]
       },
       "confidence": 0.8,
@@ -18889,8 +19365,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "cultura",
           "arquitectura",
+          "cultura",
           "religió"
         ]
       },
@@ -18914,8 +19390,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
-          "arquitectura"
+          "arquitectura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -18949,8 +19425,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
           "arquitectura",
+          "politica",
           "religió"
         ]
       },
@@ -18998,8 +19474,8 @@
         ],
         "topics": [
           "biografia",
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -19128,7 +19604,9 @@
     },
     "socialistes-vs-anarquistes": {
       "title": "77 - Socialistes vs Anarquistes",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "solim-el-magn-fic": {
@@ -19139,9 +19617,9 @@
           "mediterrani"
         ],
         "topics": [
-          "societat",
+          "cultura",
           "politica",
-          "cultura"
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -19149,12 +19627,16 @@
     },
     "t-cniques-arqueol-giques": {
       "title": "70 - Tècniques arqueològiques",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "t-rraco": {
       "title": "68 - Tàrraco",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "tarradellas-durant-la-guerra-civil": {
@@ -19184,9 +19666,9 @@
           "america"
         ],
         "topics": [
-          "cultura",
+          "arquitectura",
           "ciencia",
-          "arquitectura"
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -19234,7 +19716,8 @@
       "tags": {
         "locations": [
           "catalunya"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -19255,9 +19738,9 @@
           "segle-xviii"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -19304,9 +19787,9 @@
           "catalunya"
         ],
         "topics": [
-          "societat",
           "biografia",
-          "cultura"
+          "cultura",
+          "societat"
         ]
       },
       "confidence": 0.8,
@@ -19350,7 +19833,9 @@
     },
     "trafalgar": {
       "title": "245 - Trafalgar",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     },
     "traficants-d-esclaus-a-l-frica": {
@@ -19381,10 +19866,10 @@
           "ibers"
         ],
         "topics": [
+          "biografia",
           "cultura",
           "politica",
-          "societat",
-          "biografia"
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -19431,9 +19916,9 @@
           "segle-xx"
         ],
         "topics": [
-          "politica",
           "cultura",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -19471,8 +19956,8 @@
           "catalunya"
         ],
         "topics": [
-          "politica",
           "guerra",
+          "politica",
           "societat"
         ]
       },
@@ -19492,9 +19977,9 @@
           "europa"
         ],
         "topics": [
-          "religió",
           "cultura",
-          "politica"
+          "politica",
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -19524,8 +20009,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
           "cultura",
+          "guerra",
           "societat"
         ]
       },
@@ -19554,7 +20039,8 @@
         ],
         "periods": [
           "antiguitat"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.8,
       "auto_generated": true
@@ -19564,7 +20050,8 @@
       "tags": {
         "locations": [
           "europa"
-        ]
+        ],
+        "topics": []
       },
       "confidence": 0.6,
       "auto_generated": true
@@ -19583,9 +20070,9 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "cultura",
           "biografia",
+          "cultura",
+          "guerra",
           "politica"
         ]
       },
@@ -19608,9 +20095,9 @@
           "antiguitat"
         ],
         "topics": [
-          "societat",
+          "biografia",
           "politica",
-          "biografia"
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -19626,8 +20113,8 @@
           "antiguitat"
         ],
         "topics": [
-          "politica",
-          "biografia"
+          "biografia",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -19640,10 +20127,10 @@
           "asia"
         ],
         "topics": [
+          "arquitectura",
           "biografia",
           "cultura",
-          "societat",
-          "arquitectura"
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -19695,9 +20182,9 @@
           "segle-xix"
         ],
         "topics": [
-          "politica",
           "cultura",
-          "economia"
+          "economia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -19716,9 +20203,9 @@
           "segle-xx"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -19742,7 +20229,9 @@
     },
     "xostak-vitx": {
       "title": "Xostakòvitx",
-      "tags": {},
+      "tags": {
+        "topics": []
+      },
       "auto_generated": true
     }
   },
@@ -19769,7 +20258,9 @@
       "societat",
       "ciencia",
       "arquitectura",
-      "esport"
+      "esport",
+      "menjar",
+      "pagesia"
     ],
     "locations": [
       "catalunya",
