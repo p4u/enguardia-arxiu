@@ -128,7 +128,7 @@ build-webapp-ghpages:
 			fi; \
 		done; \
 	fi
-	cd $(WEBAPP_DIR) && pnpm install && pnpm build
+	cd $(WEBAPP_DIR) && pnpm install && pnpm build --base=/enguardia-web/
 	@echo "GitHub Pages webapp built in $(WEBAPP_DIR)/dist/"
 
 gh-pages-build: scrape-lazy generate-tags generate-data-ghpages build-webapp-ghpages
