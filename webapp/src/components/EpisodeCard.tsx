@@ -11,6 +11,7 @@ import {
   Icon,
   Image,
   Tooltip,
+  useColorModeValue,
 } from '@chakra-ui/react'
 import { FaPlay, FaCalendarAlt, FaClock, FaHeart, FaCheck } from 'react-icons/fa'
 import { motion } from 'framer-motion'
@@ -37,6 +38,16 @@ export const EpisodeCard = memo(function EpisodeCard({
   
   const isFav = isFavourite(episode.id)
   const isListen = isListened(episode.id)
+  
+  // Dark mode colors
+  const cardBg = useColorModeValue('white', 'gray.800')
+  const cardBorder = useColorModeValue('gray.200', 'gray.600')
+  const cardHoverBorder = useColorModeValue('primary.200', 'primary.400')
+  const titleColor = useColorModeValue('gray.800', 'gray.100')
+  const descColor = useColorModeValue('gray.600', 'gray.300')
+  const metaColor = useColorModeValue('gray.500', 'gray.400')
+  const fallbackBg = useColorModeValue('gray.100', 'gray.700')
+  const fallbackColor = useColorModeValue('gray.500', 'gray.400')
   
   console.log('EpisodeCard: Rendering card for:', {
     episodeId: episode.id,
@@ -68,10 +79,11 @@ export const EpisodeCard = memo(function EpisodeCard({
         _hover={{ 
           shadow: 'xl',
           transform: 'translateY(-2px)',
-          borderColor: 'primary.200'
+          borderColor: cardHoverBorder
         }}
         transition="all 0.2s"
-        bg="white"
+        bg={cardBg}
+        borderColor={cardBorder}
         borderRadius="2xl"
         overflow="hidden"
       >
@@ -88,12 +100,12 @@ export const EpisodeCard = memo(function EpisodeCard({
                 <Box
                   w="full"
                   h="200px"
-                  bg="gray.100"
+                  bg={fallbackBg}
                   display="flex"
                   alignItems="center"
                   justifyContent="center"
                 >
-                  <Text color="gray.500" fontSize="sm">
+                  <Text color={fallbackColor} fontSize="sm">
                     Imatge no disponible
                   </Text>
                 </Box>
@@ -114,7 +126,7 @@ export const EpisodeCard = memo(function EpisodeCard({
         <CardBody p={6}>
           <VStack align="stretch" spacing={4}>
             <Box>
-              <Heading size="md" mb={2} noOfLines={2} color="gray.800">
+              <Heading size="md" mb={2} noOfLines={2} color={titleColor}>
                 {episode.title}
               </Heading>
               <Tooltip
@@ -131,11 +143,11 @@ export const EpisodeCard = memo(function EpisodeCard({
               >
                 <Text 
                   fontSize="sm" 
-                  color="gray.600" 
+                  color={descColor} 
                   noOfLines={3} 
                   lineHeight="1.5"
                   cursor="help"
-                  _hover={{ color: "gray.800" }}
+                  _hover={{ color: titleColor }}
                   transition="color 0.2s"
                 >
                   {episode.description}
@@ -147,9 +159,9 @@ export const EpisodeCard = memo(function EpisodeCard({
             {/* Tags Section */}
             {episode.tags && episode.tags.length > 0 && (
               <Box>
-                <Text fontSize="xs" color="gray.500" mb={2} fontWeight="medium">
-                  Etiquetes:
-                </Text>
+              <Text fontSize="xs" color={metaColor} mb={2} fontWeight="medium">
+                Etiquetes:
+              </Text>
                 <HStack spacing={1} wrap="wrap">
                   {episode.tags.slice(0, 6).map((tag, tagIndex) => (
                     <Badge
@@ -183,7 +195,7 @@ export const EpisodeCard = memo(function EpisodeCard({
               </Box>
             )}
             
-            <HStack justify="space-between" fontSize="sm" color="gray.500">
+            <HStack justify="space-between" fontSize="sm" color={metaColor}>
               <HStack spacing={1}>
                 <Icon as={FaCalendarAlt} />
                 <Text>{new Date(episode.parsedDate).toLocaleDateString('ca')}</Text>

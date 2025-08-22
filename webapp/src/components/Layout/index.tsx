@@ -1,4 +1,4 @@
-import { Box, Container, VStack } from '@chakra-ui/react'
+import { Box, Container, VStack, useColorModeValue } from '@chakra-ui/react'
 import { ReactNode } from 'react'
 import { Header } from './Header'
 import { Footer } from './Footer'
@@ -11,8 +11,10 @@ interface LayoutProps {
 }
 
 export function Layout({ children }: LayoutProps) {
+  const bgColor = useColorModeValue('gray.50', 'gray.900')
+  
   return (
-    <Box minH="100vh" bg="gray.50">
+    <Box minH="100vh" bg={bgColor}>
       {/* Offline indicator */}
       <OfflineIndicator />
       

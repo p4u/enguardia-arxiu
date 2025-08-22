@@ -29,6 +29,7 @@ import {
   AccordionIcon,
   IconButton,
   useBreakpointValue,
+  useColorModeValue,
 } from '@chakra-ui/react';
 import { FaSearch, FaFilter, FaTags, FaTimes } from 'react-icons/fa';
 import { useEpisodes } from '../contexts/EpisodesContext';
@@ -57,6 +58,15 @@ export function SearchPage() {
   
   // Responsive values
   const isMobile = useBreakpointValue({ base: true, md: false });
+  
+  // Color mode values
+  const inputBg = useColorModeValue('white', 'gray.700')
+  const filtersBg = useColorModeValue('gray.50', 'gray.800')
+  const filtersBorder = useColorModeValue('gray.200', 'gray.600')
+  const noResultsBg = useColorModeValue('white', 'gray.800')
+  const noResultsBorder = useColorModeValue('gray.200', 'gray.600')
+  const textColor = useColorModeValue('gray.600', 'gray.300')
+  const mutedTextColor = useColorModeValue('gray.500', 'gray.400')
   
   // Debounced search term
   const debouncedSearchTerm = useDebounce(searchTerm, 300);
@@ -246,7 +256,7 @@ export function SearchPage() {
             placeholder="Cerca per títol, descripció o etiquetes..."
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
-            bg="white"
+            bg={inputBg}
             borderRadius="full"
             _focus={{
               borderColor: 'primary.500',
@@ -280,7 +290,7 @@ export function SearchPage() {
           </Button>
           
           <HStack spacing={2} wrap="wrap">
-            <Text fontSize="sm" color="gray.600">
+            <Text fontSize="sm" color={textColor}>
               {filteredEpisodes.length} de {episodes.length} episodis
             </Text>
             {(selectedTags.length > 0 || searchTerm) && (
@@ -293,7 +303,7 @@ export function SearchPage() {
         
         {/* Advanced Filters */}
         <Collapse in={isFiltersOpen}>
-          <Box bg="gray.50" p={6} borderRadius="xl" border="1px" borderColor="gray.200">
+          <Box bg={filtersBg} p={6} borderRadius="xl" border="1px" borderColor={filtersBorder}>
             <VStack spacing={6} align="stretch">
               {/* Sort Options */}
               <HStack spacing={4} wrap="wrap">
@@ -304,7 +314,7 @@ export function SearchPage() {
                       value={sortBy}
                       onChange={(e) => setSortBy(e.target.value as any)}
                       size="sm"
-                      bg="white"
+                      bg={inputBg}
                       maxW="150px"
                     >
                       <option value="date">Data</option>
@@ -315,7 +325,7 @@ export function SearchPage() {
                       value={sortOrder}
                       onChange={(e) => setSortOrder(e.target.value as any)}
                       size="sm"
-                      bg="white"
+                      bg={inputBg}
                       maxW="150px"
                     >
                       <option value="desc">Descendent</option>
@@ -338,7 +348,7 @@ export function SearchPage() {
                 
                 <Accordion allowMultiple defaultIndex={[0]}>
                   {tagGroups.map((group) => (
-                    <AccordionItem key={group.name} border="1px" borderColor="gray.200" borderRadius="md" mb={2}>
+                    <AccordionItem key={group.name} border="1px" borderColor={filtersBorder} borderRadius="md" mb={2}>
                       <AccordionButton _expanded={{ bg: `${group.color}.50` }}>
                         <Box flex="1" textAlign="left">
                           <Text fontWeight="medium" color={`${group.color}.600`}>
@@ -386,7 +396,7 @@ export function SearchPage() {
         
         {/* Selected Tags Summary */}
         {selectedTags.length > 0 && (
-          <Box bg="blue.50" p={4} borderRadius="lg" border="1px" borderColor="blue.200">
+          <Box bg={useColorModeValue('blue.50', 'blue.900')} p={4} borderRadius="lg" border="1px" borderColor={useColorModeValue('blue.200', 'blue.700')}>
             <Text fontSize="sm" fontWeight="medium" mb={2}>Filtres actius:</Text>
             <Wrap spacing={2}>
               {selectedTags.map(tag => (
@@ -412,11 +422,18 @@ export function SearchPage() {
         
         {/* Results */}
         {filteredEpisodes.length === 0 ? (
-          <Box textAlign="center" py={12}>
-            <Text fontSize="lg" color="gray.500" mb={2}>
+          <Box 
+            textAlign="center" 
+            py={12}
+            bg={noResultsBg}
+            borderRadius="xl"
+            border="1px"
+            borderColor={noResultsBorder}
+          >
+            <Text fontSize="lg" color={mutedTextColor} mb={2}>
               No s'han trobat episodis
             </Text>
-            <Text color="gray.400">
+            <Text color={mutedTextColor} opacity={0.8}>
               Prova a modificar els criteris de cerca
             </Text>
           </Box>

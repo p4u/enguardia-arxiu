@@ -89,11 +89,13 @@ export function HomePage() {
   const inputBorder = useColorModeValue('gray.200', 'gray.600')
   const textColor = useColorModeValue('gray.700', 'gray.200')
   const mutedTextColor = useColorModeValue('gray.600', 'gray.400')
-  const filtersBg = useColorModeValue('gray.50', 'gray.700')
+  const filtersBg = useColorModeValue('gray.50', 'gray.800')
   const filtersBorder = useColorModeValue('gray.200', 'gray.600')
   const selectedTagsBg = useColorModeValue('blue.50', 'blue.900')
   const selectedTagsBorder = useColorModeValue('blue.200', 'blue.700')
   const accordionBorder = useColorModeValue('gray.200', 'gray.600')
+  const noResultsBg = useColorModeValue('white', 'gray.800')
+  const noResultsBorder = useColorModeValue('gray.200', 'gray.600')
 
   // Debounce search query to avoid excessive filtering
   const debouncedSearchQuery = useDebounce(searchQuery, 300)
@@ -776,11 +778,18 @@ export function HomePage() {
       )}
 
       {filteredEpisodes.length === 0 && (
-        <Box textAlign="center" py={20}>
-          <Text fontSize="lg" color="gray.500" mb={2}>
+        <Box 
+          textAlign="center" 
+          py={20}
+          bg={noResultsBg}
+          borderRadius="xl"
+          border="1px"
+          borderColor={noResultsBorder}
+        >
+          <Text fontSize="lg" color={mutedTextColor} mb={2}>
             No s'han trobat episodis amb els criteris de cerca actuals.
           </Text>
-          <Text color="gray.400">
+          <Text color={mutedTextColor} opacity={0.8}>
             Prova a modificar els criteris de cerca o etiquetes.
           </Text>
         </Box>
