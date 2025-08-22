@@ -1,0 +1,165 @@
+# En Guàrdia Scraper - Git Ignore File
+
+# =============================================================================
+# AUDIO FILES - DO NOT COMMIT (Large files, use remote streaming instead)
+# =============================================================================
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.ogg
+*.flac
+
+# =============================================================================
+# BUILD ARTIFACTS - Generated files that should not be committed
+# =============================================================================
+
+# Webapp build artifacts
+webapp/dist/
+webapp/node_modules/
+webapp/public/data/
+webapp/public/images/
+
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+/bin/
+/pkg/
+
+# Generated data files (can be regenerated)
+data/
+test_webapp_data/
+
+# =============================================================================
+# DEVELOPMENT FILES
+# =============================================================================
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# =============================================================================
+# DEPENDENCIES
+# =============================================================================
+
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Go dependencies (go.sum should be committed, but vendor/ should not)
+vendor/
+
+# =============================================================================
+# ENVIRONMENT AND CONFIG FILES
+# =============================================================================
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Local configuration files
+config.local.json
+*.local.json
+
+# =============================================================================
+# TESTING AND COVERAGE
+# =============================================================================
+
+# Test coverage
+coverage/
+*.cover
+*.coverprofile
+.nyc_output/
+
+# Test artifacts
+test_images/
+*.test.json
+
+# =============================================================================
+# WHAT TO KEEP (Important files that SHOULD be committed)
+# =============================================================================
+
+# Keep episode JSON metadata (small files with episode info)
+!capitols/*.json
+
+# Keep episode images (for GitHub Pages local serving)
+!capitols/*.jpg
+!capitols/*.jpeg
+!capitols/*.png
+!capitols/*.webp
+!capitols/*.gif
+
+# Keep tags database (generated but important for deployment)
+!tags.json
+
+# Keep source code and configuration
+!*.go
+!*.ts
+!*.tsx
+!*.js
+!*.jsx
+!*.json
+!*.md
+!*.html
+!*.css
+!*.scss
+!Makefile
+!go.mod
+!go.sum
+
+# =============================================================================
+# PLATFORM SPECIFIC
+# =============================================================================
+
+# Windows
+*.exe
+*.msi
+*.msm
+*.msp
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+
+# =============================================================================
+# BACKUP FILES
+# =============================================================================
+*.bak
+*.backup
+*.old
+*.orig
+*.rej

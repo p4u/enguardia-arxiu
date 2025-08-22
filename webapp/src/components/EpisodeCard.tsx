@@ -1,0 +1,215 @@
+import {
+  Card,
+  CardBody,
+  Badge,
+  Button,
+  HStack,
+  VStack,
+  Heading,
+  Text,
+  Box,
+  Icon,
+  Image,
+  Tooltip,
+} from '@chakra-ui/react'
+import { FaPlay, FaCalendarAlt, FaClock, FaHeart, FaShare } from 'react-icons/fa'
+import { motion } from 'framer-motion'
+import { memo } from 'react'
+import type { Episode } from '@/types/episode'
+
+interface EpisodeCardProps {
+  episode: Episode
+  index: number
+  onPlay: (episode: Episode) => void
+  isCurrentlyPlaying: boolean
+  isLoading: boolean
+}
+
+export const EpisodeCard = memo(function EpisodeCard({
+  episode,
+  index,
+  onPlay,
+  isCurrentlyPlaying,
+  isLoading,
+}: EpisodeCardProps) {
+  return (
+    <motion.div
+      initial={{ opacity: 0, y: 20 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.3, delay: index * 0.05 }}
+      whileHover={{ y: -5 }}
+    >
+      <Card 
+        variant="outline" 
+        _hover={{ 
+          shadow: 'xl',
+          transform: 'translateY(-2px)',
+          borderColor: 'primary.200'
+        }}
+        transition="all 0.2s"
+        bg="white"
+        borderRadius="2xl"
+        overflow="hidden"
+      >
+        {/* Episode Image */}
+        {episode.image && (
+          <Box position="relative" overflow="hidden">
+            <Image
+              src={episode.image}
+              alt={episode.title}
+              w="full"
+              h="200px"
+              objectFit="cover"
+              fallback={
+                <Box
+                  w="full"
+                  h="200px"
+                  bg="gray.100"
+                  display="flex"
+                  alignItems="center"
+                  justifyContent="center"
+                >
+                  <Text color="gray.500" fontSize="sm">
+                    Imatge no disponible
+                  </Text>
+                </Box>
+              }
+            />
+            {/* Gradient overlay for better text readability */}
+            <Box
+              position="absolute"
+              bottom="0"
+              left="0"
+              right="0"
+              h="50%"
+              bgGradient="linear(to-t, blackAlpha.600, transparent)"
+            />
+          </Box>
+        )}
+
+        <CardBody p={6}>
+          <VStack align="stretch" spacing={4}>
+            <Box>
+              <Heading size="md" mb={2} noOfLines={2} color="gray.800">
+                {episode.title}
+              </Heading>
+              <Tooltip
+                label={episode.description}
+                placement="top"
+                hasArrow
+                bg="gray.700"
+                color="white"
+                fontSize="sm"
+                p={3}
+                borderRadius="md"
+                maxW="300px"
+                textAlign="left"
+              >
+                <Text 
+                  fontSize="sm" 
+                  color="gray.600" 
+                  noOfLines={3} 
+                  lineHeight="1.5"
+                  cursor="help"
+                  _hover={{ color: "gray.800" }}
+                  transition="color 0.2s"
+                >
+                  {episode.description}
+                </Text>
+              </Tooltip>
+            </Box>
+            
+
+            {/* Tags Section */}
+            {episode.tags && episode.tags.length > 0 && (
+              <Box>
+                <Text fontSize="xs" color="gray.500" mb={2} fontWeight="medium">
+                  Etiquetes:
+                </Text>
+                <HStack spacing={1} wrap="wrap">
+                  {episode.tags.slice(0, 6).map((tag, tagIndex) => (
+                    <Badge
+                      key={tagIndex}
+                      size="sm"
+                      colorScheme="blue"
+                      variant="outline"
+                      borderRadius="full"
+                      px={2}
+                      py={0.5}
+                      fontSize="xs"
+                      textTransform="none"
+                    >
+                      {tag}
+                    </Badge>
+                  ))}
+                  {episode.tags.length > 6 && (
+                    <Badge
+                      size="sm"
+                      colorScheme="gray"
+                      variant="subtle"
+                      borderRadius="full"
+                      px={2}
+                      py={0.5}
+                      fontSize="xs"
+                    >
+                      +{episode.tags.length - 6}
+                    </Badge>
+                  )}
+                </HStack>
+              </Box>
+            )}
+            
+            <HStack justify="space-between" fontSize="sm" color="gray.500">
+              <HStack spacing={1}>
+                <Icon as={FaCalendarAlt} />
+                <Text>{new Date(episode.parsedDate).toLocaleDateString('ca')}</Text>
+              </HStack>
+              <HStack spacing={1}>
+                <Icon as={FaClock} />
+                <Text>{episode.duration}</Text>
+              </HStack>
+            </HStack>
+            
+            <HStack spacing={2}>
+              <Button
+                leftIcon={<FaPlay />}
+                colorScheme="primary"
+                size="sm"
+                onClick={() => onPlay(episode)}
+                isDisabled={!episode.available}
+                isLoading={isLoading}
+                loadingText="Reproduint"
+                flex={1}
+                borderRadius="full"
+                _hover={{
+                  transform: 'scale(1.02)',
+                }}
+                transition="all 0.2s"
+              >
+                {isCurrentlyPlaying ? 'Reproduint' : 'Reproduir'}
+              </Button>
+              <Button
+                size="sm"
+                variant="ghost"
+                colorScheme="gray"
+                borderRadius="full"
+                _hover={{ bg: 'gray.100' }}
+              >
+                <Icon as={FaHeart} />
+              </Button>
+              <Button
+                size="sm"
+                variant="ghost"
+                colorScheme="gray"
+                borderRadius="full"
+                _hover={{ bg: 'gray.100' }}
+              >
+                <Icon as={FaShare} />
+              </Button>
+            </HStack>
+          </VStack>
+        </CardBody>
+      </Card>
+    </motion.div>
+  )
+})

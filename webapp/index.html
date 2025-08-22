@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ca">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="En Guàrdia - Programa d'història de Catalunya Ràdio amb tots els episodis disponibles" />
+    <meta name="keywords" content="En Guàrdia, Catalunya Ràdio, història, Catalunya, podcast, episodis" />
+    <meta name="author" content="En Guàrdia Scraper" />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="En Guàrdia - Història de Catalunya" />
+    <meta property="og:description" content="Programa d'història de Catalunya Ràdio amb tots els episodis disponibles" />
+    <meta property="og:locale" content="ca_ES" />
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:title" content="En Guàrdia - Història de Catalunya" />
+    <meta property="twitter:description" content="Programa d'història de Catalunya Ràdio amb tots els episodis disponibles" />
+    
+    <!-- Theme -->
+    <meta name="theme-color" content="#d32f2f" />
+    <meta name="color-scheme" content="light dark" />
+    
+    <title>En Guàrdia - Història de Catalunya</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    
+    <!-- GitHub Pages SPA redirect handling -->
+    <script>
+      // Handle redirects from 404.html for GitHub Pages SPA routing
+      (function() {
+        var redirect = sessionStorage.redirect;
+        delete sessionStorage.redirect;
+        if (redirect && redirect !== location.href) {
+          history.replaceState(null, null, redirect);
+        }
+      })();
+    </script>
+    
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
