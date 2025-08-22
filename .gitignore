@@ -16,6 +16,7 @@
 
 # Webapp build artifacts
 webapp/dist/
+webapp/dev-dist/
 webapp/node_modules/
 webapp/public/data/
 webapp/public/images/

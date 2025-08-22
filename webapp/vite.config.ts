@@ -4,49 +4,50 @@ import tsconfigPaths from 'vite-tsconfig-paths'
 import { VitePWA } from 'vite-plugin-pwa'
 
 // https://vitejs.dev/config/
-export default defineConfig(({ command }) => ({
-  plugins: [
-    react(), 
-    tsconfigPaths(),
-    VitePWA({
-      registerType: 'autoUpdate',
-      includeAssets: ['favicon.svg', 'apple-touch-icon.png', 'masked-icon.svg'],
-      manifest: {
-        name: 'En Guàrdia Arxiu - Història de Catalunya',
-        short_name: 'En Guàrdia Arxiu',
-        description: 'Programa d\'història de Catalunya Ràdio amb tots els episodis disponibles',
-        theme_color: '#d32f2f',
-        background_color: '#ffffff',
-        display: 'standalone',
-        orientation: 'portrait',
-        scope: '/',
-        start_url: '/',
-        lang: 'ca',
-        categories: ['education', 'news'],
-        icons: [
-          {
-            src: 'pwa-192x192.png',
-            sizes: '192x192',
-            type: 'image/png'
-          },
-          {
-            src: 'pwa-512x512.png',
-            sizes: '512x512',
-            type: 'image/png'
-          },
-          {
-            src: 'pwa-512x512.png',
-            sizes: '512x512',
-            type: 'image/png',
-            purpose: 'any maskable'
-          }
-        ]
-      },
-      workbox: {
-        globPatterns: ['**/*.{js,css,html,ico,png,svg,json,mp3}'],
-        navigateFallback: '/offline.html',
-        navigateFallbackDenylist: [/^\/_/, /\/[^/?]+\.[^/]+$/],
-        maximumFileSizeToCacheInBytes: 5 * 1024 * 1024, // 5MB
+export default defineConfig(({ command, mode }) => {
+  return {
+    plugins: [
+      react(), 
+      tsconfigPaths(),
+      VitePWA({
+        registerType: 'autoUpdate',
+        includeAssets: ['favicon.svg', 'apple-touch-icon.png', 'masked-icon.svg'],
+        manifest: {
+          name: 'En Guàrdia Arxiu - Història de Catalunya',
+          short_name: 'En Guàrdia Arxiu',
+          description: 'Programa d\'història de Catalunya Ràdio amb tots els episodis disponibles',
+          theme_color: '#d32f2f',
+          background_color: '#ffffff',
+          display: 'standalone',
+          orientation: 'portrait',
+          scope: './',
+          start_url: './',
+          lang: 'ca',
+          categories: ['education', 'news'],
+          icons: [
+            {
+              src: 'pwa-192x192.png',
+              sizes: '192x192',
+              type: 'image/png'
+            },
+            {
+              src: 'pwa-512x512.png',
+              sizes: '512x512',
+              type: 'image/png'
+            },
+            {
+              src: 'pwa-512x512.png',
+              sizes: '512x512',
+              type: 'image/png',
+              purpose: 'any maskable'
+            }
+          ]
+        },
+        workbox: {
+          globPatterns: ['**/*.{js,css,html,ico,png,svg,json,mp3}'],
+          navigateFallback: '/offline.html',
+          navigateFallbackDenylist: [/^\/_/, /\/[^/?]+\.[^/]+$/],
+          maximumFileSizeToCacheInBytes: 5 * 1024 * 1024, // 5MB
         runtimeCaching: [
           {
             urlPattern: /^https:\/\/www\.ccma\.cat\/.*\.mp3$/,
@@ -83,12 +84,11 @@ export default defineConfig(({ command }) => ({
           }
         ]
       },
-      devOptions: {
-        enabled: true
-      }
-    })
-  ],
-  base: '/',
+        devOptions: {
+          enabled: true
+        }
+      })
+    ],
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
@@ -108,8 +108,9 @@ export default defineConfig(({ command }) => ({
     port: 3000,
     open: true
   },
-  preview: {
-    port: 4173,
-    open: true
+    preview: {
+      port: 4173,
+      open: true
+    }
   }
-}))
+})
