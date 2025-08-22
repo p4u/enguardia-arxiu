@@ -74,6 +74,18 @@ const components = {
       },
     },
   },
+  Badge: {
+    variants: {
+      outline: (props: any) => ({
+        color: props.colorMode === 'dark' ? 'gray.200' : 'gray.600',
+        borderColor: props.colorMode === 'dark' ? 'gray.500' : 'gray.300',
+        _hover: {
+          color: props.colorMode === 'dark' ? 'gray.100' : 'gray.700',
+          borderColor: props.colorMode === 'dark' ? 'gray.400' : 'gray.400',
+        },
+      }),
+    },
+  },
   Card: {
     baseStyle: {
       container: {
@@ -96,17 +108,19 @@ const components = {
 }
 
 const styles = {
-  global: {
+  global: (props: any) => ({
     body: {
-      bg: 'linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%)',
-      color: 'gray.800',
+      bg: props.colorMode === 'dark' 
+        ? 'linear-gradient(135deg, #1a202c 0%, #2d3748 100%)'
+        : 'linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%)',
+      color: props.colorMode === 'dark' ? 'gray.100' : 'gray.800',
       minHeight: '100vh',
     },
     '*::placeholder': {
-      color: 'gray.400',
+      color: props.colorMode === 'dark' ? 'gray.500' : 'gray.400',
     },
     '*, *::before, &::after': {
-      borderColor: 'gray.200',
+      borderColor: props.colorMode === 'dark' ? 'gray.600' : 'gray.200',
     },
     // Add smooth scrolling
     html: {
@@ -117,16 +131,16 @@ const styles = {
       width: '8px',
     },
     '::-webkit-scrollbar-track': {
-      bg: 'gray.100',
+      bg: props.colorMode === 'dark' ? 'gray.700' : 'gray.100',
     },
     '::-webkit-scrollbar-thumb': {
-      bg: 'primary.300',
+      bg: props.colorMode === 'dark' ? 'primary.400' : 'primary.300',
       borderRadius: '4px',
     },
     '::-webkit-scrollbar-thumb:hover': {
-      bg: 'primary.400',
+      bg: props.colorMode === 'dark' ? 'primary.500' : 'primary.400',
     },
-  },
+  }),
 }
 
 export const theme = extendTheme({

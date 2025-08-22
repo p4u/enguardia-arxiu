@@ -73,6 +73,19 @@ export function HomePage() {
   // Responsive values
   const isMobile = useBreakpointValue({ base: true, md: false })
 
+  // Color mode values
+  const searchBoxBg = useColorModeValue('white', 'gray.800')
+  const searchBoxBorder = useColorModeValue('gray.100', 'gray.600')
+  const inputBg = useColorModeValue('gray.50', 'gray.700')
+  const inputBorder = useColorModeValue('gray.200', 'gray.600')
+  const textColor = useColorModeValue('gray.700', 'gray.200')
+  const mutedTextColor = useColorModeValue('gray.600', 'gray.400')
+  const filtersBg = useColorModeValue('gray.50', 'gray.700')
+  const filtersBorder = useColorModeValue('gray.200', 'gray.600')
+  const selectedTagsBg = useColorModeValue('blue.50', 'blue.900')
+  const selectedTagsBorder = useColorModeValue('blue.200', 'blue.700')
+  const accordionBorder = useColorModeValue('gray.200', 'gray.600')
+
   // Debounce search query to avoid excessive filtering
   const debouncedSearchQuery = useDebounce(searchQuery, 300)
 
@@ -300,12 +313,12 @@ export function HomePage() {
         transition={{ duration: 0.5, delay: 0.8 }}
       >
         <Box 
-          bg="white" 
+          bg={searchBoxBg} 
           p={8} 
           borderRadius="2xl" 
           shadow="xl"
           border="1px"
-          borderColor="gray.100"
+          borderColor={searchBoxBorder}
           _hover={{ shadow: '2xl' }}
           transition="all 0.3s"
         >
@@ -321,13 +334,13 @@ export function HomePage() {
                 onChange={(e) => setSearchQuery(e.target.value)}
                 borderRadius="full"
                 border="2px"
-                borderColor="gray.200"
+                borderColor={inputBorder}
                 _hover={{ borderColor: 'primary.300' }}
                 _focus={{ 
                   borderColor: 'primary.500',
                   boxShadow: '0 0 0 1px var(--chakra-colors-primary-500)'
                 }}
-                bg="gray.50"
+                bg={inputBg}
                 fontSize="md"
                 h="14"
               />
@@ -354,13 +367,13 @@ export function HomePage() {
                   onChange={(e) => setSortOrder(e.target.value as 'asc' | 'desc')}
                   borderRadius="full"
                   border="2px"
-                  borderColor="gray.200"
+                  borderColor={inputBorder}
                   _hover={{ borderColor: 'accent.300' }}
                   _focus={{ 
                     borderColor: 'accent.500',
                     boxShadow: '0 0 0 1px var(--chakra-colors-accent-500)'
                   }}
-                  bg="gray.50"
+                  bg={inputBg}
                   h="12"
                   minW="200px"
                 >
@@ -374,7 +387,7 @@ export function HomePage() {
             <VStack spacing={4} w="full">
               <HStack spacing={2} wrap="wrap" justify="center">
                 <Icon as={FaTags} color="blue.500" />
-                <Text fontSize="md" color="gray.700" fontWeight="medium">
+                <Text fontSize="md" color={textColor} fontWeight="medium">
                   Etiquetes populars:
                 </Text>
               </HStack>
@@ -421,7 +434,7 @@ export function HomePage() {
 
       {/* Advanced Filters */}
       <Collapse in={isFiltersOpen}>
-        <Box bg="gray.50" p={6} borderRadius="xl" border="1px" borderColor="gray.200">
+        <Box bg={filtersBg} p={6} borderRadius="xl" border="1px" borderColor={filtersBorder}>
           <VStack spacing={6} align="stretch">
             {/* Tag Groups */}
             <Box>
@@ -434,7 +447,7 @@ export function HomePage() {
               
               <Accordion allowMultiple defaultIndex={[0, 1]}>
                 {tagGroups.map((group, index) => (
-                  <AccordionItem key={group.name} border="1px" borderColor="gray.200" borderRadius="md" mb={2}>
+                  <AccordionItem key={group.name} border="1px" borderColor={accordionBorder} borderRadius="md" mb={2}>
                     <AccordionButton _expanded={{ bg: `${group.color}.50` }}>
                       <Box flex="1" textAlign="left">
                         <Text fontWeight="medium" color={`${group.color}.600`}>
@@ -481,7 +494,7 @@ export function HomePage() {
 
       {/* Selected Tags Summary */}
       {selectedTags.length > 0 && (
-        <Box bg="blue.50" p={4} borderRadius="lg" border="1px" borderColor="blue.200">
+        <Box bg={selectedTagsBg} p={4} borderRadius="lg" border="1px" borderColor={selectedTagsBorder}>
           <Text fontSize="sm" fontWeight="medium" mb={2}>Filtres actius:</Text>
           <Wrap spacing={2}>
             {selectedTags.map(tag => (
@@ -513,10 +526,10 @@ export function HomePage() {
       {/* Results Info */}
       {filteredEpisodes.length > 0 && (
         <Flex justify="space-between" align="center" wrap="wrap" gap={4}>
-          <Text fontSize="sm" color="gray.600">
+          <Text fontSize="sm" color={mutedTextColor}>
             Mostrant {startIndex}-{endIndex} de {filteredEpisodes.length} episodis
           </Text>
-          <Text fontSize="sm" color="gray.600">
+          <Text fontSize="sm" color={mutedTextColor}>
             Pàgina {currentPage} de {totalPages}
           </Text>
         </Flex>

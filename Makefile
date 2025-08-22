@@ -95,7 +95,7 @@ clean:
 
 clean-all: clean
 	@echo "Deep cleaning all generated files..."
-	rm -rf $(DATA_DIR)/*.json
+	rm -rf $(DATA_DIR)/*
 	go clean -cache
 	@echo "Cleanup complete!"
 
