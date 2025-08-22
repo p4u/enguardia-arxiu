@@ -54,9 +54,9 @@
       "title": "569 - Alan Turing i la criptografia",
       "tags": {
         "topics": [
+          "ciencia",
           "guerra",
-          "biografia",
-          "ciencia"
+          "biografia"
         ]
       },
       "confidence": 0.8,
@@ -72,8 +72,8 @@
       "tags": {
         "topics": [
           "biografia",
-          "ciencia",
-          "cultura"
+          "cultura",
+          "ciencia"
         ]
       },
       "confidence": 0.8,
@@ -111,8 +111,8 @@
           "america"
         ],
         "topics": [
-          "biografia",
           "ciencia",
+          "biografia",
           "politica"
         ]
       },
@@ -135,9 +135,9 @@
           "catalunya"
         ],
         "topics": [
+          "economia",
           "religió",
-          "cultura",
-          "economia"
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -155,15 +155,15 @@
           "catalans"
         ],
         "locations": [
-          "mediterrani",
           "catalunya",
-          "europa"
+          "europa",
+          "mediterrani"
         ],
         "topics": [
-          "cultura",
           "guerra",
           "biografia",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -186,10 +186,10 @@
         ],
         "topics": [
           "societat",
-          "ciencia",
           "politica",
+          "religió",
           "cultura",
-          "religió"
+          "ciencia"
         ]
       },
       "confidence": 0.9,
@@ -224,8 +224,8 @@
       "title": "316 - Andreu Nin i el POUM",
       "tags": {
         "topics": [
-          "cultura",
-          "biografia"
+          "biografia",
+          "cultura"
         ]
       },
       "confidence": 0.6,
@@ -271,8 +271,8 @@
           "catalans"
         ],
         "locations": [
-          "europa",
-          "catalunya"
+          "catalunya",
+          "europa"
         ],
         "topics": [
           "biografia",
@@ -325,8 +325,8 @@
           "africa"
         ],
         "topics": [
-          "cultura",
           "guerra",
+          "cultura",
           "biografia",
           "politica"
         ]
@@ -397,8 +397,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "ciencia"
+          "ciencia",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -456,8 +456,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
           "politica",
+          "guerra",
           "cultura"
         ]
       },
@@ -483,8 +483,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "cultura",
           "politica",
+          "cultura",
           "arquitectura"
         ]
       },
@@ -495,8 +495,8 @@
       "title": "Balchowsky, el pianista brigadista",
       "tags": {
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.6,
@@ -517,15 +517,15 @@
           "guerra-civil"
         ],
         "locations": [
-          "europa",
-          "catalunya"
+          "catalunya",
+          "europa"
         ],
         "periods": [
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -547,8 +547,8 @@
           "reconquesta"
         ],
         "locations": [
-          "catalunya",
-          "mediterrani"
+          "mediterrani",
+          "catalunya"
         ],
         "periods": [
           "segle-xx"
@@ -570,8 +570,8 @@
       "title": "Barcelona governada per Napoleó",
       "tags": {
         "civilizations": [
-          "francs",
-          "cristians"
+          "cristians",
+          "francs"
         ],
         "events": [
           "guerra-frances"
@@ -583,11 +583,11 @@
           "segle-xix"
         ],
         "topics": [
-          "religió",
           "guerra",
-          "politica",
           "cultura",
-          "societat"
+          "societat",
+          "politica",
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -622,8 +622,8 @@
           "antiguitat"
         ],
         "topics": [
-          "cultura",
-          "biografia"
+          "biografia",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -645,9 +645,9 @@
           "segle-xx"
         ],
         "topics": [
-          "societat",
           "guerra",
-          "cultura"
+          "cultura",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -675,15 +675,15 @@
       "title": "519 - Cabrinetty a Puigcerdà (violència 5)",
       "tags": {
         "civilizations": [
-          "francs",
-          "ibers"
+          "ibers",
+          "francs"
         ],
         "periods": [
           "segle-xix"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -697,17 +697,17 @@
           "catalans"
         ],
         "locations": [
-          "catalunya",
-          "europa"
+          "europa",
+          "catalunya"
         ],
         "periods": [
           "segle-xix",
           "contemporani"
         ],
         "topics": [
-          "politica",
           "cultura",
-          "economia"
+          "economia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -724,8 +724,8 @@
           "antiguitat"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -738,8 +738,8 @@
           "asia"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -756,9 +756,9 @@
         ],
         "topics": [
           "guerra",
+          "societat",
           "politica",
-          "cultura",
-          "societat"
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -836,8 +836,8 @@
           "alta-edat-mitjana"
         ],
         "topics": [
-          "cultura",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -850,8 +850,8 @@
           "catalans"
         ],
         "locations": [
-          "catalunya",
-          "espanya"
+          "espanya",
+          "catalunya"
         ],
         "periods": [
           "prehistoria",
@@ -884,8 +884,8 @@
           "cristians"
         ],
         "locations": [
-          "espanya",
-          "catalunya"
+          "catalunya",
+          "espanya"
         ],
         "periods": [
           "edat-moderna",
@@ -917,8 +917,8 @@
           "contemporani"
         ],
         "topics": [
-          "biografia",
           "societat",
+          "biografia",
           "politica"
         ]
       },
@@ -943,8 +943,8 @@
       "title": "Catòlics i laïcitat a la Catalunya del segle XX",
       "tags": {
         "civilizations": [
-          "cristians",
-          "catalans"
+          "catalans",
+          "cristians"
         ],
         "locations": [
           "catalunya"
@@ -957,16 +957,16 @@
       "title": "Catalans a Cuba",
       "tags": {
         "locations": [
-          "america",
           "catalunya",
-          "espanya"
+          "espanya",
+          "america"
         ],
         "periods": [
           "segle-xix"
         ],
         "topics": [
-          "economia",
-          "politica"
+          "politica",
+          "economia"
         ]
       },
       "confidence": 0.9,
@@ -1130,12 +1130,12 @@
           "catalunya"
         ],
         "periods": [
-          "segle-xx",
-          "baixa-edat-mitjana"
+          "baixa-edat-mitjana",
+          "segle-xx"
         ],
         "topics": [
-          "politica",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -1159,8 +1159,8 @@
           "antiguitat"
         ],
         "topics": [
-          "politica",
-          "biografia"
+          "biografia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -1201,8 +1201,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -1225,9 +1225,9 @@
           "segle-xviii"
         ],
         "topics": [
-          "guerra",
+          "politica",
           "economia",
-          "politica"
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -1263,8 +1263,8 @@
           "segle-xx"
         ],
         "topics": [
-          "biografia",
           "politica",
+          "biografia",
           "cultura"
         ]
       },
@@ -1392,8 +1392,8 @@
           "segle-xix"
         ],
         "topics": [
-          "societat",
-          "economia"
+          "economia",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -1420,8 +1420,8 @@
       "title": "392 - De Lleida al \"Plan Badajoz\"",
       "tags": {
         "civilizations": [
-          "catalans",
-          "francs"
+          "francs",
+          "catalans"
         ],
         "locations": [
           "catalunya",
@@ -1436,16 +1436,16 @@
       "tags": {
         "civilizations": [
           "romans",
-          "cristians",
           "catalans",
-          "visigots"
+          "visigots",
+          "cristians"
         ],
         "locations": [
           "catalunya"
         ],
         "periods": [
-          "antiguitat",
-          "alta-edat-mitjana"
+          "alta-edat-mitjana",
+          "antiguitat"
         ],
         "topics": [
           "politica"
@@ -1466,8 +1466,8 @@
           "catalans"
         ],
         "events": [
-          "reconquesta",
-          "guerra-successio"
+          "guerra-successio",
+          "reconquesta"
         ],
         "locations": [
           "catalunya"
@@ -1476,9 +1476,9 @@
           "segle-xviii"
         ],
         "topics": [
+          "politica",
           "guerra",
-          "cultura",
-          "politica"
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -1573,9 +1573,9 @@
           "guerra-civil"
         ],
         "locations": [
-          "europa",
           "catalunya",
-          "espanya"
+          "espanya",
+          "europa"
         ],
         "periods": [
           "segle-xx"
@@ -1597,8 +1597,8 @@
           "catalunya"
         ],
         "topics": [
-          "cultura",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -1619,10 +1619,10 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
           "cultura",
-          "societat",
-          "politica"
+          "guerra",
+          "politica",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -1649,13 +1649,13 @@
           "catalunya"
         ],
         "periods": [
-          "prehistoria",
           "antiguitat",
+          "prehistoria",
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "arquitectura",
-          "cultura"
+          "cultura",
+          "arquitectura"
         ]
       },
       "confidence": 0.9,
@@ -1692,9 +1692,9 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
+          "politica",
           "cultura",
-          "politica"
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -1756,9 +1756,9 @@
       "title": "673 - El baró de Koënig",
       "tags": {
         "locations": [
-          "europa",
           "catalunya",
-          "espanya"
+          "espanya",
+          "europa"
         ],
         "topics": [
           "biografia"
@@ -1798,9 +1798,9 @@
           "segle-xx"
         ],
         "topics": [
-          "arquitectura",
           "guerra",
-          "cultura"
+          "cultura",
+          "arquitectura"
         ]
       },
       "confidence": 0.9,
@@ -1818,8 +1818,8 @@
         "topics": [
           "religió",
           "cultura",
-          "arquitectura",
-          "economia"
+          "economia",
+          "arquitectura"
         ]
       },
       "confidence": 0.9,
@@ -1829,8 +1829,8 @@
       "title": "420 - El blaverisme",
       "tags": {
         "civilizations": [
-          "catalans",
-          "francs"
+          "francs",
+          "catalans"
         ],
         "locations": [
           "catalunya"
@@ -1898,17 +1898,17 @@
       "title": "666 - El còlera a Catalunya",
       "tags": {
         "civilizations": [
-          "ibers",
-          "catalans"
+          "catalans",
+          "ibers"
         ],
         "locations": [
-          "europa",
           "asia",
-          "catalunya"
+          "catalunya",
+          "europa"
         ],
         "periods": [
-          "prehistoria",
-          "segle-xix"
+          "segle-xix",
+          "prehistoria"
         ],
         "topics": [
           "economia"
@@ -1931,10 +1931,10 @@
           "segle-xx"
         ],
         "topics": [
-          "economia",
+          "cultura",
           "ciencia",
           "guerra",
-          "cultura"
+          "economia"
         ]
       },
       "confidence": 0.9,
@@ -1968,13 +1968,13 @@
           "francs"
         ],
         "events": [
-          "guerra-frances",
-          "guerra-civil"
+          "guerra-civil",
+          "guerra-frances"
         ],
         "locations": [
-          "espanya",
           "europa",
-          "catalunya"
+          "catalunya",
+          "espanya"
         ],
         "periods": [
           "segle-xx",
@@ -1991,8 +1991,8 @@
       "title": "El Canal d'Urgell",
       "tags": {
         "civilizations": [
-          "francs",
-          "catalans"
+          "catalans",
+          "francs"
         ],
         "locations": [
           "catalunya",
@@ -2006,8 +2006,8 @@
       "title": "El canibalisme a la Prehistòria",
       "tags": {
         "civilizations": [
-          "romans",
-          "catalans"
+          "catalans",
+          "romans"
         ],
         "locations": [
           "catalunya"
@@ -2038,9 +2038,9 @@
           "segle-xix"
         ],
         "topics": [
+          "guerra",
           "politica",
-          "cultura",
-          "guerra"
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -2054,21 +2054,21 @@
           "francs"
         ],
         "events": [
-          "guerra-civil",
-          "guerra-frances"
+          "guerra-frances",
+          "guerra-civil"
         ],
         "locations": [
-          "europa",
-          "catalunya"
+          "catalunya",
+          "europa"
         ],
         "periods": [
-          "segle-xx",
-          "segle-xix"
+          "segle-xix",
+          "segle-xx"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -2125,8 +2125,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "societat",
           "arquitectura",
+          "societat",
           "politica"
         ]
       },
@@ -2172,8 +2172,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "biografia",
-          "societat"
+          "societat",
+          "biografia"
         ]
       },
       "confidence": 0.9,
@@ -2215,13 +2215,13 @@
           "asia"
         ],
         "periods": [
-          "antiguitat",
-          "baixa-edat-mitjana"
+          "baixa-edat-mitjana",
+          "antiguitat"
         ],
         "topics": [
-          "guerra",
           "religió",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -2351,9 +2351,9 @@
           "segle-xvii"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -2379,8 +2379,8 @@
       "title": "El comte Sunyer",
       "tags": {
         "civilizations": [
-          "cristians",
-          "catalans"
+          "catalans",
+          "cristians"
         ],
         "locations": [
           "catalunya"
@@ -2389,11 +2389,11 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
           "religió",
-          "societat",
           "arquitectura",
-          "biografia"
+          "biografia",
+          "politica",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -2413,8 +2413,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "cultura",
-          "arquitectura"
+          "arquitectura",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -2459,8 +2459,8 @@
           "contemporani"
         ],
         "topics": [
-          "ciencia",
-          "cultura"
+          "cultura",
+          "ciencia"
         ]
       },
       "confidence": 0.9,
@@ -2496,8 +2496,8 @@
         ],
         "topics": [
           "biografia",
-          "cultura",
-          "societat"
+          "societat",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -2518,9 +2518,9 @@
           "edat-moderna"
         ],
         "topics": [
-          "arquitectura",
           "politica",
-          "cultura"
+          "cultura",
+          "arquitectura"
         ]
       },
       "confidence": 0.9,
@@ -2536,8 +2536,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "religió",
-          "politica"
+          "politica",
+          "religió"
         ]
       },
       "confidence": 0.8,
@@ -2606,9 +2606,9 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
+          "religió",
           "cultura",
-          "religió"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -2624,8 +2624,8 @@
           "descobriments"
         ],
         "topics": [
-          "cultura",
-          "ciencia"
+          "ciencia",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -2661,13 +2661,13 @@
           "reconquesta"
         ],
         "locations": [
-          "mediterrani",
-          "espanya"
+          "espanya",
+          "mediterrani"
         ],
         "topics": [
-          "religió",
+          "politica",
           "guerra",
-          "politica"
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -2684,8 +2684,8 @@
           "europa"
         ],
         "topics": [
-          "guerra",
-          "politica"
+          "politica",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -2705,9 +2705,9 @@
           "antiguitat"
         ],
         "topics": [
+          "politica",
           "cultura",
-          "guerra",
-          "politica"
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -2717,8 +2717,8 @@
       "title": "500 - El Diari de Barcelona (lletres 2)",
       "tags": {
         "civilizations": [
-          "catalans",
-          "francs"
+          "francs",
+          "catalans"
         ],
         "events": [
           "guerra-frances"
@@ -2798,9 +2798,9 @@
           "segle-xix"
         ],
         "topics": [
+          "ciencia",
           "biografia",
           "cultura",
-          "ciencia",
           "politica"
         ]
       },
@@ -2839,8 +2839,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -2850,8 +2850,8 @@
       "title": "69 - El ferrocarril",
       "tags": {
         "periods": [
-          "prehistoria",
-          "segle-xix"
+          "segle-xix",
+          "prehistoria"
         ]
       },
       "confidence": 0.6,
@@ -2864,8 +2864,8 @@
           "ibers"
         ],
         "locations": [
-          "catalunya",
-          "america"
+          "america",
+          "catalunya"
         ],
         "periods": [
           "segle-xix",
@@ -2898,14 +2898,14 @@
       "title": "El futbol al Berlín dividit",
       "tags": {
         "locations": [
-          "catalunya",
-          "europa"
+          "europa",
+          "catalunya"
         ],
         "topics": [
           "guerra",
-          "politica",
           "cultura",
-          "esport"
+          "esport",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -2942,16 +2942,16 @@
           "guerra-civil"
         ],
         "locations": [
-          "catalunya",
           "espanya",
-          "europa"
+          "europa",
+          "catalunya"
         ],
         "periods": [
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "esport"
+          "esport",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -2978,8 +2978,8 @@
       "title": "El gabinet de curiositats de la família Salvador",
       "tags": {
         "civilizations": [
-          "ibers",
-          "catalans"
+          "catalans",
+          "ibers"
         ],
         "locations": [
           "catalunya"
@@ -3003,8 +3003,8 @@
           "catalunya"
         ],
         "topics": [
-          "cultura",
-          "arquitectura"
+          "arquitectura",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -3040,8 +3040,8 @@
           "catalunya"
         ],
         "topics": [
-          "economia",
-          "politica"
+          "politica",
+          "economia"
         ]
       },
       "confidence": 0.8,
@@ -3160,8 +3160,8 @@
           "cristians"
         ],
         "topics": [
-          "religió",
-          "ciencia"
+          "ciencia",
+          "religió"
         ]
       },
       "confidence": 0.8,
@@ -3224,8 +3224,8 @@
           "contemporani"
         ],
         "topics": [
-          "guerra",
           "biografia",
+          "guerra",
           "religió"
         ]
       },
@@ -3265,8 +3265,8 @@
           "catalunya"
         ],
         "topics": [
-          "cultura",
-          "biografia"
+          "biografia",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -3358,10 +3358,10 @@
           "segle-xix"
         ],
         "topics": [
-          "economia",
-          "politica",
           "cultura",
-          "arquitectura"
+          "arquitectura",
+          "politica",
+          "economia"
         ]
       },
       "confidence": 0.9,
@@ -3412,8 +3412,8 @@
           "catalunya"
         ],
         "topics": [
-          "cultura",
-          "religió"
+          "religió",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -3475,8 +3475,8 @@
           "segle-xix"
         ],
         "topics": [
-          "economia",
           "cultura",
+          "economia",
           "ciencia"
         ]
       },
@@ -3539,8 +3539,8 @@
           "antiguitat"
         ],
         "topics": [
-          "cultura",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -3675,13 +3675,13 @@
           "mediterrani"
         ],
         "periods": [
-          "segle-xix",
-          "segle-xx"
+          "segle-xx",
+          "segle-xix"
         ],
         "topics": [
           "guerra",
-          "religió",
-          "economia"
+          "economia",
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -3691,22 +3691,22 @@
       "title": "El papat de Roma durant les reformes religioses",
       "tags": {
         "civilizations": [
-          "romans",
-          "cristians"
+          "cristians",
+          "romans"
         ],
         "locations": [
-          "mediterrani",
-          "catalunya"
+          "catalunya",
+          "mediterrani"
         ],
         "periods": [
-          "antiguitat",
-          "edat-moderna"
+          "edat-moderna",
+          "antiguitat"
         ],
         "topics": [
-          "guerra",
-          "biografia",
           "cultura",
-          "politica"
+          "guerra",
+          "politica",
+          "biografia"
         ]
       },
       "confidence": 0.9,
@@ -3776,8 +3776,8 @@
           "segle-xx"
         ],
         "topics": [
-          "politica",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -3800,9 +3800,9 @@
       "title": "El pelegrinatge a Sant Pere de Rodes",
       "tags": {
         "civilizations": [
-          "ibers",
           "romans",
-          "catalans"
+          "catalans",
+          "ibers"
         ],
         "locations": [
           "asia",
@@ -3851,11 +3851,11 @@
           "segle-xix"
         ],
         "topics": [
-          "economia",
-          "arquitectura",
-          "politica",
           "cultura",
-          "guerra"
+          "arquitectura",
+          "guerra",
+          "economia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -3945,9 +3945,9 @@
       "title": "663 - El protestantisme als Països Catalans",
       "tags": {
         "civilizations": [
+          "cristians",
           "romans",
-          "catalans",
-          "cristians"
+          "catalans"
         ],
         "locations": [
           "catalunya"
@@ -3990,10 +3990,10 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
-          "biografia",
+          "arquitectura",
           "cultura",
-          "arquitectura"
+          "biografia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -4019,15 +4019,15 @@
           "catalans"
         ],
         "locations": [
-          "catalunya",
-          "espanya"
+          "espanya",
+          "catalunya"
         ],
         "periods": [
           "contemporani"
         ],
         "topics": [
-          "cultura",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -4037,8 +4037,8 @@
       "title": "524 - El Risorgimento i Catalunya (influència internacional 4)",
       "tags": {
         "civilizations": [
-          "ibers",
           "catalans",
+          "ibers",
           "romans"
         ],
         "locations": [
@@ -4051,8 +4051,8 @@
           "segle-xix"
         ],
         "topics": [
-          "cultura",
           "guerra",
+          "cultura",
           "arquitectura"
         ]
       },
@@ -4096,17 +4096,17 @@
       "title": "El \"sacco\" de Roma",
       "tags": {
         "civilizations": [
-          "cristians",
-          "romans"
+          "romans",
+          "cristians"
         ],
         "locations": [
-          "catalunya",
           "espanya",
-          "europa"
+          "europa",
+          "catalunya"
         ],
         "periods": [
-          "antiguitat",
-          "edat-moderna"
+          "edat-moderna",
+          "antiguitat"
         ],
         "topics": [
           "religió",
@@ -4150,8 +4150,8 @@
           "guerra-frances"
         ],
         "locations": [
-          "europa",
-          "catalunya"
+          "catalunya",
+          "europa"
         ],
         "periods": [
           "segle-xix"
@@ -4184,8 +4184,8 @@
       "title": "El setge d'Atenes",
       "tags": {
         "civilizations": [
-          "romans",
-          "grecs"
+          "grecs",
+          "romans"
         ],
         "periods": [
           "antiguitat"
@@ -4228,8 +4228,8 @@
       "title": "El setge de Cardona",
       "tags": {
         "civilizations": [
-          "catalans",
-          "francs"
+          "francs",
+          "catalans"
         ],
         "events": [
           "guerra-successio"
@@ -4242,9 +4242,9 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "guerra",
           "politica",
-          "arquitectura"
+          "arquitectura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -4290,9 +4290,9 @@
       "title": "El setge de Malta",
       "tags": {
         "locations": [
-          "asia",
           "catalunya",
-          "mediterrani"
+          "mediterrani",
+          "asia"
         ],
         "periods": [
           "baixa-edat-mitjana"
@@ -4324,8 +4324,8 @@
       "tags": {
         "civilizations": [
           "musulmans",
-          "catalans",
-          "francs"
+          "francs",
+          "catalans"
         ],
         "events": [
           "guerra-civil"
@@ -4356,9 +4356,9 @@
           "segle-xx"
         ],
         "topics": [
-          "cultura",
           "politica",
           "religió",
+          "cultura",
           "societat"
         ]
       },
@@ -4385,9 +4385,9 @@
           "espanya"
         ],
         "topics": [
-          "politica",
           "cultura",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -4412,8 +4412,8 @@
           "europa"
         ],
         "topics": [
-          "cultura",
-          "ciencia"
+          "ciencia",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -4434,10 +4434,10 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
           "politica",
-          "cultura",
-          "arquitectura"
+          "arquitectura",
+          "guerra",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -4450,8 +4450,8 @@
           "europa"
         ],
         "topics": [
-          "cultura",
-          "guerra"
+          "guerra",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -4474,14 +4474,14 @@
           "europa"
         ],
         "periods": [
-          "edat-moderna",
           "segle-xvii",
-          "contemporani"
+          "contemporani",
+          "edat-moderna"
         ],
         "topics": [
-          "politica",
           "cultura",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -4496,18 +4496,18 @@
           "catalans"
         ],
         "locations": [
-          "espanya",
-          "catalunya"
+          "catalunya",
+          "espanya"
         ],
         "periods": [
           "contemporani",
           "prehistoria"
         ],
         "topics": [
-          "arquitectura",
-          "guerra",
           "politica",
-          "cultura"
+          "guerra",
+          "cultura",
+          "arquitectura"
         ]
       },
       "confidence": 0.9,
@@ -4608,8 +4608,8 @@
           "segle-xviii"
         ],
         "topics": [
-          "politica",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -4628,9 +4628,9 @@
           "segle-xix"
         ],
         "topics": [
+          "guerra",
           "politica",
-          "cultura",
-          "guerra"
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -4646,9 +4646,9 @@
           "catalunya"
         ],
         "topics": [
-          "ciencia",
+          "cultura",
           "politica",
-          "cultura"
+          "ciencia"
         ]
       },
       "confidence": 0.9,
@@ -4668,8 +4668,8 @@
           "segle-xix"
         ],
         "topics": [
-          "cultura",
-          "guerra"
+          "guerra",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -4706,17 +4706,17 @@
       "title": "702 - Els anglesos a la guerra del Francès",
       "tags": {
         "civilizations": [
-          "ibers",
-          "francs"
+          "francs",
+          "ibers"
         ],
         "events": [
           "guerra-frances",
           "reconquesta"
         ],
         "locations": [
-          "mediterrani",
           "asia",
-          "espanya"
+          "espanya",
+          "mediterrani"
         ],
         "periods": [
           "segle-xix"
@@ -4749,9 +4749,9 @@
           "catalunya"
         ],
         "topics": [
-          "cultura",
           "politica",
           "religió",
+          "cultura",
           "arquitectura"
         ]
       },
@@ -4762,19 +4762,19 @@
       "title": "587 - Els artistes del romànic",
       "tags": {
         "civilizations": [
-          "romans",
-          "cristians"
+          "cristians",
+          "romans"
         ],
         "periods": [
-          "baixa-edat-mitjana",
-          "antiguitat"
+          "antiguitat",
+          "baixa-edat-mitjana"
         ],
         "topics": [
           "politica",
           "religió",
           "cultura",
-          "ciencia",
-          "arquitectura"
+          "arquitectura",
+          "ciencia"
         ]
       },
       "confidence": 0.9,
@@ -4798,8 +4798,8 @@
       "title": "Els assassinats dels germans Kennedy",
       "tags": {
         "topics": [
-          "cultura",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.6,
@@ -4892,19 +4892,19 @@
           "catalans"
         ],
         "events": [
-          "guerra-civil",
-          "reconquesta"
+          "reconquesta",
+          "guerra-civil"
         ],
         "locations": [
-          "catalunya",
-          "mediterrani"
+          "mediterrani",
+          "catalunya"
         ],
         "periods": [
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -4943,8 +4943,8 @@
       "title": "Els camps de concentració del sud de França",
       "tags": {
         "civilizations": [
-          "catalans",
-          "francs"
+          "francs",
+          "catalans"
         ],
         "events": [
           "guerra-frances",
@@ -4958,8 +4958,8 @@
           "segle-xix"
         ],
         "topics": [
-          "societat",
-          "guerra"
+          "guerra",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -4989,14 +4989,14 @@
           "espanya"
         ],
         "periods": [
+          "prehistoria",
           "baixa-edat-mitjana",
-          "segle-xix",
-          "prehistoria"
+          "segle-xix"
         ],
         "topics": [
-          "economia",
+          "guerra",
           "arquitectura",
-          "guerra"
+          "economia"
         ]
       },
       "confidence": 0.9,
@@ -5084,13 +5084,13 @@
           "europa"
         ],
         "periods": [
-          "contemporani",
           "antiguitat",
+          "contemporani",
           "segle-xix"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -5100,9 +5100,9 @@
       "title": "Els claustres prefabricats",
       "tags": {
         "civilizations": [
-          "visigots",
           "catalans",
-          "francs"
+          "francs",
+          "visigots"
         ],
         "events": [
           "reconquesta"
@@ -5112,8 +5112,8 @@
           "mediterrani"
         ],
         "topics": [
-          "cultura",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -5136,8 +5136,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
-          "arquitectura"
+          "arquitectura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -5150,9 +5150,9 @@
           "cristians"
         ],
         "topics": [
-          "politica",
           "religió",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -5276,8 +5276,8 @@
       "title": "599 - Els ducats d'Atenes i Neopàtria",
       "tags": {
         "civilizations": [
-          "catalans",
           "grecs",
+          "catalans",
           "francs"
         ],
         "events": [
@@ -5290,8 +5290,8 @@
           "segle-xix"
         ],
         "topics": [
-          "politica",
           "guerra",
+          "politica",
           "cultura"
         ]
       },
@@ -5358,8 +5358,8 @@
       "title": "250 - Els fenicis a Catalunya",
       "tags": {
         "civilizations": [
-          "catalans",
-          "fenicis"
+          "fenicis",
+          "catalans"
         ],
         "locations": [
           "catalunya"
@@ -5383,8 +5383,8 @@
           "catalunya"
         ],
         "periods": [
-          "prehistoria",
-          "antiguitat"
+          "antiguitat",
+          "prehistoria"
         ],
         "topics": [
           "cultura"
@@ -5432,8 +5432,8 @@
           "espanya"
         ],
         "periods": [
-          "segle-xx",
-          "contemporani"
+          "contemporani",
+          "segle-xx"
         ],
         "topics": [
           "politica",
@@ -5490,9 +5490,9 @@
           "segle-xix"
         ],
         "topics": [
-          "cultura",
           "economia",
-          "societat"
+          "societat",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -5550,8 +5550,8 @@
         ],
         "topics": [
           "cultura",
-          "societat",
-          "religió"
+          "religió",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -5571,11 +5571,11 @@
           "contemporani"
         ],
         "topics": [
-          "esport",
-          "guerra",
           "politica",
           "cultura",
-          "arquitectura"
+          "arquitectura",
+          "esport",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -5604,8 +5604,8 @@
           "grecs"
         ],
         "periods": [
-          "antiguitat",
-          "prehistoria"
+          "prehistoria",
+          "antiguitat"
         ],
         "topics": [
           "guerra",
@@ -5633,8 +5633,8 @@
       "tags": {
         "civilizations": [
           "romans",
-          "grecs",
-          "catalans"
+          "catalans",
+          "grecs"
         ],
         "events": [
           "guerra-civil"
@@ -5711,8 +5711,8 @@
           "europa"
         ],
         "topics": [
-          "cultura",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -5722,12 +5722,12 @@
       "title": "Els intel·lectuals catalans i la Guerra Freda",
       "tags": {
         "civilizations": [
-          "catalans",
-          "cristians"
+          "cristians",
+          "catalans"
         ],
         "locations": [
-          "catalunya",
-          "espanya"
+          "espanya",
+          "catalunya"
         ],
         "periods": [
           "segle-xx"
@@ -5748,8 +5748,8 @@
         ],
         "topics": [
           "politica",
-          "societat",
-          "ciencia"
+          "ciencia",
+          "societat"
         ]
       },
       "confidence": 0.8,
@@ -5764,8 +5764,8 @@
       "title": "552 - Els jesuïtes a Catalunya",
       "tags": {
         "civilizations": [
-          "romans",
-          "catalans"
+          "catalans",
+          "romans"
         ],
         "events": [
           "expulsio-jueus",
@@ -5821,8 +5821,8 @@
           "antiguitat"
         ],
         "topics": [
-          "cultura",
-          "esport"
+          "esport",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -5832,17 +5832,17 @@
       "title": "593 - Els Jocs Olímpics de l'Antiguitat",
       "tags": {
         "civilizations": [
-          "grecs",
-          "cristians"
+          "cristians",
+          "grecs"
         ],
         "periods": [
           "antiguitat"
         ],
         "topics": [
           "religió",
-          "guerra",
           "cultura",
-          "esport"
+          "esport",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -5881,10 +5881,10 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
+          "arquitectura",
           "cultura",
           "politica",
-          "economia",
-          "arquitectura"
+          "economia"
         ]
       },
       "confidence": 0.9,
@@ -5907,16 +5907,16 @@
       "title": "Els lliberts a la Barcelona baixmedieval",
       "tags": {
         "civilizations": [
-          "romans",
           "catalans",
-          "ibers"
+          "ibers",
+          "romans"
         ],
         "locations": [
           "catalunya"
         ],
         "periods": [
-          "antiguitat",
-          "baixa-edat-mitjana"
+          "baixa-edat-mitjana",
+          "antiguitat"
         ],
         "topics": [
           "biografia"
@@ -5932,15 +5932,15 @@
           "reconquesta"
         ],
         "locations": [
-          "asia",
-          "catalunya"
+          "catalunya",
+          "asia"
         ],
         "periods": [
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "guerra",
           "politica",
+          "guerra",
           "societat"
         ]
       },
@@ -6028,9 +6028,9 @@
           "catalans"
         ],
         "locations": [
+          "espanya",
           "europa",
-          "catalunya",
-          "espanya"
+          "catalunya"
         ],
         "topics": [
           "guerra"
@@ -6046,8 +6046,8 @@
           "catalans"
         ],
         "locations": [
-          "catalunya",
-          "mediterrani"
+          "mediterrani",
+          "catalunya"
         ],
         "topics": [
           "cultura",
@@ -6115,15 +6115,15 @@
           "espanya"
         ],
         "periods": [
-          "edat-moderna",
           "segle-xx",
+          "edat-moderna",
           "contemporani",
           "segle-xviii"
         ],
         "topics": [
           "guerra",
-          "cultura",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -6139,9 +6139,9 @@
           "catalunya"
         ],
         "topics": [
-          "guerra",
           "cultura",
-          "ciencia"
+          "ciencia",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -6156,19 +6156,19 @@
           "romans"
         ],
         "events": [
-          "expulsio-jueus",
-          "guerra-civil"
+          "guerra-civil",
+          "expulsio-jueus"
         ],
         "locations": [
           "catalunya"
         ],
         "periods": [
-          "antiguitat",
-          "segle-xx"
+          "segle-xx",
+          "antiguitat"
         ],
         "topics": [
-          "cultura",
-          "religió"
+          "religió",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -6198,9 +6198,9 @@
           "catalans"
         ],
         "locations": [
+          "america",
           "catalunya",
-          "espanya",
-          "america"
+          "espanya"
         ],
         "topics": [
           "biografia",
@@ -6225,8 +6225,8 @@
         ],
         "topics": [
           "guerra",
-          "cultura",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -6309,10 +6309,10 @@
       "title": "Els orígens del català escrit",
       "tags": {
         "civilizations": [
-          "catalans",
-          "visigots",
+          "ibers",
           "romans",
-          "ibers"
+          "catalans",
+          "visigots"
         ],
         "locations": [
           "catalunya"
@@ -6332,8 +6332,8 @@
       "title": "Els orígens del Park Güell",
       "tags": {
         "topics": [
-          "cultura",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.6,
@@ -6406,8 +6406,8 @@
       "title": "Els pobles del mar i la crisi del 1200 aC",
       "tags": {
         "locations": [
-          "asia",
-          "catalunya"
+          "catalunya",
+          "asia"
         ],
         "periods": [
           "prehistoria"
@@ -6458,8 +6458,8 @@
           "antiguitat"
         ],
         "topics": [
-          "guerra",
           "cultura",
+          "guerra",
           "politica"
         ]
       },
@@ -6479,8 +6479,8 @@
           "catalunya"
         ],
         "topics": [
-          "ciencia",
-          "religió"
+          "religió",
+          "ciencia"
         ]
       },
       "confidence": 0.9,
@@ -6500,8 +6500,8 @@
           "segle-xx"
         ],
         "topics": [
-          "cultura",
-          "guerra"
+          "guerra",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -6559,8 +6559,8 @@
           "guerra-civil"
         ],
         "locations": [
-          "europa",
-          "catalunya"
+          "catalunya",
+          "europa"
         ],
         "periods": [
           "segle-xx"
@@ -6694,8 +6694,8 @@
       "title": "521 - Els toros (plaers 4)",
       "tags": {
         "civilizations": [
-          "romans",
-          "catalans"
+          "catalans",
+          "romans"
         ],
         "locations": [
           "catalunya"
@@ -6730,17 +6730,17 @@
       "title": "412 - Els trobadors medievals",
       "tags": {
         "civilizations": [
-          "romans",
+          "catalans",
           "musulmans",
-          "catalans"
+          "romans"
         ],
         "locations": [
-          "europa",
-          "catalunya"
+          "catalunya",
+          "europa"
         ],
         "periods": [
-          "baixa-edat-mitjana",
-          "antiguitat"
+          "antiguitat",
+          "baixa-edat-mitjana"
         ]
       },
       "confidence": 0.9,
@@ -6782,9 +6782,9 @@
           "antiguitat"
         ],
         "topics": [
-          "societat",
           "guerra",
-          "cultura"
+          "cultura",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -6833,13 +6833,13 @@
           "reconquesta"
         ],
         "locations": [
-          "catalunya",
-          "mediterrani"
+          "mediterrani",
+          "catalunya"
         ],
         "topics": [
           "politica",
-          "biografia",
-          "cultura"
+          "cultura",
+          "biografia"
         ]
       },
       "confidence": 0.9,
@@ -6862,9 +6862,9 @@
           "segle-xx"
         ],
         "topics": [
-          "arquitectura",
+          "guerra",
           "cultura",
-          "guerra"
+          "arquitectura"
         ]
       },
       "confidence": 0.9,
@@ -6902,8 +6902,8 @@
           "catalunya"
         ],
         "topics": [
-          "cultura",
-          "biografia"
+          "biografia",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -6927,8 +6927,8 @@
           "catalunya"
         ],
         "periods": [
-          "prehistoria",
-          "segle-xx"
+          "segle-xx",
+          "prehistoria"
         ],
         "topics": [
           "guerra",
@@ -6972,8 +6972,8 @@
           "antiguitat"
         ],
         "topics": [
-          "biografia",
           "politica",
+          "biografia",
           "cultura"
         ]
       },
@@ -6990,9 +6990,9 @@
           "asia"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "biografia",
-          "cultura"
+          "biografia"
         ]
       },
       "confidence": 0.9,
@@ -7002,16 +7002,16 @@
       "title": "En guardia, de 15 a 16 h - 09/10/2016",
       "tags": {
         "civilizations": [
-          "ibers",
-          "francs"
+          "francs",
+          "ibers"
         ],
         "periods": [
-          "edat-moderna",
-          "segle-xix"
+          "segle-xix",
+          "edat-moderna"
         ],
         "topics": [
-          "politica",
-          "economia"
+          "economia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -7030,10 +7030,10 @@
           "segle-xx"
         ],
         "topics": [
-          "cultura",
-          "arquitectura",
           "guerra",
-          "politica"
+          "politica",
+          "arquitectura",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -7050,8 +7050,8 @@
         ],
         "topics": [
           "biografia",
-          "cultura",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -7084,8 +7084,8 @@
           "antiguitat"
         ],
         "topics": [
-          "societat",
-          "guerra"
+          "guerra",
+          "societat"
         ]
       },
       "confidence": 0.8,
@@ -7100,8 +7100,8 @@
       "title": "En guardia, de 15 a 16 h - 22/01/2017",
       "tags": {
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.6,
@@ -7130,8 +7130,8 @@
           "catalunya"
         ],
         "topics": [
-          "arquitectura",
-          "cultura"
+          "cultura",
+          "arquitectura"
         ]
       },
       "confidence": 0.8,
@@ -7163,8 +7163,8 @@
           "europa"
         ],
         "topics": [
-          "guerra",
-          "politica"
+          "politica",
+          "guerra"
         ]
       },
       "confidence": 0.8,
@@ -7183,8 +7183,8 @@
           "prehistoria"
         ],
         "topics": [
-          "politica",
           "guerra",
+          "politica",
           "cultura"
         ]
       },
@@ -7256,9 +7256,9 @@
           "segle-xx"
         ],
         "topics": [
+          "arquitectura",
           "guerra",
           "politica",
-          "arquitectura",
           "cultura"
         ]
       },
@@ -7282,8 +7282,8 @@
         ],
         "topics": [
           "guerra",
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -7303,12 +7303,12 @@
           "europa"
         ],
         "periods": [
-          "contemporani",
-          "segle-xx"
+          "segle-xx",
+          "contemporani"
         ],
         "topics": [
-          "politica",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -7318,8 +7318,8 @@
       "title": "695 - Episodis de la Guerra Civil a Catalunya 3: El front del Segre",
       "tags": {
         "civilizations": [
-          "francs",
-          "catalans"
+          "catalans",
+          "francs"
         ],
         "events": [
           "guerra-civil"
@@ -7341,8 +7341,8 @@
       "title": "Era Querimònia",
       "tags": {
         "civilizations": [
-          "francs",
-          "ibers"
+          "ibers",
+          "francs"
         ],
         "events": [
           "reconquesta"
@@ -7435,16 +7435,16 @@
           "guerra-successio"
         ],
         "locations": [
-          "catalunya",
-          "espanya"
+          "espanya",
+          "catalunya"
         ],
         "periods": [
           "edat-moderna",
           "segle-xviii"
         ],
         "topics": [
-          "guerra",
           "politica",
+          "guerra",
           "biografia"
         ]
       },
@@ -7486,9 +7486,9 @@
       "title": "365 - Especial Tarraco",
       "tags": {
         "civilizations": [
-          "grecs",
+          "romans",
           "catalans",
-          "romans"
+          "grecs"
         ],
         "locations": [
           "catalunya"
@@ -7518,8 +7518,8 @@
       "title": "Eugeni d'Ors",
       "tags": {
         "civilizations": [
-          "catalans",
-          "romans"
+          "romans",
+          "catalans"
         ],
         "locations": [
           "catalunya"
@@ -7554,9 +7554,9 @@
           "segle-xix"
         ],
         "topics": [
-          "cultura",
           "economia",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -7603,18 +7603,18 @@
           "guerra-civil"
         ],
         "locations": [
-          "europa",
-          "catalunya"
+          "catalunya",
+          "europa"
         ],
         "periods": [
           "segle-xx"
         ],
         "topics": [
-          "guerra",
           "cultura",
+          "guerra",
+          "politica",
           "societat",
-          "biografia",
-          "politica"
+          "biografia"
         ]
       },
       "confidence": 0.9,
@@ -7670,9 +7670,9 @@
           "segle-xx"
         ],
         "topics": [
+          "guerra",
           "politica",
-          "cultura",
-          "guerra"
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -7699,14 +7699,14 @@
         ],
         "periods": [
           "antiguitat",
-          "baixa-edat-mitjana",
-          "prehistoria"
+          "prehistoria",
+          "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
-          "guerra",
           "biografia",
-          "cultura"
+          "politica",
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -7739,8 +7739,8 @@
           "francs"
         ],
         "topics": [
-          "biografia",
-          "cultura"
+          "cultura",
+          "biografia"
         ]
       },
       "confidence": 0.8,
@@ -7750,8 +7750,8 @@
       "title": "495 - Francesc de Castellví (lletres 1)",
       "tags": {
         "civilizations": [
-          "catalans",
-          "francs"
+          "francs",
+          "catalans"
         ],
         "events": [
           "guerra-successio"
@@ -7766,8 +7766,8 @@
         "topics": [
           "cultura",
           "arquitectura",
-          "guerra",
-          "biografia"
+          "biografia",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -7783,12 +7783,12 @@
           "guerra-civil"
         ],
         "periods": [
-          "baixa-edat-mitjana",
-          "segle-xx"
+          "segle-xx",
+          "baixa-edat-mitjana"
         ],
         "topics": [
-          "guerra",
           "biografia",
+          "guerra",
           "politica"
         ]
       },
@@ -7809,10 +7809,10 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "cultura",
-          "societat",
+          "politica",
           "biografia",
-          "politica"
+          "cultura",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -7822,10 +7822,10 @@
       "title": "691 - Francesc Fontanella",
       "tags": {
         "civilizations": [
-          "romans",
+          "francs",
           "musulmans",
-          "catalans",
-          "francs"
+          "romans",
+          "catalans"
         ],
         "locations": [
           "catalunya"
@@ -7846,8 +7846,8 @@
       "title": "Francesc Gabarró, violoncel",
       "tags": {
         "civilizations": [
-          "francs",
-          "catalans"
+          "catalans",
+          "francs"
         ],
         "locations": [
           "catalunya",
@@ -7891,8 +7891,8 @@
       "title": "Francesc Paradaltas i la fabricació de moneda",
       "tags": {
         "civilizations": [
-          "francs",
-          "catalans"
+          "catalans",
+          "francs"
         ],
         "locations": [
           "catalunya",
@@ -7935,8 +7935,8 @@
         ],
         "topics": [
           "cultura",
-          "politica",
-          "societat"
+          "societat",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -7979,9 +7979,9 @@
           "espanya"
         ],
         "topics": [
-          "cultura",
           "guerra",
-          "biografia"
+          "biografia",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -8024,16 +8024,16 @@
       "title": "Gemelli Careri a Barcelona",
       "tags": {
         "civilizations": [
-          "francs",
-          "catalans"
+          "catalans",
+          "francs"
         ],
         "events": [
           "creuades"
         ],
         "locations": [
-          "america",
           "asia",
-          "catalunya"
+          "catalunya",
+          "america"
         ],
         "topics": [
           "cultura"
@@ -8067,14 +8067,14 @@
           "reconquesta"
         ],
         "locations": [
-          "espanya",
           "europa",
           "mediterrani",
-          "catalunya"
+          "catalunya",
+          "espanya"
         ],
         "periods": [
-          "antiguitat",
-          "segle-xix"
+          "segle-xix",
+          "antiguitat"
         ]
       },
       "confidence": 0.9,
@@ -8103,9 +8103,9 @@
           "catalunya"
         ],
         "topics": [
+          "cultura",
           "biografia",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -8220,8 +8220,8 @@
         "topics": [
           "guerra",
           "politica",
-          "arquitectura",
-          "cultura"
+          "cultura",
+          "arquitectura"
         ]
       },
       "confidence": 0.9,
@@ -8246,8 +8246,8 @@
         ],
         "topics": [
           "guerra",
-          "cultura",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -8294,8 +8294,8 @@
           "catalunya"
         ],
         "topics": [
-          "biografia",
-          "cultura"
+          "cultura",
+          "biografia"
         ]
       },
       "confidence": 0.8,
@@ -8346,14 +8346,14 @@
           "descobriments"
         ],
         "locations": [
-          "america",
           "asia",
-          "europa"
+          "europa",
+          "america"
         ],
         "topics": [
-          "biografia",
-          "cultura",
           "guerra",
+          "cultura",
+          "biografia",
           "politica"
         ]
       },
@@ -8364,8 +8364,8 @@
       "title": "358 - Heròdot",
       "tags": {
         "civilizations": [
-          "grecs",
-          "catalans"
+          "catalans",
+          "grecs"
         ],
         "locations": [
           "catalunya"
@@ -8374,8 +8374,8 @@
           "antiguitat"
         ],
         "topics": [
-          "politica",
-          "biografia"
+          "biografia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -8411,9 +8411,9 @@
           "catalunya"
         ],
         "topics": [
+          "economia",
           "cultura",
-          "societat",
-          "economia"
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -8437,10 +8437,10 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "arquitectura",
+          "politica",
           "religió",
           "cultura",
-          "politica"
+          "arquitectura"
         ]
       },
       "confidence": 0.9,
@@ -8507,9 +8507,9 @@
           "catalunya"
         ],
         "topics": [
+          "biografia",
           "cultura",
-          "societat",
-          "biografia"
+          "societat"
         ]
       },
       "confidence": 0.8,
@@ -8620,9 +8620,9 @@
       "title": "Infància i joventut de Salvador Dalí",
       "tags": {
         "topics": [
-          "cultura",
           "biografia",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -8635,9 +8635,9 @@
           "ibers"
         ],
         "topics": [
+          "politica",
           "societat",
-          "biografia",
-          "politica"
+          "biografia"
         ]
       },
       "confidence": 0.8,
@@ -8729,9 +8729,9 @@
           "segle-xvii"
         ],
         "topics": [
+          "cultura",
           "arquitectura",
-          "biografia",
-          "cultura"
+          "biografia"
         ]
       },
       "confidence": 0.9,
@@ -8744,8 +8744,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "cultura",
-          "biografia"
+          "biografia",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -8761,8 +8761,8 @@
           "segle-xx"
         ],
         "topics": [
-          "biografia",
-          "cultura"
+          "cultura",
+          "biografia"
         ]
       },
       "confidence": 0.8,
@@ -8873,8 +8873,8 @@
           "catalunya"
         ],
         "topics": [
-          "guerra",
           "politica",
+          "guerra",
           "biografia",
           "cultura"
         ]
@@ -8908,8 +8908,8 @@
           "ibers"
         ],
         "events": [
-          "guerra-civil",
-          "guerra-frances"
+          "guerra-frances",
+          "guerra-civil"
         ],
         "locations": [
           "catalunya"
@@ -8919,8 +8919,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -8954,10 +8954,10 @@
           "antiguitat"
         ],
         "topics": [
-          "religió",
-          "cultura",
           "societat",
-          "biografia"
+          "religió",
+          "biografia",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -8973,9 +8973,9 @@
           "catalunya"
         ],
         "topics": [
+          "biografia",
           "cultura",
-          "ciencia",
-          "biografia"
+          "ciencia"
         ]
       },
       "confidence": 0.9,
@@ -8989,12 +8989,12 @@
           "descobriments"
         ],
         "locations": [
-          "america",
-          "catalunya"
+          "catalunya",
+          "america"
         ],
         "topics": [
-          "cultura",
-          "guerra"
+          "guerra",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -9033,9 +9033,9 @@
         ],
         "topics": [
           "guerra",
-          "cultura",
           "biografia",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -9073,8 +9073,8 @@
           "contemporani"
         ],
         "topics": [
-          "cultura",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -9095,8 +9095,8 @@
       "title": "432 - Josep Pujol Boquica",
       "tags": {
         "civilizations": [
-          "catalans",
-          "francs"
+          "francs",
+          "catalans"
         ],
         "events": [
           "guerra-frances"
@@ -9109,8 +9109,8 @@
           "segle-xix"
         ],
         "topics": [
-          "guerra",
-          "biografia"
+          "biografia",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -9127,9 +9127,9 @@
           "espanya"
         ],
         "topics": [
-          "cultura",
           "biografia",
-          "esport"
+          "esport",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -9148,8 +9148,8 @@
           "segle-xx"
         ],
         "topics": [
-          "cultura",
-          "guerra"
+          "guerra",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -9169,10 +9169,10 @@
       "title": "Karl Marx",
       "tags": {
         "topics": [
+          "economia",
           "societat",
           "politica",
-          "cultura",
-          "economia"
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -9214,8 +9214,8 @@
           "catalunya"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -9249,20 +9249,20 @@
       "title": "L'afer Bloch",
       "tags": {
         "civilizations": [
-          "catalans",
-          "francs"
+          "francs",
+          "catalans"
         ],
         "events": [
-          "guerra-frances",
-          "guerra-civil"
+          "guerra-civil",
+          "guerra-frances"
         ],
         "locations": [
           "catalunya"
         ],
         "periods": [
           "segle-xx",
-          "contemporani",
-          "segle-xix"
+          "segle-xix",
+          "contemporani"
         ]
       },
       "confidence": 0.9,
@@ -9280,10 +9280,10 @@
           "contemporani"
         ],
         "topics": [
-          "societat",
-          "biografia",
           "politica",
-          "guerra"
+          "guerra",
+          "biografia",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -9313,8 +9313,8 @@
         ],
         "topics": [
           "guerra",
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -9327,8 +9327,8 @@
           "catalunya"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -9338,8 +9338,8 @@
       "title": "131 - L'alimentació a Grècia i a Roma",
       "tags": {
         "civilizations": [
-          "romans",
-          "grecs"
+          "grecs",
+          "romans"
         ],
         "periods": [
           "antiguitat"
@@ -9365,8 +9365,8 @@
       "title": "565 - L'alliberament de París. Fi de la II Guerra Mundial (1)",
       "tags": {
         "civilizations": [
-          "ibers",
-          "francs"
+          "francs",
+          "ibers"
         ],
         "periods": [
           "edat-moderna"
@@ -9416,13 +9416,13 @@
           "espanya"
         ],
         "periods": [
-          "segle-xx",
-          "prehistoria"
+          "prehistoria",
+          "segle-xx"
         ],
         "topics": [
-          "cultura",
           "biografia",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -9451,8 +9451,8 @@
       "title": "L'art medieval a Noruega i Catalunya",
       "tags": {
         "civilizations": [
-          "catalans",
-          "cristians"
+          "cristians",
+          "catalans"
         ],
         "locations": [
           "catalunya",
@@ -9476,9 +9476,9 @@
           "europa"
         ],
         "topics": [
+          "politica",
           "guerra",
-          "cultura",
-          "politica"
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -9488,10 +9488,10 @@
       "title": "L'ascens dels samurais al poder",
       "tags": {
         "topics": [
-          "guerra",
+          "cultura",
           "biografia",
           "politica",
-          "cultura"
+          "guerra"
         ]
       },
       "confidence": 0.8,
@@ -9507,9 +9507,9 @@
           "catalunya"
         ],
         "topics": [
-          "cultura",
           "societat",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -9524,8 +9524,8 @@
       "title": "L'Assemblea de Catalunya",
       "tags": {
         "civilizations": [
-          "catalans",
-          "ibers"
+          "ibers",
+          "catalans"
         ],
         "locations": [
           "catalunya"
@@ -9589,12 +9589,12 @@
           "catalans"
         ],
         "locations": [
-          "europa",
-          "catalunya"
+          "catalunya",
+          "europa"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -9609,13 +9609,13 @@
       "title": "L'eclosió dels atletes africans",
       "tags": {
         "locations": [
-          "africa",
           "asia",
-          "catalunya"
+          "catalunya",
+          "africa"
         ],
         "topics": [
-          "cultura",
-          "esport"
+          "esport",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -9643,8 +9643,8 @@
           "segle-xviii"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -9662,8 +9662,8 @@
           "europa"
         ],
         "topics": [
-          "societat",
-          "cultura"
+          "cultura",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -9792,9 +9792,9 @@
           "antiguitat"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -9804,8 +9804,8 @@
       "title": "400 - L'esclat de la Revolució Francesa",
       "tags": {
         "civilizations": [
-          "cristians",
-          "francs"
+          "francs",
+          "cristians"
         ],
         "locations": [
           "europa"
@@ -9854,8 +9854,8 @@
           "espanya"
         ],
         "periods": [
-          "segle-xx",
-          "contemporani"
+          "contemporani",
+          "segle-xx"
         ],
         "topics": [
           "guerra",
@@ -9869,10 +9869,10 @@
       "title": "697 - L'escriptura a la Catalunya incipient",
       "tags": {
         "civilizations": [
+          "cristians",
           "catalans",
           "visigots",
-          "romans",
-          "cristians"
+          "romans"
         ],
         "locations": [
           "catalunya"
@@ -9930,16 +9930,16 @@
           "guerra-civil"
         ],
         "locations": [
-          "catalunya",
-          "europa"
+          "europa",
+          "catalunya"
         ],
         "periods": [
           "segle-xx"
         ],
         "topics": [
+          "politica",
           "cultura",
-          "guerra",
-          "politica"
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -10029,9 +10029,9 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
           "politica",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.8,
@@ -10060,8 +10060,8 @@
       "title": "581 - L'estratègia del Pacífic. Fi de la II Guerra Mundial (4)",
       "tags": {
         "locations": [
-          "europa",
-          "asia"
+          "asia",
+          "europa"
         ],
         "topics": [
           "guerra",
@@ -10079,8 +10079,8 @@
           "guerra-civil"
         ],
         "locations": [
-          "catalunya",
-          "europa"
+          "europa",
+          "catalunya"
         ],
         "periods": [
           "segle-xx"
@@ -10103,8 +10103,8 @@
           "catalunya"
         ],
         "topics": [
-          "cultura",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -10120,12 +10120,12 @@
           "guerra-frances"
         ],
         "locations": [
-          "america",
-          "espanya"
+          "espanya",
+          "america"
         ],
         "periods": [
-          "prehistoria",
-          "segle-xix"
+          "segle-xix",
+          "prehistoria"
         ],
         "topics": [
           "guerra",
@@ -10170,8 +10170,8 @@
       "title": "L'execució del coronel Bac de Roda",
       "tags": {
         "civilizations": [
-          "catalans",
-          "francs"
+          "francs",
+          "catalans"
         ],
         "events": [
           "guerra-successio"
@@ -10183,9 +10183,9 @@
           "segle-xviii"
         ],
         "topics": [
-          "guerra",
+          "cultura",
           "societat",
-          "cultura"
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -10208,8 +10208,8 @@
       "title": "624 - L'exili argentí a Catalunya",
       "tags": {
         "civilizations": [
-          "catalans",
-          "ibers"
+          "ibers",
+          "catalans"
         ],
         "locations": [
           "catalunya",
@@ -10245,9 +10245,9 @@
           "segle-xx"
         ],
         "topics": [
-          "cultura",
+          "guerra",
           "politica",
-          "guerra"
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -10270,8 +10270,8 @@
           "segle-xvii"
         ],
         "topics": [
-          "politica",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -10301,9 +10301,9 @@
         ],
         "topics": [
           "guerra",
+          "cultura",
           "politica",
-          "societat",
-          "cultura"
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -10323,10 +10323,10 @@
           "prehistoria"
         ],
         "topics": [
-          "economia",
+          "cultura",
           "biografia",
-          "politica",
-          "cultura"
+          "economia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -10349,9 +10349,9 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
+          "guerra",
           "cultura",
-          "guerra"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -10361,9 +10361,9 @@
       "title": "L'expedició catalana a Còrdova del 1010",
       "tags": {
         "civilizations": [
-          "ibers",
+          "musulmans",
           "cristians",
-          "musulmans"
+          "ibers"
         ],
         "locations": [
           "catalunya"
@@ -10421,8 +10421,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "economia",
           "ciencia",
+          "economia",
           "politica"
         ]
       },
@@ -10449,9 +10449,9 @@
           "antiguitat"
         ],
         "topics": [
-          "societat",
+          "cultura",
           "politica",
-          "cultura"
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -10491,10 +10491,10 @@
           "contemporani"
         ],
         "topics": [
-          "religió",
-          "cultura",
           "guerra",
-          "economia"
+          "economia",
+          "religió",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -10569,8 +10569,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
           "biografia",
+          "politica",
           "cultura",
           "arquitectura"
         ]
@@ -10588,8 +10588,8 @@
           "catalunya"
         ],
         "topics": [
-          "cultura",
-          "guerra"
+          "guerra",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -10602,17 +10602,17 @@
           "francs"
         ],
         "events": [
-          "guerra-frances",
-          "guerra-successio"
+          "guerra-successio",
+          "guerra-frances"
         ],
         "periods": [
-          "segle-xvii",
           "segle-xviii",
-          "segle-xix"
+          "segle-xix",
+          "segle-xvii"
         ],
         "topics": [
-          "politica",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -10663,9 +10663,9 @@
           "segle-xix"
         ],
         "topics": [
+          "economia",
           "ciencia",
-          "cultura",
-          "economia"
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -10681,9 +10681,9 @@
           "catalunya"
         ],
         "topics": [
-          "guerra",
           "politica",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -10696,9 +10696,9 @@
           "cristians"
         ],
         "topics": [
+          "politica",
           "societat",
           "guerra",
-          "politica",
           "cultura"
         ]
       },
@@ -10709,8 +10709,8 @@
       "title": "340 - L'oci a l'antiga Roma",
       "tags": {
         "civilizations": [
-          "catalans",
-          "romans"
+          "romans",
+          "catalans"
         ],
         "locations": [
           "catalunya"
@@ -10772,12 +10772,12 @@
       "title": "577 - L'ofensiva soviètica. Fi de la II Guerra Mundial (3)",
       "tags": {
         "locations": [
-          "asia",
-          "europa"
+          "europa",
+          "asia"
         ],
         "topics": [
-          "cultura",
-          "guerra"
+          "guerra",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -10840,8 +10840,8 @@
           "catalunya"
         ],
         "periods": [
-          "segle-xx",
           "segle-xviii",
+          "segle-xx",
           "contemporani"
         ],
         "topics": [
@@ -10862,8 +10862,8 @@
           "catalunya"
         ],
         "topics": [
-          "cultura",
-          "arquitectura"
+          "arquitectura",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -10918,8 +10918,8 @@
       "title": "439 - L'origen dels governs civils",
       "tags": {
         "civilizations": [
-          "ibers",
-          "catalans"
+          "catalans",
+          "ibers"
         ],
         "locations": [
           "catalunya"
@@ -10928,8 +10928,8 @@
           "segle-xix"
         ],
         "topics": [
-          "guerra",
-          "politica"
+          "politica",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -10942,8 +10942,8 @@
           "catalans"
         ],
         "locations": [
-          "catalunya",
-          "europa"
+          "europa",
+          "catalunya"
         ],
         "topics": [
           "cultura"
@@ -10959,9 +10959,9 @@
           "catalunya"
         ],
         "topics": [
+          "guerra",
           "politica",
-          "cultura",
-          "guerra"
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -10978,8 +10978,8 @@
           "antiguitat"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -11089,9 +11089,9 @@
       "title": "La Barcelona visigòtica",
       "tags": {
         "civilizations": [
-          "visigots",
           "romans",
-          "cristians"
+          "cristians",
+          "visigots"
         ],
         "locations": [
           "catalunya"
@@ -11101,8 +11101,8 @@
           "alta-edat-mitjana"
         ],
         "topics": [
-          "arquitectura",
-          "cultura"
+          "cultura",
+          "arquitectura"
         ]
       },
       "confidence": 0.9,
@@ -11123,8 +11123,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "religió",
-          "cultura"
+          "cultura",
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -11171,8 +11171,8 @@
       "tags": {
         "civilizations": [
           "catalans",
-          "ibers",
-          "francs"
+          "francs",
+          "ibers"
         ],
         "locations": [
           "catalunya"
@@ -11181,8 +11181,8 @@
           "segle-xix"
         ],
         "topics": [
-          "cultura",
-          "guerra"
+          "guerra",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -11201,8 +11201,8 @@
           "segle-xix"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -11232,8 +11232,8 @@
           "antiguitat"
         ],
         "topics": [
-          "cultura",
-          "guerra"
+          "guerra",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -11253,8 +11253,8 @@
           "antiguitat"
         ],
         "topics": [
-          "ciencia",
-          "guerra"
+          "guerra",
+          "ciencia"
         ]
       },
       "confidence": 0.9,
@@ -11270,8 +11270,8 @@
           "guerra-frances"
         ],
         "periods": [
-          "segle-xix",
-          "segle-xx"
+          "segle-xx",
+          "segle-xix"
         ],
         "topics": [
           "guerra"
@@ -11287,8 +11287,8 @@
           "asia"
         ],
         "topics": [
-          "politica",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -11328,15 +11328,15 @@
       "title": "583 - La batalla de les Boques de l'Ebre",
       "tags": {
         "civilizations": [
-          "fenicis",
-          "romans"
+          "romans",
+          "fenicis"
         ],
         "periods": [
           "antiguitat"
         ],
         "topics": [
-          "cultura",
-          "guerra"
+          "guerra",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -11424,8 +11424,8 @@
           "antiguitat"
         ],
         "topics": [
-          "politica",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -11527,8 +11527,8 @@
       "title": "La bullanga de Barcelona del 1835",
       "tags": {
         "civilizations": [
-          "catalans",
-          "ibers"
+          "ibers",
+          "catalans"
         ],
         "locations": [
           "catalunya"
@@ -11538,9 +11538,9 @@
         ],
         "topics": [
           "guerra",
+          "cultura",
           "politica",
-          "religió",
-          "cultura"
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -11556,8 +11556,8 @@
           "catalunya"
         ],
         "topics": [
-          "societat",
-          "cultura"
+          "cultura",
+          "societat"
         ]
       },
       "confidence": 0.8,
@@ -11573,8 +11573,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "arquitectura",
-          "ciencia"
+          "ciencia",
+          "arquitectura"
         ]
       },
       "confidence": 0.8,
@@ -11618,8 +11618,8 @@
           "antiguitat"
         ],
         "topics": [
-          "politica",
           "biografia",
+          "politica",
           "societat"
         ]
       },
@@ -11637,8 +11637,8 @@
         ],
         "topics": [
           "biografia",
-          "politica",
-          "societat"
+          "societat",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -11670,15 +11670,15 @@
       "title": "La capacitat militar andalusí",
       "tags": {
         "civilizations": [
-          "musulmans",
-          "ibers"
+          "ibers",
+          "musulmans"
         ],
         "periods": [
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "guerra",
-          "politica"
+          "politica",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -11709,9 +11709,9 @@
           "segle-xix"
         ],
         "topics": [
+          "arquitectura",
           "cultura",
-          "economia",
-          "arquitectura"
+          "economia"
         ]
       },
       "confidence": 0.9,
@@ -11744,9 +11744,9 @@
           "segle-xix"
         ],
         "topics": [
+          "cultura",
           "arquitectura",
           "politica",
-          "cultura",
           "economia"
         ]
       },
@@ -11780,8 +11780,8 @@
           "mediterrani"
         ],
         "periods": [
-          "alta-edat-mitjana",
-          "baixa-edat-mitjana"
+          "baixa-edat-mitjana",
+          "alta-edat-mitjana"
         ],
         "topics": [
           "guerra",
@@ -11825,8 +11825,8 @@
       "title": "La ciència-ficció",
       "tags": {
         "topics": [
-          "cultura",
-          "ciencia"
+          "ciencia",
+          "cultura"
         ]
       },
       "confidence": 0.6,
@@ -11839,10 +11839,10 @@
           "catalunya"
         ],
         "topics": [
-          "guerra",
           "ciencia",
-          "biografia",
-          "arquitectura"
+          "arquitectura",
+          "guerra",
+          "biografia"
         ]
       },
       "confidence": 0.9,
@@ -11874,8 +11874,8 @@
           "catalunya"
         ],
         "periods": [
-          "segle-xx",
-          "contemporani"
+          "contemporani",
+          "segle-xx"
         ],
         "topics": [
           "guerra",
@@ -12027,8 +12027,8 @@
           "catalunya"
         ],
         "periods": [
-          "antiguitat",
-          "segle-xx"
+          "segle-xx",
+          "antiguitat"
         ],
         "topics": [
           "guerra",
@@ -12145,9 +12145,9 @@
           "africa"
         ],
         "topics": [
+          "cultura",
           "guerra",
           "biografia",
-          "cultura",
           "politica"
         ]
       },
@@ -12174,16 +12174,16 @@
       "title": "551 - La crisi del segle III (Imperi romà 4)",
       "tags": {
         "civilizations": [
-          "grecs",
-          "romans"
+          "romans",
+          "grecs"
         ],
         "periods": [
           "antiguitat",
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "guerra",
-          "economia"
+          "economia",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -12198,16 +12198,16 @@
       "title": "396 - La cuina dels ibers",
       "tags": {
         "civilizations": [
-          "ibers",
-          "romans"
+          "romans",
+          "ibers"
         ],
         "periods": [
           "antiguitat"
         ],
         "topics": [
-          "biografia",
           "cultura",
-          "societat"
+          "societat",
+          "biografia"
         ]
       },
       "confidence": 0.9,
@@ -12271,16 +12271,16 @@
       "title": "La darrera carlinada a la Vall del Ges",
       "tags": {
         "civilizations": [
-          "ibers",
-          "catalans"
+          "catalans",
+          "ibers"
         ],
         "locations": [
           "catalunya",
           "espanya"
         ],
         "periods": [
-          "segle-xix",
-          "edat-moderna"
+          "edat-moderna",
+          "segle-xix"
         ],
         "topics": [
           "politica",
@@ -12304,9 +12304,9 @@
           "antiguitat"
         ],
         "topics": [
-          "religió",
+          "cultura",
           "ciencia",
-          "cultura"
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -12326,8 +12326,8 @@
           "catalunya"
         ],
         "topics": [
-          "religió",
-          "politica"
+          "politica",
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -12347,8 +12347,8 @@
       "title": "La dictadura militar brasilera i els indígenes",
       "tags": {
         "topics": [
-          "guerra",
-          "economia"
+          "economia",
+          "guerra"
         ]
       },
       "confidence": 0.6,
@@ -12393,8 +12393,8 @@
       "title": "541 - La dinastia Júlia - Clàudia (Imperi romà 2)",
       "tags": {
         "civilizations": [
-          "romans",
-          "ibers"
+          "ibers",
+          "romans"
         ],
         "periods": [
           "antiguitat"
@@ -12410,8 +12410,8 @@
       "title": "La Diputació carlina",
       "tags": {
         "civilizations": [
-          "ibers",
-          "catalans"
+          "catalans",
+          "ibers"
         ],
         "locations": [
           "catalunya"
@@ -12487,8 +12487,8 @@
           "asia"
         ],
         "topics": [
-          "cultura",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -12590,9 +12590,9 @@
           "segle-xix"
         ],
         "topics": [
+          "societat",
           "politica",
-          "economia",
-          "societat"
+          "economia"
         ]
       },
       "confidence": 0.9,
@@ -12608,9 +12608,9 @@
           "catalunya"
         ],
         "topics": [
-          "cultura",
           "politica",
-          "societat"
+          "societat",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -12660,10 +12660,10 @@
       "title": "La fi de l'imperi colonial espanyol",
       "tags": {
         "locations": [
-          "espanya",
-          "europa",
           "america",
-          "catalunya"
+          "catalunya",
+          "espanya",
+          "europa"
         ],
         "topics": [
           "politica",
@@ -12682,8 +12682,8 @@
           "mediterrani"
         ],
         "topics": [
-          "politica",
           "guerra",
+          "politica",
           "cultura"
         ]
       },
@@ -12706,8 +12706,8 @@
           "catalunya"
         ],
         "periods": [
-          "antiguitat",
-          "contemporani"
+          "contemporani",
+          "antiguitat"
         ]
       },
       "confidence": 0.9,
@@ -12728,8 +12728,8 @@
         ],
         "periods": [
           "baixa-edat-mitjana",
-          "edat-moderna",
-          "segle-xix"
+          "segle-xix",
+          "edat-moderna"
         ],
         "topics": [
           "politica",
@@ -12759,9 +12759,9 @@
           "descobriments"
         ],
         "locations": [
+          "america",
           "catalunya",
-          "europa",
-          "america"
+          "europa"
         ],
         "topics": [
           "cultura",
@@ -12862,8 +12862,8 @@
           "catalunya"
         ],
         "periods": [
-          "segle-xix",
-          "segle-xx"
+          "segle-xx",
+          "segle-xix"
         ],
         "topics": [
           "cultura"
@@ -12938,8 +12938,8 @@
       "title": "La gran tríada de la tragèdia grega",
       "tags": {
         "civilizations": [
-          "catalans",
-          "grecs"
+          "grecs",
+          "catalans"
         ],
         "locations": [
           "catalunya"
@@ -12948,8 +12948,8 @@
           "antiguitat"
         ],
         "topics": [
-          "cultura",
-          "biografia"
+          "biografia",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -12992,9 +12992,9 @@
           "segle-xx"
         ],
         "topics": [
+          "economia",
           "guerra",
-          "politica",
-          "economia"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -13102,10 +13102,10 @@
           "segle-xx"
         ],
         "topics": [
+          "guerra",
           "politica",
-          "religió",
           "cultura",
-          "guerra"
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -13124,8 +13124,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -13138,16 +13138,16 @@
           "catalans"
         ],
         "locations": [
+          "espanya",
           "africa",
-          "catalunya",
-          "espanya"
+          "catalunya"
         ],
         "topics": [
-          "cultura",
           "guerra",
           "biografia",
           "politica",
-          "esport"
+          "esport",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -13268,14 +13268,14 @@
           "europa"
         ],
         "periods": [
-          "segle-xviii",
           "antiguitat",
-          "edat-moderna"
+          "edat-moderna",
+          "segle-xviii"
         ],
         "topics": [
-          "guerra",
           "politica",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -13314,13 +13314,13 @@
           "catalunya"
         ],
         "periods": [
-          "segle-xviii",
-          "edat-moderna"
+          "edat-moderna",
+          "segle-xviii"
         ],
         "topics": [
+          "guerra",
           "politica",
-          "cultura",
-          "guerra"
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -13339,8 +13339,8 @@
           "segle-xix"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -13359,8 +13359,8 @@
           "segle-xix"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -13379,8 +13379,8 @@
           "segle-xix"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -13422,8 +13422,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "politica"
+          "politica",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -13498,8 +13498,8 @@
       "title": "424 - La guerra dels Trenta Anys",
       "tags": {
         "civilizations": [
-          "romans",
-          "cristians"
+          "cristians",
+          "romans"
         ],
         "locations": [
           "europa"
@@ -13541,8 +13541,8 @@
           "segle-xx"
         ],
         "topics": [
-          "religió",
           "guerra",
+          "religió",
           "cultura"
         ]
       },
@@ -13573,8 +13573,8 @@
       "title": "La història de Cassola",
       "tags": {
         "topics": [
-          "cultura",
-          "guerra"
+          "guerra",
+          "cultura"
         ]
       },
       "confidence": 0.6,
@@ -13655,8 +13655,8 @@
       "title": "La immigració francesa i el matrimoni als s. XVI i XVII",
       "tags": {
         "civilizations": [
-          "catalans",
-          "francs"
+          "francs",
+          "catalans"
         ],
         "locations": [
           "catalunya",
@@ -13690,8 +13690,8 @@
           "catalunya"
         ],
         "topics": [
-          "ciencia",
           "guerra",
+          "ciencia",
           "cultura"
         ]
       },
@@ -13714,10 +13714,10 @@
           "segle-xix"
         ],
         "topics": [
+          "guerra",
           "politica",
           "cultura",
-          "economia",
-          "guerra"
+          "economia"
         ]
       },
       "confidence": 0.9,
@@ -13733,9 +13733,9 @@
           "descobriments"
         ],
         "locations": [
-          "catalunya",
           "europa",
-          "america"
+          "america",
+          "catalunya"
         ],
         "topics": [
           "politica",
@@ -13772,8 +13772,8 @@
           "prehistoria"
         ],
         "topics": [
-          "cultura",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -13783,9 +13783,9 @@
       "title": "La independència d'Algèria",
       "tags": {
         "civilizations": [
+          "francs",
           "ibers",
-          "musulmans",
-          "francs"
+          "musulmans"
         ],
         "events": [
           "guerra-frances"
@@ -13823,8 +13823,8 @@
       "tags": {
         "topics": [
           "societat",
-          "cultura",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -13839,8 +13839,8 @@
           "jueus"
         ],
         "events": [
-          "inquisicio",
-          "expulsio-jueus"
+          "expulsio-jueus",
+          "inquisicio"
         ],
         "locations": [
           "catalunya"
@@ -13849,10 +13849,10 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "guerra",
-          "cultura",
           "arquitectura",
           "politica",
+          "cultura",
+          "guerra",
           "religió"
         ]
       },
@@ -13872,8 +13872,8 @@
           "catalunya"
         ],
         "topics": [
-          "politica",
           "guerra",
+          "politica",
           "cultura"
         ]
       },
@@ -13900,8 +13900,8 @@
           "europa"
         ],
         "periods": [
-          "segle-xx",
-          "antiguitat"
+          "antiguitat",
+          "segle-xx"
         ],
         "topics": [
           "guerra"
@@ -13928,8 +13928,8 @@
           "segle-xx"
         ],
         "topics": [
-          "biografia",
-          "cultura"
+          "cultura",
+          "biografia"
         ]
       },
       "confidence": 0.9,
@@ -13939,8 +13939,8 @@
       "title": "La invasió dels Cent Mil Fills de Sant Lluís",
       "tags": {
         "civilizations": [
-          "francs",
-          "ibers"
+          "ibers",
+          "francs"
         ],
         "events": [
           "guerra-frances"
@@ -13988,8 +13988,8 @@
           "antiguitat"
         ],
         "topics": [
-          "cultura",
-          "guerra"
+          "guerra",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -14006,8 +14006,8 @@
         ],
         "topics": [
           "ciencia",
-          "esport",
-          "cultura"
+          "cultura",
+          "esport"
         ]
       },
       "confidence": 0.9,
@@ -14026,8 +14026,8 @@
           "america"
         ],
         "topics": [
-          "cultura",
-          "ciencia"
+          "ciencia",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -14051,8 +14051,8 @@
           "alta-edat-mitjana"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -14068,8 +14068,8 @@
           "catalunya"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -14108,8 +14108,8 @@
         ],
         "topics": [
           "politica",
-          "economia",
-          "ciencia"
+          "ciencia",
+          "economia"
         ]
       },
       "confidence": 0.9,
@@ -14119,8 +14119,8 @@
       "title": "531 - La Junta Superior (institucions 4)",
       "tags": {
         "civilizations": [
-          "catalans",
-          "francs"
+          "francs",
+          "catalans"
         ],
         "events": [
           "guerra-frances"
@@ -14132,8 +14132,8 @@
           "segle-xix"
         ],
         "topics": [
-          "guerra",
-          "politica"
+          "politica",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -14143,20 +14143,20 @@
       "title": "La justícia a l'alta edat mitjana",
       "tags": {
         "civilizations": [
-          "catalans",
+          "romans",
           "visigots",
-          "romans"
+          "catalans"
         ],
         "locations": [
           "catalunya"
         ],
         "periods": [
-          "antiguitat",
-          "baixa-edat-mitjana"
+          "baixa-edat-mitjana",
+          "antiguitat"
         ],
         "topics": [
-          "societat",
-          "guerra"
+          "guerra",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -14208,12 +14208,12 @@
           "catalans"
         ],
         "locations": [
-          "catalunya",
-          "espanya"
+          "espanya",
+          "catalunya"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -14320,8 +14320,8 @@
       "title": "La massacre de Jedwabne",
       "tags": {
         "civilizations": [
-          "jueus",
-          "cristians"
+          "cristians",
+          "jueus"
         ],
         "events": [
           "expulsio-jueus"
@@ -14344,8 +14344,8 @@
           "catalunya"
         ],
         "topics": [
-          "guerra",
           "ciencia",
+          "guerra",
           "biografia"
         ]
       },
@@ -14369,9 +14369,9 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
           "cultura",
-          "societat"
+          "societat",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -14393,9 +14393,9 @@
           "segle-xviii"
         ],
         "topics": [
+          "guerra",
           "cultura",
-          "ciencia",
-          "guerra"
+          "ciencia"
         ]
       },
       "confidence": 0.9,
@@ -14414,14 +14414,14 @@
           "catalunya"
         ],
         "periods": [
-          "edat-moderna",
-          "segle-xviii"
+          "segle-xviii",
+          "edat-moderna"
         ],
         "topics": [
+          "politica",
           "cultura",
-          "ciencia",
           "guerra",
-          "politica"
+          "ciencia"
         ]
       },
       "confidence": 0.9,
@@ -14457,8 +14457,8 @@
           "america"
         ],
         "periods": [
-          "prehistoria",
-          "segle-xix"
+          "segle-xix",
+          "prehistoria"
         ],
         "topics": [
           "cultura",
@@ -14481,9 +14481,9 @@
           "segle-xix"
         ],
         "topics": [
+          "politica",
           "cultura",
-          "economia",
-          "politica"
+          "economia"
         ]
       },
       "confidence": 0.9,
@@ -14547,8 +14547,8 @@
         ],
         "topics": [
           "biografia",
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -14567,8 +14567,8 @@
           "antiguitat"
         ],
         "topics": [
-          "cultura",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -14604,8 +14604,8 @@
           "segle-xix"
         ],
         "topics": [
-          "politica",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -14659,10 +14659,10 @@
           "contemporani"
         ],
         "topics": [
-          "religió",
-          "cultura",
           "politica",
-          "arquitectura"
+          "arquitectura",
+          "religió",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -14678,8 +14678,8 @@
           "antiguitat"
         ],
         "topics": [
-          "cultura",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -14689,14 +14689,14 @@
       "title": "La pena de mort a la baixa edat mitjana",
       "tags": {
         "civilizations": [
+          "cristians",
           "catalans",
           "ibers",
-          "romans",
-          "cristians"
+          "romans"
         ],
         "locations": [
-          "europa",
-          "catalunya"
+          "catalunya",
+          "europa"
         ],
         "periods": [
           "antiguitat",
@@ -14758,8 +14758,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -14781,8 +14781,8 @@
           "segle-xx"
         ],
         "topics": [
-          "cultura",
           "guerra",
+          "cultura",
           "politica"
         ]
       },
@@ -14799,9 +14799,9 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
+          "biografia",
           "arquitectura",
-          "politica",
-          "biografia"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -14859,12 +14859,12 @@
           "catalunya"
         ],
         "periods": [
-          "segle-xvii",
-          "segle-xviii"
+          "segle-xviii",
+          "segle-xvii"
         ],
         "topics": [
-          "politica",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -14874,16 +14874,16 @@
       "title": "621 - La preparació de l'Holocaust",
       "tags": {
         "civilizations": [
-          "jueus",
-          "grecs"
+          "grecs",
+          "jueus"
         ],
         "periods": [
           "antiguitat"
         ],
         "topics": [
+          "cultura",
           "politica",
-          "religió",
-          "cultura"
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -14927,8 +14927,8 @@
       "title": "La primera edat del ferro a l'Ebre",
       "tags": {
         "civilizations": [
-          "ibers",
-          "fenicis"
+          "fenicis",
+          "ibers"
         ],
         "locations": [
           "catalunya"
@@ -14979,9 +14979,9 @@
           "segle-xix"
         ],
         "topics": [
+          "economia",
           "politica",
-          "cultura",
-          "economia"
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -14994,14 +14994,14 @@
           "ibers"
         ],
         "periods": [
-          "baixa-edat-mitjana",
+          "contemporani",
           "segle-xix",
-          "contemporani"
+          "baixa-edat-mitjana"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -15106,17 +15106,17 @@
           "catalans"
         ],
         "locations": [
+          "catalunya",
           "espanya",
-          "europa",
-          "catalunya"
+          "europa"
         ],
         "periods": [
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "biografia",
+          "arquitectura",
           "politica",
-          "arquitectura"
+          "biografia"
         ]
       },
       "confidence": 0.9,
@@ -15129,16 +15129,16 @@
           "reconquesta"
         ],
         "locations": [
-          "catalunya",
-          "africa"
+          "africa",
+          "catalunya"
         ],
         "periods": [
-          "edat-moderna",
-          "baixa-edat-mitjana"
+          "baixa-edat-mitjana",
+          "edat-moderna"
         ],
         "topics": [
-          "politica",
-          "economia"
+          "economia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -15161,8 +15161,8 @@
           "antiguitat"
         ],
         "topics": [
-          "biografia",
-          "guerra"
+          "guerra",
+          "biografia"
         ]
       },
       "confidence": 0.9,
@@ -15195,8 +15195,8 @@
           "catalunya"
         ],
         "topics": [
-          "cultura",
-          "arquitectura"
+          "arquitectura",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -15307,8 +15307,8 @@
           "segle-xix"
         ],
         "topics": [
-          "guerra",
           "politica",
+          "guerra",
           "societat"
         ]
       },
@@ -15329,8 +15329,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
-          "arquitectura"
+          "arquitectura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -15393,8 +15393,8 @@
       "title": "449 - La revolució Haitiana",
       "tags": {
         "civilizations": [
-          "ibers",
-          "francs"
+          "francs",
+          "ibers"
         ],
         "topics": [
           "guerra",
@@ -15420,8 +15420,8 @@
           "segle-xx"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -15504,9 +15504,9 @@
           "segle-xx"
         ],
         "topics": [
+          "guerra",
           "politica",
-          "cultura",
-          "guerra"
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -15543,8 +15543,8 @@
           "catalunya"
         ],
         "topics": [
-          "guerra",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -15554,8 +15554,8 @@
       "title": "403 - La Rovirada",
       "tags": {
         "civilizations": [
-          "ibers",
-          "francs"
+          "francs",
+          "ibers"
         ],
         "events": [
           "guerra-frances"
@@ -15674,8 +15674,8 @@
         ],
         "topics": [
           "cultura",
-          "societat",
-          "arquitectura"
+          "arquitectura",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -15698,8 +15698,8 @@
       "title": "La segona guerra remença",
       "tags": {
         "civilizations": [
-          "catalans",
-          "ibers"
+          "ibers",
+          "catalans"
         ],
         "locations": [
           "europa",
@@ -15733,8 +15733,8 @@
           "europa"
         ],
         "topics": [
-          "cultura",
-          "religió"
+          "religió",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -15804,8 +15804,8 @@
           "antiguitat"
         ],
         "topics": [
-          "cultura",
-          "guerra"
+          "guerra",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -15818,8 +15818,8 @@
           "catalunya"
         ],
         "topics": [
-          "cultura",
-          "economia"
+          "economia",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -15838,8 +15838,8 @@
           "segle-xx"
         ],
         "topics": [
-          "economia",
-          "cultura"
+          "cultura",
+          "economia"
         ]
       },
       "confidence": 0.9,
@@ -15876,8 +15876,8 @@
           "grecs"
         ],
         "locations": [
-          "asia",
-          "catalunya"
+          "catalunya",
+          "asia"
         ],
         "periods": [
           "antiguitat"
@@ -15890,8 +15890,8 @@
       "title": "La veritable història de \"Carros de foc\"",
       "tags": {
         "topics": [
-          "esport",
-          "cultura"
+          "cultura",
+          "esport"
         ]
       },
       "confidence": 0.6,
@@ -15936,8 +15936,8 @@
           "antiguitat"
         ],
         "topics": [
-          "guerra",
-          "arquitectura"
+          "arquitectura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -15947,8 +15947,8 @@
       "title": "La vida de Clotilde Cerdà",
       "tags": {
         "topics": [
-          "cultura",
-          "biografia"
+          "biografia",
+          "cultura"
         ]
       },
       "confidence": 0.6,
@@ -15967,9 +15967,9 @@
           "segle-xix"
         ],
         "topics": [
-          "economia",
           "biografia",
-          "politica"
+          "politica",
+          "economia"
         ]
       },
       "confidence": 0.9,
@@ -15988,9 +15988,9 @@
           "segle-xix"
         ],
         "topics": [
+          "economia",
           "politica",
-          "biografia",
-          "economia"
+          "biografia"
         ]
       },
       "confidence": 0.9,
@@ -16060,8 +16060,8 @@
           "catalunya"
         ],
         "periods": [
-          "baixa-edat-mitjana",
-          "contemporani"
+          "contemporani",
+          "baixa-edat-mitjana"
         ],
         "topics": [
           "biografia",
@@ -16092,8 +16092,8 @@
           "mediterrani"
         ],
         "topics": [
-          "cultura",
-          "economia"
+          "economia",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -16114,9 +16114,9 @@
           "segle-xix"
         ],
         "topics": [
-          "economia",
+          "ciencia",
           "cultura",
-          "ciencia"
+          "economia"
         ]
       },
       "confidence": 0.9,
@@ -16145,9 +16145,9 @@
           "asia"
         ],
         "topics": [
+          "guerra",
           "biografia",
-          "cultura",
-          "guerra"
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -16170,8 +16170,8 @@
           "contemporani"
         ],
         "topics": [
-          "guerra",
           "politica",
+          "guerra",
           "cultura"
         ]
       },
@@ -16260,9 +16260,9 @@
           "reconquesta"
         ],
         "locations": [
+          "catalunya",
           "mediterrani",
-          "asia",
-          "catalunya"
+          "asia"
         ],
         "periods": [
           "baixa-edat-mitjana"
@@ -16318,8 +16318,8 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
           "politica",
+          "guerra",
           "biografia"
         ]
       },
@@ -16366,10 +16366,10 @@
           "segle-xx"
         ],
         "topics": [
-          "esport",
           "guerra",
+          "politica",
           "cultura",
-          "politica"
+          "esport"
         ]
       },
       "confidence": 0.9,
@@ -16412,9 +16412,9 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "guerra",
           "politica",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -16462,8 +16462,8 @@
           "guerra-civil"
         ],
         "periods": [
-          "segle-xx",
-          "segle-xix"
+          "segle-xix",
+          "segle-xx"
         ],
         "topics": [
           "societat",
@@ -16484,8 +16484,8 @@
         ],
         "topics": [
           "politica",
-          "societat",
-          "economia"
+          "economia",
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -16511,10 +16511,10 @@
           "cristians"
         ],
         "topics": [
-          "politica",
           "religió",
-          "cultura",
-          "societat"
+          "societat",
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -16530,9 +16530,9 @@
           "catalunya"
         ],
         "topics": [
-          "cultura",
+          "guerra",
           "politica",
-          "guerra"
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -16547,8 +16547,8 @@
         ],
         "topics": [
           "politica",
-          "cultura",
-          "economia"
+          "economia",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -16564,9 +16564,9 @@
           "segle-xvii"
         ],
         "topics": [
-          "politica",
+          "cultura",
           "arquitectura",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -16584,8 +16584,8 @@
           "catalunya"
         ],
         "topics": [
-          "guerra",
-          "economia"
+          "economia",
+          "guerra"
         ]
       },
       "confidence": 0.8,
@@ -16600,8 +16600,8 @@
       "title": "602 - Les guerres càntabres",
       "tags": {
         "civilizations": [
-          "romans",
-          "visigots"
+          "visigots",
+          "romans"
         ],
         "periods": [
           "antiguitat"
@@ -16658,9 +16658,9 @@
           "segle-xx"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "biografia",
-          "cultura"
+          "biografia"
         ]
       },
       "confidence": 0.9,
@@ -16758,9 +16758,9 @@
           "segle-xix"
         ],
         "topics": [
+          "cultura",
           "politica",
-          "economia",
-          "cultura"
+          "economia"
         ]
       },
       "confidence": 0.9,
@@ -16779,9 +16779,9 @@
           "segle-xx"
         ],
         "topics": [
+          "guerra",
           "politica",
-          "arquitectura",
-          "guerra"
+          "arquitectura"
         ]
       },
       "confidence": 0.9,
@@ -16847,12 +16847,12 @@
           "guerra-civil"
         ],
         "locations": [
-          "europa",
-          "catalunya"
+          "catalunya",
+          "europa"
         ],
         "periods": [
-          "segle-xx",
-          "contemporani"
+          "contemporani",
+          "segle-xx"
         ],
         "topics": [
           "guerra",
@@ -16869,8 +16869,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
-          "economia"
+          "economia",
+          "politica"
         ]
       },
       "confidence": 0.8,
@@ -16894,8 +16894,8 @@
           "catalunya"
         ],
         "periods": [
-          "segle-xviii",
-          "baixa-edat-mitjana"
+          "baixa-edat-mitjana",
+          "segle-xviii"
         ],
         "topics": [
           "guerra",
@@ -16955,8 +16955,8 @@
       "title": "Les primeres corresponsals de guerra",
       "tags": {
         "topics": [
-          "cultura",
           "guerra",
+          "cultura",
           "societat"
         ]
       },
@@ -16967,16 +16967,16 @@
       "title": "Les primeres havaneres",
       "tags": {
         "civilizations": [
-          "catalans",
-          "romans"
+          "romans",
+          "catalans"
         ],
         "events": [
           "guerra-frances"
         ],
         "locations": [
+          "america",
           "catalunya",
-          "espanya",
-          "america"
+          "espanya"
         ],
         "periods": [
           "antiguitat"
@@ -17048,8 +17048,8 @@
           "catalunya"
         ],
         "periods": [
-          "baixa-edat-mitjana",
-          "segle-xx"
+          "segle-xx",
+          "baixa-edat-mitjana"
         ],
         "topics": [
           "guerra",
@@ -17072,13 +17072,13 @@
           "catalunya"
         ],
         "periods": [
-          "segle-xx",
-          "baixa-edat-mitjana"
+          "baixa-edat-mitjana",
+          "segle-xx"
         ],
         "topics": [
-          "guerra",
+          "cultura",
           "politica",
-          "cultura"
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -17147,9 +17147,9 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
+          "politica",
           "religió",
-          "arquitectura",
-          "politica"
+          "arquitectura"
         ]
       },
       "confidence": 0.9,
@@ -17176,9 +17176,9 @@
           "edat-moderna"
         ],
         "topics": [
+          "guerra",
           "politica",
           "cultura",
-          "guerra",
           "societat"
         ]
       },
@@ -17195,8 +17195,8 @@
           "segle-xix"
         ],
         "topics": [
-          "cultura",
           "guerra",
+          "cultura",
           "biografia"
         ]
       },
@@ -17254,8 +17254,8 @@
           "francs"
         ],
         "topics": [
-          "politica",
           "ciencia",
+          "politica",
           "cultura"
         ]
       },
@@ -17266,8 +17266,8 @@
       "title": "Luci Corneli Sul·la",
       "tags": {
         "civilizations": [
-          "romans",
-          "grecs"
+          "grecs",
+          "romans"
         ],
         "events": [
           "guerra-civil"
@@ -17276,13 +17276,13 @@
           "catalunya"
         ],
         "periods": [
-          "segle-xx",
-          "antiguitat"
+          "antiguitat",
+          "segle-xx"
         ],
         "topics": [
           "guerra",
-          "cultura",
-          "biografia"
+          "biografia",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -17298,8 +17298,8 @@
           "antiguitat"
         ],
         "topics": [
-          "guerra",
-          "biografia"
+          "biografia",
+          "guerra"
         ]
       },
       "confidence": 0.8,
@@ -17336,8 +17336,8 @@
           "segle-xix"
         ],
         "topics": [
-          "cultura",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -17404,16 +17404,16 @@
       "title": "639 - Maig del 68",
       "tags": {
         "civilizations": [
-          "francs",
-          "ibers"
+          "ibers",
+          "francs"
         ],
         "periods": [
           "segle-xix",
           "edat-moderna"
         ],
         "topics": [
-          "economia",
-          "politica"
+          "politica",
+          "economia"
         ]
       },
       "confidence": 0.9,
@@ -17436,13 +17436,13 @@
           "ibers"
         ],
         "periods": [
-          "baixa-edat-mitjana",
-          "edat-moderna"
+          "edat-moderna",
+          "baixa-edat-mitjana"
         ],
         "topics": [
-          "arquitectura",
+          "biografia",
           "cultura",
-          "biografia"
+          "arquitectura"
         ]
       },
       "confidence": 0.9,
@@ -17461,8 +17461,8 @@
           "segle-xx"
         ],
         "topics": [
-          "cultura",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -17504,8 +17504,8 @@
           "alta-edat-mitjana"
         ],
         "topics": [
-          "cultura",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -17515,9 +17515,9 @@
       "title": "488 - Marià Fortuny (artistes 1)",
       "tags": {
         "civilizations": [
+          "romans",
           "catalans",
-          "francs",
-          "romans"
+          "francs"
         ],
         "locations": [
           "catalunya"
@@ -17526,9 +17526,9 @@
           "antiguitat"
         ],
         "topics": [
+          "biografia",
           "cultura",
-          "guerra",
-          "biografia"
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -17567,8 +17567,8 @@
       "title": "Matías Granja, del Pallars a Xile",
       "tags": {
         "topics": [
-          "biografia",
-          "cultura"
+          "cultura",
+          "biografia"
         ]
       },
       "confidence": 0.6,
@@ -17578,9 +17578,9 @@
       "title": "Menjar i vestir a l'Alta Edat Mitjana",
       "tags": {
         "civilizations": [
-          "romans",
           "catalans",
-          "visigots"
+          "visigots",
+          "romans"
         ],
         "locations": [
           "catalunya"
@@ -17625,8 +17625,8 @@
         ],
         "topics": [
           "guerra",
-          "politica",
           "cultura",
+          "politica",
           "societat"
         ]
       },
@@ -17660,9 +17660,9 @@
           "espanya"
         ],
         "topics": [
-          "biografia",
           "guerra",
-          "politica"
+          "politica",
+          "biografia"
         ]
       },
       "confidence": 0.9,
@@ -17678,10 +17678,10 @@
           "descobriments"
         ],
         "locations": [
+          "catalunya",
           "espanya",
           "europa",
-          "america",
-          "catalunya"
+          "america"
         ],
         "topics": [
           "cultura",
@@ -17716,8 +17716,8 @@
           "cristians"
         ],
         "locations": [
-          "europa",
-          "asia"
+          "asia",
+          "europa"
         ],
         "topics": [
           "cultura"
@@ -17736,8 +17736,8 @@
           "guerra-frances"
         ],
         "locations": [
-          "europa",
-          "catalunya"
+          "catalunya",
+          "europa"
         ],
         "periods": [
           "segle-xix"
@@ -17780,8 +17780,8 @@
           "segle-xx"
         ],
         "topics": [
-          "biografia",
-          "cultura"
+          "cultura",
+          "biografia"
         ]
       },
       "confidence": 0.9,
@@ -17853,9 +17853,9 @@
           "segle-xx"
         ],
         "topics": [
-          "guerra",
           "religió",
-          "cultura"
+          "cultura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -17877,9 +17877,9 @@
           "segle-xix"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -17893,8 +17893,8 @@
         ],
         "topics": [
           "arquitectura",
-          "biografia",
-          "economia"
+          "economia",
+          "biografia"
         ]
       },
       "confidence": 0.8,
@@ -17929,8 +17929,8 @@
       "title": "539 - Newton vs. Leibniz",
       "tags": {
         "topics": [
-          "cultura",
-          "ciencia"
+          "ciencia",
+          "cultura"
         ]
       },
       "confidence": 0.6,
@@ -17983,8 +17983,8 @@
           "antiguitat"
         ],
         "topics": [
-          "biografia",
           "politica",
+          "biografia",
           "cultura",
           "ciencia"
         ]
@@ -18004,8 +18004,8 @@
           "guerra-civil"
         ],
         "locations": [
-          "europa",
-          "catalunya"
+          "catalunya",
+          "europa"
         ],
         "periods": [
           "segle-xx"
@@ -18030,12 +18030,12 @@
           "guerra-frances"
         ],
         "locations": [
-          "mediterrani",
-          "africa"
+          "africa",
+          "mediterrani"
         ],
         "periods": [
-          "segle-xx",
-          "segle-xix"
+          "segle-xix",
+          "segle-xx"
         ],
         "topics": [
           "guerra"
@@ -18055,8 +18055,8 @@
         ],
         "topics": [
           "politica",
-          "cultura",
-          "economia"
+          "economia",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -18076,8 +18076,8 @@
         ],
         "topics": [
           "cultura",
-          "economia",
-          "politica"
+          "politica",
+          "economia"
         ]
       },
       "confidence": 0.9,
@@ -18196,13 +18196,13 @@
           "catalunya"
         ],
         "periods": [
-          "baixa-edat-mitjana",
-          "segle-xx"
+          "segle-xx",
+          "baixa-edat-mitjana"
         ],
         "topics": [
-          "guerra",
+          "cultura",
           "arquitectura",
-          "cultura"
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -18212,22 +18212,22 @@
       "title": "Pere Casaldàliga",
       "tags": {
         "civilizations": [
-          "catalans",
           "francs",
-          "ibers"
+          "ibers",
+          "catalans"
         ],
         "events": [
           "descobriments"
         ],
         "locations": [
-          "catalunya",
-          "america"
+          "america",
+          "catalunya"
         ],
         "topics": [
-          "religió",
           "guerra",
-          "cultura",
-          "biografia"
+          "biografia",
+          "religió",
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -18243,9 +18243,9 @@
           "catalunya"
         ],
         "topics": [
+          "biografia",
           "politica",
-          "cultura",
-          "biografia"
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -18258,18 +18258,18 @@
           "reconquesta"
         ],
         "locations": [
-          "mediterrani",
-          "espanya"
+          "espanya",
+          "mediterrani"
         ],
         "periods": [
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "arquitectura",
-          "guerra",
+          "cultura",
           "biografia",
           "politica",
-          "cultura"
+          "arquitectura",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -18285,8 +18285,8 @@
       "tags": {
         "civilizations": [
           "francs",
-          "catalans",
-          "ibers"
+          "ibers",
+          "catalans"
         ],
         "events": [
           "guerra-civil"
@@ -18300,8 +18300,8 @@
         ],
         "topics": [
           "guerra",
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -18326,8 +18326,8 @@
           "segle-xx"
         ],
         "topics": [
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -18359,8 +18359,8 @@
         ],
         "topics": [
           "guerra",
-          "cultura",
-          "biografia"
+          "biografia",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -18373,17 +18373,17 @@
           "reconquesta"
         ],
         "locations": [
-          "catalunya",
           "europa",
-          "mediterrani"
+          "mediterrani",
+          "catalunya"
         ],
         "periods": [
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "politica",
           "cultura",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -18404,9 +18404,9 @@
           "africa"
         ],
         "topics": [
+          "politica",
           "cultura",
-          "economia",
-          "politica"
+          "economia"
         ]
       },
       "confidence": 0.9,
@@ -18440,8 +18440,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "arquitectura",
-          "biografia"
+          "biografia",
+          "arquitectura"
         ]
       },
       "confidence": 0.9,
@@ -18464,12 +18464,12 @@
       "title": "Poema de Gilgamesh",
       "tags": {
         "civilizations": [
-          "catalans",
-          "romans"
+          "romans",
+          "catalans"
         ],
         "locations": [
-          "catalunya",
-          "asia"
+          "asia",
+          "catalunya"
         ],
         "periods": [
           "antiguitat"
@@ -18496,8 +18496,8 @@
           "catalunya"
         ],
         "periods": [
-          "segle-xx",
-          "antiguitat"
+          "antiguitat",
+          "segle-xx"
         ],
         "topics": [
           "biografia",
@@ -18541,8 +18541,8 @@
           "catalunya"
         ],
         "topics": [
-          "biografia",
-          "cultura"
+          "cultura",
+          "biografia"
         ]
       },
       "confidence": 0.8,
@@ -18658,9 +18658,9 @@
       "title": "Retaules de l'edat moderna",
       "tags": {
         "civilizations": [
-          "romans",
+          "catalans",
           "cristians",
-          "catalans"
+          "romans"
         ],
         "locations": [
           "catalunya"
@@ -18716,8 +18716,8 @@
           "segle-xx"
         ],
         "topics": [
-          "cultura",
-          "guerra"
+          "guerra",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -18727,9 +18727,9 @@
       "title": "397 - Richard Strauss",
       "tags": {
         "topics": [
-          "biografia",
+          "cultura",
           "politica",
-          "cultura"
+          "biografia"
         ]
       },
       "confidence": 0.8,
@@ -18742,8 +18742,8 @@
           "catalunya"
         ],
         "topics": [
-          "cultura",
-          "biografia"
+          "biografia",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -18795,8 +18795,8 @@
           "descobriments"
         ],
         "locations": [
-          "america",
-          "asia"
+          "asia",
+          "america"
         ],
         "periods": [
           "segle-xix"
@@ -18871,9 +18871,9 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "religió",
           "cultura",
-          "arquitectura"
+          "arquitectura",
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -18896,8 +18896,8 @@
           "baixa-edat-mitjana"
         ],
         "topics": [
-          "arquitectura",
-          "politica"
+          "politica",
+          "arquitectura"
         ]
       },
       "confidence": 0.9,
@@ -18927,12 +18927,12 @@
           "cristians"
         ],
         "periods": [
-          "antiguitat",
-          "baixa-edat-mitjana"
+          "baixa-edat-mitjana",
+          "antiguitat"
         ],
         "topics": [
-          "arquitectura",
           "politica",
+          "arquitectura",
           "religió"
         ]
       },
@@ -18943,8 +18943,8 @@
       "title": "677 - Sarraïns a Catalunya",
       "tags": {
         "civilizations": [
-          "musulmans",
-          "catalans"
+          "catalans",
+          "musulmans"
         ],
         "locations": [
           "catalunya"
@@ -18979,9 +18979,9 @@
           "contemporani"
         ],
         "topics": [
+          "politica",
           "cultura",
-          "biografia",
-          "politica"
+          "biografia"
         ]
       },
       "confidence": 0.9,
@@ -18991,9 +18991,9 @@
       "title": "373 - Sertori, cabdill dels hispans",
       "tags": {
         "civilizations": [
+          "ibers",
           "romans",
-          "visigots",
-          "ibers"
+          "visigots"
         ],
         "events": [
           "guerra-civil"
@@ -19003,8 +19003,8 @@
           "segle-xx"
         ],
         "topics": [
-          "biografia",
-          "cultura"
+          "cultura",
+          "biografia"
         ]
       },
       "confidence": 0.9,
@@ -19070,16 +19070,16 @@
       "title": "368 - Simón Bolívar, \"El Libertador\"",
       "tags": {
         "civilizations": [
-          "ibers",
-          "francs"
+          "francs",
+          "ibers"
         ],
         "events": [
-          "descobriments",
-          "guerra-frances"
+          "guerra-frances",
+          "descobriments"
         ],
         "locations": [
-          "espanya",
-          "america"
+          "america",
+          "espanya"
         ],
         "topics": [
           "biografia"
@@ -19095,10 +19095,10 @@
           "catalans"
         ],
         "locations": [
-          "america",
-          "asia",
           "catalunya",
-          "espanya"
+          "espanya",
+          "america",
+          "asia"
         ],
         "topics": [
           "politica",
@@ -19117,13 +19117,13 @@
       "title": "Solimà el Magnífic",
       "tags": {
         "locations": [
-          "mediterrani",
-          "europa"
+          "europa",
+          "mediterrani"
         ],
         "topics": [
           "societat",
-          "politica",
-          "cultura"
+          "cultura",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -19199,13 +19199,13 @@
         ],
         "periods": [
           "edat-moderna",
-          "segle-xvii",
           "segle-xviii",
+          "segle-xvii",
           "segle-xix"
         ],
         "topics": [
-          "guerra",
-          "politica"
+          "politica",
+          "guerra"
         ]
       },
       "confidence": 0.9,
@@ -19237,9 +19237,9 @@
           "segle-xviii"
         ],
         "topics": [
+          "guerra",
           "politica",
-          "cultura",
-          "guerra"
+          "cultura"
         ]
       },
       "confidence": 0.9,
@@ -19272,8 +19272,8 @@
           "antiguitat"
         ],
         "topics": [
-          "biografia",
-          "guerra"
+          "guerra",
+          "biografia"
         ]
       },
       "confidence": 0.9,
@@ -19286,8 +19286,8 @@
           "catalunya"
         ],
         "topics": [
-          "societat",
           "cultura",
+          "societat",
           "biografia"
         ]
       },
@@ -19342,10 +19342,10 @@
           "descobriments"
         ],
         "locations": [
-          "america",
-          "africa",
           "catalunya",
-          "espanya"
+          "espanya",
+          "america",
+          "africa"
         ],
         "topics": [
           "economia",
@@ -19364,8 +19364,8 @@
         ],
         "topics": [
           "biografia",
-          "cultura",
           "politica",
+          "cultura",
           "societat"
         ]
       },
@@ -19382,8 +19382,8 @@
           "antiguitat"
         ],
         "topics": [
-          "cultura",
-          "politica"
+          "politica",
+          "cultura"
         ]
       },
       "confidence": 0.8,
@@ -19413,9 +19413,9 @@
           "segle-xx"
         ],
         "topics": [
+          "cultura",
           "guerra",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -19428,9 +19428,9 @@
           "catalans"
         ],
         "locations": [
-          "africa",
           "catalunya",
-          "espanya"
+          "espanya",
+          "africa"
         ],
         "periods": [
           "edat-moderna"
@@ -19453,8 +19453,8 @@
           "catalunya"
         ],
         "topics": [
-          "politica",
           "guerra",
+          "politica",
           "societat"
         ]
       },
@@ -19474,9 +19474,9 @@
           "europa"
         ],
         "topics": [
+          "cultura",
           "politica",
-          "religió",
-          "cultura"
+          "religió"
         ]
       },
       "confidence": 0.9,
@@ -19486,8 +19486,8 @@
       "title": "Valentí Almirall, periodista",
       "tags": {
         "topics": [
-          "politica",
-          "guerra"
+          "guerra",
+          "politica"
         ]
       },
       "confidence": 0.6,
@@ -19506,9 +19506,9 @@
           "segle-xx"
         ],
         "topics": [
+          "guerra",
           "cultura",
-          "societat",
-          "guerra"
+          "societat"
         ]
       },
       "confidence": 0.9,
@@ -19558,17 +19558,17 @@
           "francs"
         ],
         "events": [
-          "reconquesta",
-          "guerra-civil"
+          "guerra-civil",
+          "reconquesta"
         ],
         "periods": [
           "segle-xx"
         ],
         "topics": [
+          "cultura",
           "guerra",
           "biografia",
-          "politica",
-          "cultura"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -19590,9 +19590,9 @@
           "antiguitat"
         ],
         "topics": [
+          "societat",
           "biografia",
-          "politica",
-          "societat"
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -19623,8 +19623,8 @@
         ],
         "topics": [
           "biografia",
-          "societat",
           "cultura",
+          "societat",
           "arquitectura"
         ]
       },
@@ -19645,8 +19645,8 @@
           "antiguitat"
         ],
         "topics": [
-          "politica",
-          "biografia"
+          "biografia",
+          "politica"
         ]
       },
       "confidence": 0.9,
@@ -19673,13 +19673,13 @@
           "espanya"
         ],
         "periods": [
-          "segle-xx",
-          "segle-xix"
+          "segle-xix",
+          "segle-xx"
         ],
         "topics": [
           "politica",
-          "cultura",
-          "economia"
+          "economia",
+          "cultura"
         ]
       },
       "confidence": 0.9,

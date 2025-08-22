@@ -4,12 +4,15 @@ import type { WebappData, Episode, Stats, Config } from '@/types/episode'
 // Vite will inline the JSON files during the build process
 export async function loadWebappData(): Promise<WebappData> {
   try {
+    // Get the base URL from Vite's environment (respects --base flag)
+    const baseUrl = import.meta.env.BASE_URL
+    
     // In development, load from the data directory
     // In production, these will be inlined by Vite
     const [episodesResponse, statsResponse, configResponse] = await Promise.all([
-      fetch('/data/episodes-list.json'),
-      fetch('/data/stats.json'),
-      fetch('/data/config.json'),
+      fetch(`${baseUrl}data/episodes-list.json`),
+      fetch(`${baseUrl}data/stats.json`),
+      fetch(`${baseUrl}data/config.json`),
     ])
 
     if (!episodesResponse.ok || !statsResponse.ok || !configResponse.ok) {
