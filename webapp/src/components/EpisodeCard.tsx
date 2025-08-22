@@ -12,7 +12,7 @@ import {
   Image,
   Tooltip,
 } from '@chakra-ui/react'
-import { FaPlay, FaCalendarAlt, FaClock, FaHeart, FaShare, FaCheck } from 'react-icons/fa'
+import { FaPlay, FaCalendarAlt, FaClock, FaHeart, FaCheck } from 'react-icons/fa'
 import { motion } from 'framer-motion'
 import { memo } from 'react'
 import type { Episode } from '@/types/episode'

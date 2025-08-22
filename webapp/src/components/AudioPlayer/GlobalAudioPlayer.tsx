@@ -8,11 +8,10 @@ import {
   SliderTrack,
   SliderFilledTrack,
   SliderThumb,
-  useColorModeValue,
   Avatar,
   Progress,
 } from '@chakra-ui/react'
-import { FaPlay, FaPause, FaVolumeUp, FaVolumeDown, FaVolumeMute, FaExpand, FaHeart } from 'react-icons/fa'
+import { FaPlay, FaPause, FaVolumeUp, FaVolumeDown, FaVolumeMute, FaHeart } from 'react-icons/fa'
 import { motion, AnimatePresence } from 'framer-motion'
 import { useAudioPlayer } from '@/contexts/AudioPlayerContext'
 import { formatDuration } from '@/utils/dataLoader'
@@ -30,8 +29,6 @@ export function GlobalAudioPlayer() {
     setVolume,
   } = useAudioPlayer()
 
-  const bg = useColorModeValue('white', 'gray.800')
-  const borderColor = useColorModeValue('gray.200', 'gray.700')
 
   if (!currentEpisode) {
     return null

@@ -1,6 +1,5 @@
 import {
   Box,
-  Heading,
   Text,
   SimpleGrid,
   Badge,
@@ -31,7 +30,7 @@ import {
   useBreakpointValue,
 } from '@chakra-ui/react'
 import { SearchIcon, ChevronLeftIcon, ChevronRightIcon } from '@chakra-ui/icons'
-import { FaPlay, FaCalendarAlt, FaClock, FaHeart, FaShare, FaFilter, FaTags, FaTimes, FaCheck, FaEyeSlash } from 'react-icons/fa'
+import { FaFilter, FaTags, FaTimes, FaCheck, FaEyeSlash, FaHeart } from 'react-icons/fa'
 import { motion } from 'framer-motion'
 import { useState, useMemo, useCallback, useEffect } from 'react'
 import { useEpisodes } from '@/contexts/EpisodesContext'
@@ -566,7 +565,7 @@ export function HomePage() {
               </HStack>
               
               <Accordion allowMultiple defaultIndex={[0, 1]}>
-                {tagGroups.map((group, index) => (
+                {tagGroups.map((group) => (
                   <AccordionItem key={group.name} border="1px" borderColor={accordionBorder} borderRadius="md" mb={2}>
                     <AccordionButton _expanded={{ bg: `${group.color}.50` }}>
                       <Box flex="1" textAlign="left">

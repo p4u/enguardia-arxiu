@@ -13,8 +13,8 @@
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
-    "@chakra-ui/react": "^2.8.2",
     "@chakra-ui/icons": "^2.1.1",
+    "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
     "framer-motion": "^11.3.30",
@@ -37,7 +37,9 @@
     "terser": "^5.36.0",
     "typescript": "^5.5.4",
     "vite": "^5.4.2",
-    "vite-tsconfig-paths": "^4.3.2"
+    "vite-plugin-pwa": "^1.0.3",
+    "vite-tsconfig-paths": "^4.3.2",
+    "workbox-window": "^7.3.0"
   },
   "engines": {
     "npm": "use pnpm instead",

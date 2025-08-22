@@ -3,6 +3,8 @@ import { ReactNode } from 'react'
 import { Header } from './Header'
 import { Footer } from './Footer'
 import { GlobalAudioPlayer } from '../AudioPlayer/GlobalAudioPlayer'
+import { OfflineIndicator } from '../OfflineIndicator'
+import { PWAInstallPrompt } from '../PWAInstallPrompt'
 
 interface LayoutProps {
   children: ReactNode
@@ -11,6 +13,9 @@ interface LayoutProps {
 export function Layout({ children }: LayoutProps) {
   return (
     <Box minH="100vh" bg="gray.50">
+      {/* Offline indicator */}
+      <OfflineIndicator />
+      
       <VStack spacing={0} minH="100vh">
         <Header />
         
@@ -25,6 +30,9 @@ export function Layout({ children }: LayoutProps) {
         {/* Global audio player - always visible at bottom */}
         <GlobalAudioPlayer />
       </VStack>
+      
+      {/* PWA install prompt */}
+      <PWAInstallPrompt />
     </Box>
   )
 }

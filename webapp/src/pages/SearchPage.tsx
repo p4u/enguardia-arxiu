@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from 'react';
+import { useState, useMemo } from 'react';
 import {
   Box,
   Container,
@@ -35,7 +35,6 @@ import { useEpisodes } from '../contexts/EpisodesContext';
 import { useAudioPlayer } from '../contexts/AudioPlayerContext';
 import { EpisodeCard } from '../components/EpisodeCard';
 import { useDebounce } from '../hooks/useDebounce';
-import type { Episode } from '../types/episode';
 
 interface TagGroup {
   name: string;
@@ -58,7 +57,6 @@ export function SearchPage() {
   
   // Responsive values
   const isMobile = useBreakpointValue({ base: true, md: false });
-  const tagSize = useBreakpointValue({ base: 'md', md: 'sm' });
   
   // Debounced search term
   const debouncedSearchTerm = useDebounce(searchTerm, 300);
@@ -339,7 +337,7 @@ export function SearchPage() {
                 </HStack>
                 
                 <Accordion allowMultiple defaultIndex={[0]}>
-                  {tagGroups.map((group, index) => (
+                  {tagGroups.map((group) => (
                     <AccordionItem key={group.name} border="1px" borderColor="gray.200" borderRadius="md" mb={2}>
                       <AccordionButton _expanded={{ bg: `${group.color}.50` }}>
                         <Box flex="1" textAlign="left">
