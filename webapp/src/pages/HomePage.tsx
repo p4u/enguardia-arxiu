@@ -47,8 +47,17 @@ interface TagGroup {
 }
 
 export function HomePage() {
-  const { episodes, isLoading, error } = useEpisodes()
+  const episodesContext = useEpisodes()
+  const { episodes, isLoading, error } = episodesContext
   const { play, currentEpisode, isPlaying } = useAudioPlayer()
+  
+  console.log('HomePage: Full useEpisodes context:', episodesContext)
+  console.log('HomePage: Rendering with:', {
+    episodesCount: episodes.length,
+    isLoading,
+    error,
+    hasEpisodes: episodes.length > 0
+  })
   
   // Search and filter state
   const [searchQuery, setSearchQuery] = useState('')
@@ -181,10 +190,24 @@ export function HomePage() {
 
   // Pagination logic
   const { paginatedEpisodes, totalPages, startIndex, endIndex } = useMemo(() => {
+    console.log('HomePage: Computing pagination with:', {
+      filteredEpisodesCount: filteredEpisodes.length,
+      currentPage,
+      episodesPerPage
+    })
+    
     const start = (currentPage - 1) * episodesPerPage
     const end = start + episodesPerPage
     const paginated = filteredEpisodes.slice(start, end)
     const total = Math.ceil(filteredEpisodes.length / episodesPerPage)
+    
+    console.log('HomePage: Pagination result:', {
+      paginatedCount: paginated.length,
+      totalPages: total,
+      startIndex: start + 1,
+      endIndex: Math.min(end, filteredEpisodes.length),
+      first3Titles: paginated.slice(0, 3).map(e => e.title)
+    })
     
     return {
       paginatedEpisodes: paginated,
@@ -501,16 +524,31 @@ export function HomePage() {
 
       {/* Episodes Grid */}
       <SimpleGrid columns={{ base: 1, md: 2, lg: 3 }} spacing={6}>
-        {paginatedEpisodes.map((episode, index) => (
-          <EpisodeCard
-            key={episode.id}
-            episode={episode}
-            index={index}
-            onPlay={handlePlayEpisode}
-            isCurrentlyPlaying={currentEpisode?.id === episode.id && isPlaying}
-            isLoading={currentEpisode?.id === episode.id && isPlaying}
-          />
-        ))}
+        {(() => {
+          console.log('HomePage: Rendering episodes grid with:', {
+            paginatedEpisodesCount: paginatedEpisodes.length,
+            episodes: paginatedEpisodes.map(e => ({ id: e.id, title: e.title }))
+          })
+          
+          return paginatedEpisodes.map((episode, index) => {
+            console.log(`HomePage: Rendering episode ${index + 1}:`, {
+              id: episode.id,
+              title: episode.title,
+              available: episode.available
+            })
+            
+            return (
+              <EpisodeCard
+                key={episode.id}
+                episode={episode}
+                index={index}
+                onPlay={handlePlayEpisode}
+                isCurrentlyPlaying={currentEpisode?.id === episode.id && isPlaying}
+                isLoading={currentEpisode?.id === episode.id && isPlaying}
+              />
+            )
+          })
+        })()}
       </SimpleGrid>
 
       {/* Pagination */}

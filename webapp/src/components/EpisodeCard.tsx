@@ -32,6 +32,14 @@ export const EpisodeCard = memo(function EpisodeCard({
   isCurrentlyPlaying,
   isLoading,
 }: EpisodeCardProps) {
+  console.log('EpisodeCard: Rendering card for:', {
+    episodeId: episode.id,
+    title: episode.title,
+    index,
+    hasImage: !!episode.image,
+    available: episode.available
+  })
+  
   return (
     <motion.div
       initial={{ opacity: 0, y: 20 }}

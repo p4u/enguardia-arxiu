@@ -85,44 +85,62 @@ export function EpisodesProvider({ children }: EpisodesProviderProps) {
     try {
       setIsLoading(true)
       setError(null)
+      console.log('EpisodesContext: Starting to load data...')
       const data = await loadWebappData()
+      console.log('EpisodesContext: Data loaded, setting webappData:', {
+        episodesCount: data.episodes.length,
+        firstEpisode: data.episodes[0]?.title,
+        statsTotal: data.stats.totalEpisodes
+      })
       setWebappData(data)
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Failed to load data')
-      console.error('Failed to load webapp data:', err)
+      console.error('EpisodesContext: Failed to load webapp data:', err)
     } finally {
       setIsLoading(false)
+      console.log('EpisodesContext: Loading finished, isLoading set to false')
     }
   }
 
   // Apply filters and search
   const filteredEpisodes = (() => {
+    console.log('EpisodesContext: Computing filteredEpisodes with:', {
+      rawEpisodesCount: webappData.episodes.length,
+      searchFilters,
+      sortBy
+    })
+    
     let result = webappData.episodes
 
     // Apply search
     if (searchFilters.query) {
       result = searchEpisodes(result, searchFilters.query)
+      console.log('EpisodesContext: After search filter:', result.length)
     }
 
     // Apply category filter
     if (searchFilters.category) {
       result = filterEpisodesByCategory(result, searchFilters.category)
+      console.log('EpisodesContext: After category filter:', result.length)
     }
 
     // Apply available only filter
     if (searchFilters.availableOnly) {
       result = result.filter(episode => episode.available)
+      console.log('EpisodesContext: After available filter:', result.length)
     }
 
     // Apply date filters
     if (searchFilters.dateFrom) {
       const fromDate = new Date(searchFilters.dateFrom)
       result = result.filter(episode => new Date(episode.parsedDate) >= fromDate)
+      console.log('EpisodesContext: After dateFrom filter:', result.length)
     }
 
     if (searchFilters.dateTo) {
       const toDate = new Date(searchFilters.dateTo)
       result = result.filter(episode => new Date(episode.parsedDate) <= toDate)
+      console.log('EpisodesContext: After dateTo filter:', result.length)
     }
 
     // Apply tag filters
@@ -130,10 +148,16 @@ export function EpisodesProvider({ children }: EpisodesProviderProps) {
       result = result.filter(episode =>
         episode.tags?.some(tag => searchFilters.tags!.includes(tag))
       )
+      console.log('EpisodesContext: After tag filter:', result.length)
     }
 
     // Apply sorting
     result = sortEpisodes(result, sortBy)
+    
+    console.log('EpisodesContext: Final filteredEpisodes:', {
+      count: result.length,
+      first5Titles: result.slice(0, 5).map(e => e.title)
+    })
 
     return result
   })()
