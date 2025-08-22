@@ -79,7 +79,7 @@ jobs:
 
       - name: Build webapp for GitHub Pages
         working-directory: webapp
-        run: pnpm build --base=/enguardia-web/
+        run: pnpm build
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
