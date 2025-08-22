@@ -11,9 +11,24 @@ The GitHub Pages deployment creates a fully static website that:
 - ✅ **SPA Routing**: Proper client-side routing support
 - ✅ **No Runtime Dependencies**: Everything is static
 
-## Quick Start
+## Quick Start (Recommended: GitHub Actions)
 
-### 1. Build for GitHub Pages
+### Option 1: Automated GitHub Actions Deployment (Recommended)
+
+Simply push to the `main` branch and GitHub Actions will automatically:
+- Scrape episodes (lazy mode - no MP3 downloads)
+- Generate tags database
+- Generate webapp data with remote MP3 URLs + local images
+- Build optimized Vite production bundle
+- Deploy directly to GitHub Pages
+
+**Setup:**
+1. Ensure your repository has GitHub Actions enabled
+2. The workflow file `.github/workflows/deploy.yml` is already configured
+3. Go to your repository Settings > Pages > Source and select "GitHub Actions"
+4. Push any changes to `main` branch to trigger automatic deployment
+
+### Option 2: Manual Build and Deploy
 
 ```bash
 make gh-pages-build
@@ -27,7 +42,7 @@ This single command will:
 - Copy all assets to `gh-pages-web/` directory
 - Add GitHub Pages specific files (`.nojekyll`, `404.html`)
 
-### 2. Deploy to GitHub Pages
+Then deploy manually:
 
 ```bash
 cd gh-pages-web

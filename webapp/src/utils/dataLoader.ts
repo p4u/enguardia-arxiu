@@ -25,6 +25,13 @@ export async function loadWebappData(): Promise<WebappData> {
       configResponse.json() as Promise<Config>,
     ])
 
+    console.log('Data loaded successfully:', {
+      episodesCount: episodes.length,
+      baseUrl,
+      statsTotal: stats.totalEpisodes,
+      configTitle: config.title
+    })
+
     return {
       episodes,
       stats,

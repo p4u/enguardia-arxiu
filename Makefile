@@ -91,6 +91,7 @@ clean:
 		cd $(WEBAPP_DIR) && rm -rf dist node_modules public/data; \
 	fi
 	rm -rf $(WEBAPP_DATA_DIR)
+	rm -rf $(GHPAGES_DIR)
 
 clean-all: clean
 	@echo "Deep cleaning all generated files..."
