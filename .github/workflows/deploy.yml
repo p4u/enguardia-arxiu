@@ -58,28 +58,8 @@ jobs:
         working-directory: webapp
         run: pnpm install --no-frozen-lockfile
 
-      - name: Scrape episodes data (lazy mode)
-        run: make scrape-lazy
-
-      - name: Generate tags database
-        run: make generate-tags
-
-      - name: Generate webapp data for GitHub Pages
-        run: make generate-data-ghpages
-
-      - name: Copy data files to webapp public directory
-        run: |
-          mkdir -p webapp/public/data
-          cp -r data/* webapp/public/data/
-
-      - name: Copy local images to webapp public directory
-        run: |
-          mkdir -p webapp/public/images
-          find capitols \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -o -name "*.webp" \) -type f -print0 | xargs -0 -I{} cp "{}" webapp/public/images/
-
-      - name: Build webapp for GitHub Pages
-        working-directory: webapp
-        run: pnpm build
+      - name: Build GitHub Pages site using Makefile
+        run: make gh-pages-build
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -87,7 +67,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: webapp/dist
+          path: gh-pages-web
 
   deploy:
     environment:
