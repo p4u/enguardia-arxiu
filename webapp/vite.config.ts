@@ -26,17 +26,17 @@ export default defineConfig(({ command, mode }) => {
           categories: ['education', 'news'],
           icons: [
             {
-              src: 'pwa-192x192.png',
+              src: './pwa-192x192.png',
               sizes: '192x192',
               type: 'image/png'
             },
             {
-              src: 'pwa-512x512.png',
+              src: './pwa-512x512.png',
               sizes: '512x512',
               type: 'image/png'
             },
             {
-              src: 'pwa-512x512.png',
+              src: './pwa-512x512.png',
               sizes: '512x512',
               type: 'image/png',
               purpose: 'any maskable'
@@ -45,7 +45,7 @@ export default defineConfig(({ command, mode }) => {
         },
         workbox: {
           globPatterns: ['**/*.{js,css,html,ico,png,svg,json,mp3}'],
-          navigateFallback: '/offline.html',
+          navigateFallback: './offline.html',
           navigateFallbackDenylist: [/^\/_/, /\/[^/?]+\.[^/]+$/],
           maximumFileSizeToCacheInBytes: 5 * 1024 * 1024, // 5MB
         runtimeCaching: [

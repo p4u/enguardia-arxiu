@@ -6,7 +6,6 @@ WEBAPP_DIR := webapp
 DATA_DIR := capitols
 WEBAPP_DATA_DIR := data
 GHPAGES_DIR := gh-pages-web
-GHPAGES_URL_PATH := "/enguardia-arxiu/"
 
 .PHONY: help scrape scrape-lazy generate-data generate-data-ghpages build-webapp build-webapp-ghpages
 .PHONY: dev-webapp build-all gh-pages-build generate-tags clean clean-all
@@ -129,7 +128,7 @@ build-webapp-ghpages:
 			fi; \
 		done; \
 	fi
-	cd $(WEBAPP_DIR) && pnpm install && pnpm build --base=$(GHPAGES_URL_PATH)
+	cd $(WEBAPP_DIR) && pnpm install && pnpm build --base="/enguardia-arxiu/"
 	@echo "GitHub Pages webapp built in $(WEBAPP_DIR)/dist/"
 
 gh-pages-build: scrape-lazy generate-tags generate-data-ghpages build-webapp-ghpages
