@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react';
+import { useMemo } from 'react';
 import {
   Box,
   Container,
@@ -36,6 +36,7 @@ import { useEpisodes } from '../contexts/EpisodesContext';
 import { useAudioPlayer } from '../contexts/AudioPlayerContext';
 import { EpisodeCard } from '../components/EpisodeCard';
 import { useDebounce } from '../hooks/useDebounce';
+import { usePersistedSearchFilters } from '../hooks/usePersistedSearchFilters';
 
 interface TagGroup {
   name: string;
@@ -47,11 +48,18 @@ export function SearchPage() {
   const { episodes, isLoading, error } = useEpisodes();
   const { currentEpisode, play, isBuffering } = useAudioPlayer();
   
-  // Search and filter state
-  const [searchTerm, setSearchTerm] = useState('');
-  const [selectedTags, setSelectedTags] = useState<string[]>([]);
-  const [sortBy, setSortBy] = useState<'date' | 'title' | 'duration'>('date');
-  const [sortOrder, setSortOrder] = useState<'asc' | 'desc'>('desc');
+  // Search and filter state with localStorage persistence
+  const {
+    searchTerm,
+    selectedTags,
+    sortBy,
+    sortOrder,
+    setSearchTerm,
+    setSortBy,
+    setSortOrder,
+    toggleTag,
+    clearFilters,
+  } = usePersistedSearchFilters();
   
   // UI state
   const { isOpen: isFiltersOpen, onToggle: onToggleFilters } = useDisclosure();
@@ -201,17 +209,7 @@ export function SearchPage() {
   
   // Handle tag selection
   const handleTagToggle = (tag: string) => {
-    setSelectedTags(prev => 
-      prev.includes(tag) 
-        ? prev.filter(t => t !== tag)
-        : [...prev, tag]
-    );
-  };
-  
-  // Clear all filters
-  const clearFilters = () => {
-    setSearchTerm('');
-    setSelectedTags([]);
+    toggleTag(tag);
   };
   
   if (isLoading) {
